@@ -1,0 +1,28 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 1031898.3614083466,
+  "ann_return": 0.007004185084770409,
+  "ann_vol": 0.0409860643471966,
+  "sharpe": 0.1708918676708584,
+  "max_drawdown": -0.07288942852758518,
+  "sortino": 0.0788517450280376,
+  "calmar": 0.09609329125306092,
+  "max_drawdown_duration_bars": 13687,
+  "avg_drawdown_duration_bars": 332.19718309859155,
+  "current_drawdown_duration_bars": 6326,
+  "recovery_time_bars": 13687,
+  "trades": 1256,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14,
+  "data_report": "data/outputs/stats/data_reports/data_GBPUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json",
+  "data_validation": {
+    "severity": "warn",
+    "messages": [
+      "Non-zero timestamp gaps detected (ratio=0.0085).",
+      "Columns contain nulls (max ratio=0.0026).",
+      "Detected numeric outliers (threshold z>5.0)."
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+name: Diagnostics Charts
+
+on:
+  push:
+    paths:
+      - 'QuantResearch/scripts/plot_backtest_diagnostics.py'
+      - 'QuantResearch/tests/**'
+      - 'QuantResearch/config/stress_scenarios.yaml'
+      - '.github/workflows/diagnostics.yml'
+  pull_request:        # ✅ 加上 PR 触发
+    paths:
+      - 'QuantResearch/**'
+      - '.github/workflows/diagnostics.yml'
+  schedule:
+    - cron: '0 3 * * *'
+
+permissions:          # ✅ 允许评论 PR
+  contents: read
+  pull-requests: write
+
+jobs:
+  diagnostics:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: QuantResearch
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install matplotlib pandas numpy loguru streamlit
+
+      - name: Run diagnostics CLI
+        run: ./scripts/run_ci_diagnostics.sh
+
+      - name: Plot risk metrics
+        run: |
+          mkdir -p charts/ci
+          python scripts/plot_risk_metrics.py --csv results/risk/metrics.csv --out charts/ci/risk_metrics.png
+          echo "![Risk metrics](charts/ci/risk_metrics.png)" >> $GITHUB_STEP_SUMMARY
+      - name: Watch risk metrics
+        run: python scripts/watch_risk_metrics.py --csv results/risk/metrics.csv --allow-rejects 0 --allow-status pass
+      - name: Slack risk alert
+        if: ${{ env.SLACK_RISK_WEBHOOK != '' }}
+        env:
+          SLACK_RISK_WEBHOOK: ${{ secrets.SLACK_RISK_WEBHOOK }}
+        run: |
+          cd QuantResearch
+          SLACK_RISK_WEBHOOK="$SLACK_RISK_WEBHOOK" ./scripts/notify_risk_metrics.sh || true
+
+      - name: Push risk metrics to Prometheus
+        if: ${{ always() && secrets.PUSHGATEWAY_URL != '' }}
+        env:
+          PUSHGATEWAY_URL: ${{ secrets.PUSHGATEWAY_URL }}
+        run: |
+          python scripts/export_metrics_prom.py --csv results/risk/metrics.csv --job risk_sim \
+            | curl --fail --data-binary @- "$PUSHGATEWAY_URL/metrics/job/risk_sim"
+
+      - name: Upload charts
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostics-charts
+          path: charts/ci/
+
+      # ✅ 用 github-script 给 PR 评论一个 artifacts 页面链接
+      - name: Comment dashboard link on PR
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const url = `${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts`;
+            const body = `Diagnostics charts: ${url}`;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body
+            });

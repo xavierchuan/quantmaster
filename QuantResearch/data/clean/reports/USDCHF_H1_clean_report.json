@@ -1,0 +1,11 @@
+{
+  "symbol": "USDCHF",
+  "total_rows_raw": 31090,
+  "clean_rows": 30930,
+  "removed_weekend": 169,
+  "filled_short_gaps": 9,
+  "segments": 264,
+  "price_outliers": 51,
+  "volume_outliers": 0,
+  "feature_columns": []
+}

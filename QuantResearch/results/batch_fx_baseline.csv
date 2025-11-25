@@ -1,0 +1,6 @@
+symbol,ann_return,sharpe,max_drawdown,trades,run_id,summary_path
+GBPUSD,0.02500619088037137,1.5431410793337397,-0.013606508492127092,100,20251118_222419,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/20251118_222419/summary.json
+EURUSD,0.02594490964442886,1.3082210901118405,-0.027872271691166576,298,20251118_222429,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/20251118_222429/summary.json
+USDCHF,0.023757363020173505,1.312742388367453,-0.05195821042415654,470,20251118_222438,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/20251118_222438/summary.json
+AUDUSD,0.018413866702562842,1.4215695970997313,-0.01478269312737859,84,20251118_222446,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/20251118_222446/summary.json
+GBPJPY,0.09341939020451462,1.1503802274104928,-0.10125578209735818,26,20251118_222455,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/20251118_222455/summary.json

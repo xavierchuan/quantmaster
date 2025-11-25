@@ -1,0 +1,53 @@
+{
+  "run_id": "20251119_161222",
+  "timestamp": "2025-11-19T16:12:23.049006+00:00",
+  "symbol": "AUDUSD",
+  "csv_path": "results/walkforward_fx_top6/walkforward_audusd_h1_xgb_baseline_20251119_161220/walkforward/window_004_test.csv",
+  "parameters": {
+    "fast_win": 20,
+    "slow_win": 80,
+    "spread_pips": 1.5,
+    "commission_per_million": 0.25,
+    "slippage_pips": 0.2,
+    "stop_loss_pips": 50,
+    "take_profit_pips": null,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14,
+    "rsi_period": 14,
+    "regime_ema_window": 200,
+    "skip_outlier_entries": false,
+    "strategy_mode": "first_hit",
+    "strategy_vote_threshold": 0.0,
+    "stress_cost_spread_mult": 1.0,
+    "stress_cost_comm_mult": 1.0,
+    "stress_slippage_mult": 1.0,
+    "stress_price_vol_mult": 1.0,
+    "stress_skip_trade_pct": 0.0
+  },
+  "metrics": {
+    "fast": 20,
+    "slow": 80,
+    "final_equity": 1002226.4249503571,
+    "ann_return": 0.013597708433010558,
+    "ann_vol": 0.009186672881955979,
+    "sharpe": 1.4801559397764694,
+    "max_drawdown": -0.0031993607896364756,
+    "sortino": 0.17191673517964418,
+    "calmar": 4.250132863119694,
+    "max_drawdown_duration_bars": 256,
+    "avg_drawdown_duration_bars": 128.5,
+    "current_drawdown_duration_bars": 156,
+    "recovery_time_bars": 256,
+    "trades": 4,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14
+  },
+  "data_report": null,
+  "artifacts": {
+    "equity": "data/outputs/equity/equity_AUDUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.csv",
+    "trades": "data/outputs/trades/trades_AUDUSD_20251119_161223.csv",
+    "trade_stats": "data/outputs/stats/stats_AUDUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "path": "data/raw/EURUSD_H1.csv",
+    "sha256": "2d5dfdb41e87afd72a597be7fed90176cf31bd19d5da1930bad7f973de34f8cc",
+    "allow_drift": false
+  },
+  {
+    "path": "data/raw/USDJPY_H1.csv",
+    "sha256": "5b860dfed54e857ab4eae846f2bd1c192df7a5ee5b53a8a87dd5348f3d3a0794",
+    "allow_drift": false
+  },
+  {
+    "path": "data/derived/EURUSD_H1_with_indicators.csv",
+    "sha256": "d6a77949297d58bfb731d761236e4914015a6377d85c5b91c03c832d5f6bdf01",
+    "allow_drift": false
+  }
+]

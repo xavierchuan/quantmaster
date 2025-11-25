@@ -1,0 +1,7553 @@
+{
+  "fills": [
+    {
+      "order_id": "PAPER-1",
+      "ts": "2024-11-14 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-2",
+      "ts": "2024-11-14 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.13544014285597,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-3",
+      "ts": "2024-11-14 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-4",
+      "ts": "2024-11-18 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.889068078571956,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-5",
+      "ts": "2024-11-18 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-6",
+      "ts": "2024-11-19 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 48.564632457142366,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-7",
+      "ts": "2024-11-19 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-8",
+      "ts": "2024-11-19 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.23899597857102,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-9",
+      "ts": "2024-11-19 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-10",
+      "ts": "2024-11-19 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.221165799998776,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-11",
+      "ts": "2024-11-19 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-12",
+      "ts": "2024-11-19 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.97120489999892,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-13",
+      "ts": "2024-11-19 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-14",
+      "ts": "2024-11-20 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 14.778817800001478,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-15",
+      "ts": "2024-11-20 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-16",
+      "ts": "2024-11-20 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.17115029999889,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-17",
+      "ts": "2024-11-20 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-18",
+      "ts": "2024-11-20 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.742528528571963,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-19",
+      "ts": "2024-11-20 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-20",
+      "ts": "2024-11-20 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.210351535713812,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-21",
+      "ts": "2024-11-20 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-22",
+      "ts": "2024-11-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 4.57893820000127,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-23",
+      "ts": "2024-11-20 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-24",
+      "ts": "2024-11-21 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 50.2361739714276,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-25",
+      "ts": "2024-11-21 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-26",
+      "ts": "2024-11-22 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 55.07916440000126,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-27",
+      "ts": "2024-11-22 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-28",
+      "ts": "2024-11-22 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.299435185715232,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-29",
+      "ts": "2024-11-22 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-30",
+      "ts": "2024-11-24 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -35.96021459285738,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-31",
+      "ts": "2024-11-24 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-32",
+      "ts": "2024-11-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -47.885343642856675,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-33",
+      "ts": "2024-11-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-34",
+      "ts": "2024-11-25 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 55.1004844142868,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-35",
+      "ts": "2024-11-25 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-36",
+      "ts": "2024-11-25 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -33.41030529285844,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-37",
+      "ts": "2024-11-25 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-38",
+      "ts": "2024-11-26 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 69.60770168571334,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-39",
+      "ts": "2024-11-26 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-40",
+      "ts": "2024-11-26 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -36.06736846428507,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-41",
+      "ts": "2024-11-26 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-42",
+      "ts": "2024-11-26 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -35.3174525642846,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-43",
+      "ts": "2024-11-26 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-44",
+      "ts": "2024-11-26 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.25678875714194,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-45",
+      "ts": "2024-11-26 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-46",
+      "ts": "2024-11-27 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -35.52111619999942,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-47",
+      "ts": "2024-11-27 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-48",
+      "ts": "2024-11-27 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 2.3788618000001795,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-49",
+      "ts": "2024-11-27 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-50",
+      "ts": "2024-11-28 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.474637121429662,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-51",
+      "ts": "2024-11-28 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-52",
+      "ts": "2024-11-29 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 30.58599624285623,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-53",
+      "ts": "2024-11-29 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-54",
+      "ts": "2024-11-29 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.528256642857228,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-55",
+      "ts": "2024-11-29 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-56",
+      "ts": "2024-12-01 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.899650071430333,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-57",
+      "ts": "2024-12-01 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-58",
+      "ts": "2024-12-02 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.288897207142337,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-59",
+      "ts": "2024-12-02 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-60",
+      "ts": "2024-12-02 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.36743327857185,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-61",
+      "ts": "2024-12-02 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-62",
+      "ts": "2024-12-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.93167566428688,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-63",
+      "ts": "2024-12-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-64",
+      "ts": "2024-12-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 49.07895180000192,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-65",
+      "ts": "2024-12-03 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-66",
+      "ts": "2024-12-04 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 39.88618447142863,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-67",
+      "ts": "2024-12-04 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-68",
+      "ts": "2024-12-04 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.410327892856877,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-69",
+      "ts": "2024-12-04 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-70",
+      "ts": "2024-12-05 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.021118399998805,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-71",
+      "ts": "2024-12-05 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-72",
+      "ts": "2024-12-05 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.039028978569817,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-73",
+      "ts": "2024-12-05 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-74",
+      "ts": "2024-12-06 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -4.221156999998649,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-75",
+      "ts": "2024-12-06 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-76",
+      "ts": "2024-12-06 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 44.471628157142824,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-77",
+      "ts": "2024-12-06 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-78",
+      "ts": "2024-12-06 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.346112350000595,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-79",
+      "ts": "2024-12-06 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-80",
+      "ts": "2024-12-09 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.799647271428903,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-81",
+      "ts": "2024-12-09 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-82",
+      "ts": "2024-12-09 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 46.828829100000505,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-83",
+      "ts": "2024-12-09 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-84",
+      "ts": "2024-12-09 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.599711271428035,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-85",
+      "ts": "2024-12-09 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-86",
+      "ts": "2024-12-09 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.806808114284728,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-87",
+      "ts": "2024-12-09 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-88",
+      "ts": "2024-12-10 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.53891090714186,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-89",
+      "ts": "2024-12-10 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-90",
+      "ts": "2024-12-10 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -14.049608371429754,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-91",
+      "ts": "2024-12-10 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-92",
+      "ts": "2024-12-10 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.985300385715668,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-93",
+      "ts": "2024-12-10 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-94",
+      "ts": "2024-12-11 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -5.920998400000904,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-95",
+      "ts": "2024-12-11 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-96",
+      "ts": "2024-12-11 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.060307592857907,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-97",
+      "ts": "2024-12-11 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-98",
+      "ts": "2024-12-11 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.867471664285517,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-99",
+      "ts": "2024-12-11 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-100",
+      "ts": "2024-12-12 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.488909278572105,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-101",
+      "ts": "2024-12-12 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-102",
+      "ts": "2024-12-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 25.421877828570945,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-103",
+      "ts": "2024-12-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-104",
+      "ts": "2024-12-12 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.717437364284866,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-105",
+      "ts": "2024-12-12 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-106",
+      "ts": "2024-12-12 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 45.200482814284115,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-107",
+      "ts": "2024-12-12 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-108",
+      "ts": "2024-12-12 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.253144721428644,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-109",
+      "ts": "2024-12-12 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-110",
+      "ts": "2024-12-18 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 64.61481975714092,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-111",
+      "ts": "2024-12-18 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-112",
+      "ts": "2024-12-19 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -33.33510454285683,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-113",
+      "ts": "2024-12-19 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-114",
+      "ts": "2024-12-20 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.43871957857056,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-115",
+      "ts": "2024-12-20 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-116",
+      "ts": "2024-12-27 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 3.6791533999998145,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-117",
+      "ts": "2024-12-27 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-118",
+      "ts": "2024-12-30 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.88152356428477,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-119",
+      "ts": "2024-12-30 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-120",
+      "ts": "2024-12-31 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.385019785715517,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-121",
+      "ts": "2024-12-31 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-122",
+      "ts": "2024-12-31 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -8.82069459999992,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-123",
+      "ts": "2024-12-31 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-124",
+      "ts": "2025-01-02 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.060035392857245,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-125",
+      "ts": "2025-01-02 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-126",
+      "ts": "2025-01-02 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 39.6507669142855,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-127",
+      "ts": "2025-01-02 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-128",
+      "ts": "2025-01-02 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 41.258022985714135,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-129",
+      "ts": "2025-01-02 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-130",
+      "ts": "2025-01-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.33131670714387,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-131",
+      "ts": "2025-01-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-132",
+      "ts": "2025-01-06 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.42776787142789,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-133",
+      "ts": "2025-01-06 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-134",
+      "ts": "2025-01-06 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.042088814285663,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-135",
+      "ts": "2025-01-06 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-136",
+      "ts": "2025-01-06 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.43858777857066,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-137",
+      "ts": "2025-01-06 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-138",
+      "ts": "2025-01-06 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.195744750000273,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-139",
+      "ts": "2025-01-06 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-140",
+      "ts": "2025-01-06 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 58.46499005714282,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-141",
+      "ts": "2025-01-06 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-142",
+      "ts": "2025-01-07 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -42.570867700001195,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-143",
+      "ts": "2025-01-07 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-144",
+      "ts": "2025-01-07 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 32.3006402142862,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-145",
+      "ts": "2025-01-07 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-146",
+      "ts": "2025-01-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.127879642858275,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-147",
+      "ts": "2025-01-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-148",
+      "ts": "2025-01-07 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.359981635713805,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-149",
+      "ts": "2025-01-07 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-150",
+      "ts": "2025-01-08 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.249202371429305,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-151",
+      "ts": "2025-01-08 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-152",
+      "ts": "2025-01-08 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -14.89561205000086,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-153",
+      "ts": "2025-01-08 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-154",
+      "ts": "2025-01-08 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 18.37936500000064,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-155",
+      "ts": "2025-01-08 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-156",
+      "ts": "2025-01-10 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 47.98660507142841,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-157",
+      "ts": "2025-01-10 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-158",
+      "ts": "2025-01-13 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 46.722440028570595,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-159",
+      "ts": "2025-01-13 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-160",
+      "ts": "2025-01-13 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.899038185713493,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-161",
+      "ts": "2025-01-13 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-162",
+      "ts": "2025-01-13 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.984827842857204,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-163",
+      "ts": "2025-01-13 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-164",
+      "ts": "2025-01-14 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.431291707142083,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-165",
+      "ts": "2025-01-14 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-166",
+      "ts": "2025-01-15 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.963496628571995,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-167",
+      "ts": "2025-01-15 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-168",
+      "ts": "2025-01-15 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 44.279402199999346,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-169",
+      "ts": "2025-01-15 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-170",
+      "ts": "2025-01-15 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.62059299999995,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-171",
+      "ts": "2025-01-16 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-172",
+      "ts": "2025-01-16 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.266953878572973,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-173",
+      "ts": "2025-01-16 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-174",
+      "ts": "2025-01-17 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 37.679358800000514,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-175",
+      "ts": "2025-01-17 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-176",
+      "ts": "2025-01-17 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.556269814285532,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-177",
+      "ts": "2025-01-17 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-178",
+      "ts": "2025-01-20 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 48.88648964285621,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-179",
+      "ts": "2025-01-20 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-180",
+      "ts": "2025-01-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.94931657142989,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-181",
+      "ts": "2025-01-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-182",
+      "ts": "2025-01-21 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -39.099267071429544,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-183",
+      "ts": "2025-01-21 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-184",
+      "ts": "2025-01-21 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 69.5862938428586,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-185",
+      "ts": "2025-01-21 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-186",
+      "ts": "2025-01-21 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.777928542857325,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-187",
+      "ts": "2025-01-21 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-188",
+      "ts": "2025-01-23 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.763615857144117,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-189",
+      "ts": "2025-01-23 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-190",
+      "ts": "2025-01-24 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 46.7433503857155,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-191",
+      "ts": "2025-01-24 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-192",
+      "ts": "2025-01-24 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 38.66471951428698,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-193",
+      "ts": "2025-01-24 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-194",
+      "ts": "2025-01-24 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.013800957143975,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-195",
+      "ts": "2025-01-24 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-196",
+      "ts": "2025-01-27 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 51.50038552857113,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-197",
+      "ts": "2025-01-27 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-198",
+      "ts": "2025-01-27 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.52813924285624,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-199",
+      "ts": "2025-01-27 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-200",
+      "ts": "2025-01-27 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.37093149999943,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-201",
+      "ts": "2025-01-27 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-202",
+      "ts": "2025-01-29 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.938680307144264,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-203",
+      "ts": "2025-01-29 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-204",
+      "ts": "2025-01-29 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -4.82080060000036,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-205",
+      "ts": "2025-01-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-206",
+      "ts": "2025-01-29 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.006553857141842,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-207",
+      "ts": "2025-01-29 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-208",
+      "ts": "2025-01-30 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.69588175000089,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-209",
+      "ts": "2025-01-30 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-210",
+      "ts": "2025-01-30 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 41.64345924285603,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-211",
+      "ts": "2025-01-30 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-212",
+      "ts": "2025-01-31 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 57.13642537142618,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-213",
+      "ts": "2025-01-31 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-214",
+      "ts": "2025-02-02 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 73.70085741428653,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-215",
+      "ts": "2025-02-02 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-216",
+      "ts": "2025-02-03 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -47.75630875714345,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-217",
+      "ts": "2025-02-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-218",
+      "ts": "2025-02-03 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -44.54206701428618,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-219",
+      "ts": "2025-02-03 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-220",
+      "ts": "2025-02-05 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -50.23149770714301,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-221",
+      "ts": "2025-02-05 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-222",
+      "ts": "2025-02-05 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.052942321428766,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-223",
+      "ts": "2025-02-05 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-224",
+      "ts": "2025-02-05 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.574409135715246,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-225",
+      "ts": "2025-02-05 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-226",
+      "ts": "2025-02-05 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 17.679187600000493,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-227",
+      "ts": "2025-02-05 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-228",
+      "ts": "2025-02-06 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.817187178570354,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-229",
+      "ts": "2025-02-06 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-230",
+      "ts": "2025-02-06 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.524307221427426,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-231",
+      "ts": "2025-02-06 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-232",
+      "ts": "2025-02-06 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 28.593495685712053,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-233",
+      "ts": "2025-02-06 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-234",
+      "ts": "2025-02-07 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.510026535715447,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-235",
+      "ts": "2025-02-07 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-236",
+      "ts": "2025-02-07 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.31357795714249,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-237",
+      "ts": "2025-02-07 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-238",
+      "ts": "2025-02-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.77425772142818,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-239",
+      "ts": "2025-02-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-240",
+      "ts": "2025-02-07 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.417085178571735,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-241",
+      "ts": "2025-02-07 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-242",
+      "ts": "2025-02-09 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.42773864285703,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-243",
+      "ts": "2025-02-09 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-244",
+      "ts": "2025-02-10 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 28.179358200000447,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-245",
+      "ts": "2025-02-10 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-246",
+      "ts": "2025-02-11 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.277838571428468,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-247",
+      "ts": "2025-02-11 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-248",
+      "ts": "2025-02-11 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.817149164285633,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-249",
+      "ts": "2025-02-11 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-250",
+      "ts": "2025-02-12 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.320752399999872,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-251",
+      "ts": "2025-02-12 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-252",
+      "ts": "2025-02-12 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 29.36502365714314,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-253",
+      "ts": "2025-02-12 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-254",
+      "ts": "2025-02-12 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.35284532142818,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-255",
+      "ts": "2025-02-12 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-256",
+      "ts": "2025-02-12 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.54931268571353,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-257",
+      "ts": "2025-02-12 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-258",
+      "ts": "2025-02-12 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.26722566428537,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-259",
+      "ts": "2025-02-12 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-260",
+      "ts": "2025-02-12 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 31.179212600002337,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-261",
+      "ts": "2025-02-13 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-262",
+      "ts": "2025-02-13 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 71.49336088571555,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-263",
+      "ts": "2025-02-13 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-264",
+      "ts": "2025-02-19 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -39.63513228571528,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-265",
+      "ts": "2025-02-19 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-266",
+      "ts": "2025-02-19 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.245824150001152,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-267",
+      "ts": "2025-02-19 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-268",
+      "ts": "2025-02-20 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 17.679152600000492,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-269",
+      "ts": "2025-02-20 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-270",
+      "ts": "2025-02-20 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.174462335715068,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-271",
+      "ts": "2025-02-20 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-272",
+      "ts": "2025-02-20 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.25662095714359,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-273",
+      "ts": "2025-02-20 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-274",
+      "ts": "2025-02-20 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.34593045000126,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-275",
+      "ts": "2025-02-20 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-276",
+      "ts": "2025-02-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.31384512857262,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-277",
+      "ts": "2025-02-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-278",
+      "ts": "2025-02-21 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -12.421000799999078,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-279",
+      "ts": "2025-02-21 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-280",
+      "ts": "2025-02-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.56738407857182,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-281",
+      "ts": "2025-02-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-282",
+      "ts": "2025-02-21 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.80663851428572,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-283",
+      "ts": "2025-02-21 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-284",
+      "ts": "2025-02-21 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.26020223571403,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-285",
+      "ts": "2025-02-21 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-286",
+      "ts": "2025-02-24 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.0932906857139,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-287",
+      "ts": "2025-02-24 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-288",
+      "ts": "2025-02-24 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.095961250001068,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-289",
+      "ts": "2025-02-24 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-290",
+      "ts": "2025-02-24 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.33519968571497,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-291",
+      "ts": "2025-02-24 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-292",
+      "ts": "2025-02-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 45.07184295714232,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-293",
+      "ts": "2025-02-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-294",
+      "ts": "2025-02-25 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.192399228572693,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-295",
+      "ts": "2025-02-25 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-296",
+      "ts": "2025-02-26 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.831680064286445,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-297",
+      "ts": "2025-02-26 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-298",
+      "ts": "2025-02-26 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 31.957551271427445,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-299",
+      "ts": "2025-02-26 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-300",
+      "ts": "2025-02-26 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.84241712856985,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-301",
+      "ts": "2025-02-26 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-302",
+      "ts": "2025-02-27 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.945937550000085,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-303",
+      "ts": "2025-02-27 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-304",
+      "ts": "2025-02-27 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.031604064285425,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-305",
+      "ts": "2025-02-27 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-306",
+      "ts": "2025-02-27 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.160091035715155,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-307",
+      "ts": "2025-02-27 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-308",
+      "ts": "2025-02-27 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.52079519999918,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-309",
+      "ts": "2025-02-27 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-310",
+      "ts": "2025-02-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.55298332142872,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-311",
+      "ts": "2025-02-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-312",
+      "ts": "2025-02-28 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 33.02926829999892,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-313",
+      "ts": "2025-02-28 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-314",
+      "ts": "2025-03-02 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.374340735713385,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-315",
+      "ts": "2025-03-02 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-316",
+      "ts": "2025-03-03 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.556570357142345,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-317",
+      "ts": "2025-03-03 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-318",
+      "ts": "2025-03-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.278039171428468,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-319",
+      "ts": "2025-03-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-320",
+      "ts": "2025-03-03 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.510235292857978,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-321",
+      "ts": "2025-03-03 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-322",
+      "ts": "2025-03-03 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.878126971427957,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-323",
+      "ts": "2025-03-03 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-324",
+      "ts": "2025-03-04 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.06744326428639,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-325",
+      "ts": "2025-03-04 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-326",
+      "ts": "2025-03-04 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.253224321429304,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-327",
+      "ts": "2025-03-04 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-328",
+      "ts": "2025-03-04 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -11.621109000000498,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-329",
+      "ts": "2025-03-04 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-330",
+      "ts": "2025-03-04 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.288881407144224,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-331",
+      "ts": "2025-03-04 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-332",
+      "ts": "2025-03-04 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 61.65739227142883,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-333",
+      "ts": "2025-03-04 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-334",
+      "ts": "2025-03-05 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 75.24295118571568,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-335",
+      "ts": "2025-03-05 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-336",
+      "ts": "2025-03-05 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 61.54995382857036,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-337",
+      "ts": "2025-03-05 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-338",
+      "ts": "2025-03-06 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 85.69972412857092,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-339",
+      "ts": "2025-03-06 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-340",
+      "ts": "2025-03-06 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -38.92870204285732,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-341",
+      "ts": "2025-03-06 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-342",
+      "ts": "2025-03-07 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 82.18540824285677,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-343",
+      "ts": "2025-03-07 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-344",
+      "ts": "2025-03-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.64667635000034,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-345",
+      "ts": "2025-03-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-346",
+      "ts": "2025-03-07 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -35.521671599999415,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-347",
+      "ts": "2025-03-07 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-348",
+      "ts": "2025-03-10 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -39.20732531428581,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-349",
+      "ts": "2025-03-10 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-350",
+      "ts": "2025-03-10 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 45.52114345714082,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-351",
+      "ts": "2025-03-10 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-352",
+      "ts": "2025-03-10 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.503810692856742,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-353",
+      "ts": "2025-03-10 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-354",
+      "ts": "2025-03-10 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -32.99306662857173,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-355",
+      "ts": "2025-03-10 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-356",
+      "ts": "2025-03-11 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 68.96391431428563,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-357",
+      "ts": "2025-03-11 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-358",
+      "ts": "2025-03-11 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 49.14240338571346,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-359",
+      "ts": "2025-03-11 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-360",
+      "ts": "2025-03-12 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.02179060000037,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-361",
+      "ts": "2025-03-12 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-362",
+      "ts": "2025-03-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.0824803642863,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-363",
+      "ts": "2025-03-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-364",
+      "ts": "2025-03-12 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 44.94243718571481,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-365",
+      "ts": "2025-03-12 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-366",
+      "ts": "2025-03-13 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.714611957143568,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-367",
+      "ts": "2025-03-13 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-368",
+      "ts": "2025-03-13 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.157431814285683,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-369",
+      "ts": "2025-03-13 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-370",
+      "ts": "2025-03-13 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.196712650000276,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-371",
+      "ts": "2025-03-13 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-372",
+      "ts": "2025-03-13 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.71809857857214,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-373",
+      "ts": "2025-03-13 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-374",
+      "ts": "2025-03-14 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 53.85679147142881,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-375",
+      "ts": "2025-03-14 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-376",
+      "ts": "2025-03-14 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.021748599999796,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-377",
+      "ts": "2025-03-14 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-378",
+      "ts": "2025-03-18 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 54.24242578571356,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-379",
+      "ts": "2025-03-18 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-380",
+      "ts": "2025-03-18 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.053989792857667,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-381",
+      "ts": "2025-03-18 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-382",
+      "ts": "2025-03-18 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.993228028571163,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-383",
+      "ts": "2025-03-18 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-384",
+      "ts": "2025-03-19 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.907498314285824,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-385",
+      "ts": "2025-03-19 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-386",
+      "ts": "2025-03-19 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.868183078571565,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-387",
+      "ts": "2025-03-19 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-388",
+      "ts": "2025-03-20 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.893135428571956,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-389",
+      "ts": "2025-03-20 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-390",
+      "ts": "2025-03-20 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.693094228573308,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-391",
+      "ts": "2025-03-20 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-392",
+      "ts": "2025-03-20 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.893079428572285,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-393",
+      "ts": "2025-03-20 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-394",
+      "ts": "2025-03-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 16.878313200001912,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-395",
+      "ts": "2025-03-20 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-396",
+      "ts": "2025-03-24 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 54.99270134285911,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-397",
+      "ts": "2025-03-24 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-398",
+      "ts": "2025-03-25 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.318066564285587,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-399",
+      "ts": "2025-03-25 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-400",
+      "ts": "2025-03-25 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 30.73556657142864,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-401",
+      "ts": "2025-03-25 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-402",
+      "ts": "2025-03-26 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 37.207070885714245,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-403",
+      "ts": "2025-03-26 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-404",
+      "ts": "2025-03-27 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.539406778572655,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-405",
+      "ts": "2025-03-27 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-406",
+      "ts": "2025-03-27 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.510888092857645,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-407",
+      "ts": "2025-03-27 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-408",
+      "ts": "2025-03-28 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.32522283571473,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-409",
+      "ts": "2025-03-28 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-410",
+      "ts": "2025-03-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.98954467857149,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-411",
+      "ts": "2025-03-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-412",
+      "ts": "2025-03-31 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.950267085715932,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-413",
+      "ts": "2025-03-31 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-414",
+      "ts": "2025-03-31 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.8251920214284,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-415",
+      "ts": "2025-03-31 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-416",
+      "ts": "2025-03-31 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.32158899999921,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-417",
+      "ts": "2025-03-31 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-418",
+      "ts": "2025-04-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 50.19257868571367,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-419",
+      "ts": "2025-04-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-420",
+      "ts": "2025-04-02 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.775247321428186,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-421",
+      "ts": "2025-04-02 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-422",
+      "ts": "2025-04-02 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.33235526428574,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-423",
+      "ts": "2025-04-02 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-424",
+      "ts": "2025-04-02 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 79.1424683857146,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-425",
+      "ts": "2025-04-02 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-426",
+      "ts": "2025-04-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 97.22799390000206,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-427",
+      "ts": "2025-04-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-428",
+      "ts": "2025-04-03 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 123.39201788571582,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-429",
+      "ts": "2025-04-03 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-430",
+      "ts": "2025-04-04 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -66.97911674285677,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-431",
+      "ts": "2025-04-04 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-432",
+      "ts": "2025-04-04 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 82.48498244285874,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-433",
+      "ts": "2025-04-04 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-434",
+      "ts": "2025-04-04 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -63.0897452071435,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-435",
+      "ts": "2025-04-04 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-436",
+      "ts": "2025-04-10 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 147.9920924857149,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-437",
+      "ts": "2025-04-10 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-438",
+      "ts": "2025-04-10 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 83.89906352857244,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-439",
+      "ts": "2025-04-10 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-440",
+      "ts": "2025-04-11 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 94.8060079714284,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-441",
+      "ts": "2025-04-11 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-442",
+      "ts": "2025-04-11 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 149.1270787000001,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-443",
+      "ts": "2025-04-11 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-444",
+      "ts": "2025-04-11 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -85.20482949285737,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-445",
+      "ts": "2025-04-11 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-446",
+      "ts": "2025-04-21 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 173.01983465714343,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-447",
+      "ts": "2025-04-21 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-448",
+      "ts": "2025-04-21 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 57.391159085714214,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-449",
+      "ts": "2025-04-21 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-450",
+      "ts": "2025-04-21 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -40.473033300000765,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-451",
+      "ts": "2025-04-21 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-452",
+      "ts": "2025-04-21 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -48.39084860714268,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-453",
+      "ts": "2025-04-21 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-454",
+      "ts": "2025-04-22 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -48.28361596428642,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-455",
+      "ts": "2025-04-22 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-456",
+      "ts": "2025-04-22 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -38.98350676428544,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-457",
+      "ts": "2025-04-22 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-458",
+      "ts": "2025-04-22 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -39.561935435713686,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-459",
+      "ts": "2025-04-22 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-460",
+      "ts": "2025-04-23 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 85.91286421428566,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-461",
+      "ts": "2025-04-23 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-462",
+      "ts": "2025-04-23 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -51.358450614285466,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-463",
+      "ts": "2025-04-23 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-464",
+      "ts": "2025-04-23 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -6.42265659999974,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-465",
+      "ts": "2025-04-24 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-466",
+      "ts": "2025-04-24 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -42.29419811428477,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-467",
+      "ts": "2025-04-24 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-468",
+      "ts": "2025-04-25 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 54.47734239999954,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-469",
+      "ts": "2025-04-25 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-470",
+      "ts": "2025-04-25 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.954849721428896,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-471",
+      "ts": "2025-04-25 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-472",
+      "ts": "2025-04-25 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.66559562857192,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-473",
+      "ts": "2025-04-25 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-474",
+      "ts": "2025-04-28 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -33.51922976428612,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-475",
+      "ts": "2025-04-28 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-476",
+      "ts": "2025-04-28 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -35.276396735713526,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-477",
+      "ts": "2025-04-28 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-478",
+      "ts": "2025-04-30 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 74.44875711428477,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-479",
+      "ts": "2025-04-30 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-480",
+      "ts": "2025-05-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 64.57029252857207,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-481",
+      "ts": "2025-05-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-482",
+      "ts": "2025-05-02 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -32.1904824785717,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-483",
+      "ts": "2025-05-02 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-484",
+      "ts": "2025-05-02 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.511962092857644,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-485",
+      "ts": "2025-05-02 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-486",
+      "ts": "2025-05-02 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.569136664285445,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-487",
+      "ts": "2025-05-02 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-488",
+      "ts": "2025-05-02 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.58346160714373,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-489",
+      "ts": "2025-05-02 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-490",
+      "ts": "2025-05-02 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 74.32026282857156,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-491",
+      "ts": "2025-05-02 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-492",
+      "ts": "2025-05-05 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -42.9905400785714,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-493",
+      "ts": "2025-05-05 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-494",
+      "ts": "2025-05-06 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -34.48346540714197,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-495",
+      "ts": "2025-05-06 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-496",
+      "ts": "2025-05-07 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 3.37726380000229,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-497",
+      "ts": "2025-05-07 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-498",
+      "ts": "2025-05-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.840544507141608,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-499",
+      "ts": "2025-05-07 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-500",
+      "ts": "2025-05-07 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.10836111428447,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-501",
+      "ts": "2025-05-07 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-502",
+      "ts": "2025-05-07 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.87618232142795,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-503",
+      "ts": "2025-05-07 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-504",
+      "ts": "2025-05-08 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.926125821428172,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-505",
+      "ts": "2025-05-08 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-506",
+      "ts": "2025-05-08 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 21.277390000001873,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-507",
+      "ts": "2025-05-08 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-508",
+      "ts": "2025-05-09 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 65.40614828571248,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-509",
+      "ts": "2025-05-09 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-510",
+      "ts": "2025-05-09 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.215341328570865,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-511",
+      "ts": "2025-05-09 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-512",
+      "ts": "2025-05-09 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.96180579285681,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-513",
+      "ts": "2025-05-09 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-514",
+      "ts": "2025-05-09 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.872533699998815,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-515",
+      "ts": "2025-05-09 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-516",
+      "ts": "2025-05-09 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.940419578570943,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-517",
+      "ts": "2025-05-09 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-518",
+      "ts": "2025-05-11 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 49.31327995714283,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-519",
+      "ts": "2025-05-11 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-520",
+      "ts": "2025-05-12 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.979623771428063,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-521",
+      "ts": "2025-05-12 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-522",
+      "ts": "2025-05-12 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 56.17052012857255,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-523",
+      "ts": "2025-05-12 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-524",
+      "ts": "2025-05-13 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -43.49378811428598,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-525",
+      "ts": "2025-05-13 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-526",
+      "ts": "2025-05-14 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.908117257142308,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-527",
+      "ts": "2025-05-14 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-528",
+      "ts": "2025-05-14 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.279556371428797,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-529",
+      "ts": "2025-05-14 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-530",
+      "ts": "2025-05-14 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.340325578571782,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-531",
+      "ts": "2025-05-14 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-532",
+      "ts": "2025-05-14 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.436807342858593,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-533",
+      "ts": "2025-05-14 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-534",
+      "ts": "2025-05-14 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 50.256169785715365,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-535",
+      "ts": "2025-05-14 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-536",
+      "ts": "2025-05-16 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 65.1920083428571,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-537",
+      "ts": "2025-05-16 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-538",
+      "ts": "2025-05-18 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.065194828572764,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-539",
+      "ts": "2025-05-18 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-540",
+      "ts": "2025-05-19 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.88668624285677,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-541",
+      "ts": "2025-05-19 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-542",
+      "ts": "2025-05-19 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.16175179285768,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-543",
+      "ts": "2025-05-19 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-544",
+      "ts": "2025-05-21 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 54.84169698571305,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-545",
+      "ts": "2025-05-21 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-546",
+      "ts": "2025-05-21 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 43.3344567428576,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-547",
+      "ts": "2025-05-21 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-548",
+      "ts": "2025-05-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.558337414285532,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-549",
+      "ts": "2025-05-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-550",
+      "ts": "2025-05-22 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.629743842857,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-551",
+      "ts": "2025-05-22 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-552",
+      "ts": "2025-05-22 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.222593000000668,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-553",
+      "ts": "2025-05-22 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-554",
+      "ts": "2025-05-22 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.079680342857397,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-555",
+      "ts": "2025-05-22 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-556",
+      "ts": "2025-05-23 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 59.877316999999394,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-557",
+      "ts": "2025-05-23 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-558",
+      "ts": "2025-05-23 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.81192593571519,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-559",
+      "ts": "2025-05-23 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-560",
+      "ts": "2025-05-26 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 58.48438004285916,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-561",
+      "ts": "2025-05-26 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-562",
+      "ts": "2025-05-27 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.77272110000084,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-563",
+      "ts": "2025-05-27 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-564",
+      "ts": "2025-05-28 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.06193023571472,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-565",
+      "ts": "2025-05-28 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-566",
+      "ts": "2025-05-28 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.911883535713734,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-567",
+      "ts": "2025-05-28 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-568",
+      "ts": "2025-05-28 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.454766992857184,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-569",
+      "ts": "2025-05-28 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-570",
+      "ts": "2025-05-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.529718842856237,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-571",
+      "ts": "2025-05-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-572",
+      "ts": "2025-05-28 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 2.37742340000018,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-573",
+      "ts": "2025-05-28 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-574",
+      "ts": "2025-05-28 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 46.35608318571423,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-575",
+      "ts": "2025-05-28 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-576",
+      "ts": "2025-05-29 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.17251330000012,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-577",
+      "ts": "2025-05-29 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-578",
+      "ts": "2025-05-29 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.07612293571487,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-579",
+      "ts": "2025-05-29 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-580",
+      "ts": "2025-05-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.947610849999425,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-581",
+      "ts": "2025-05-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-582",
+      "ts": "2025-05-30 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -42.3584951571436,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-583",
+      "ts": "2025-05-30 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-584",
+      "ts": "2025-05-30 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -4.422715799997739,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-585",
+      "ts": "2025-05-30 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-586",
+      "ts": "2025-06-02 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 53.791479885715056,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-587",
+      "ts": "2025-06-02 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-588",
+      "ts": "2025-06-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 39.71282961428497,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-589",
+      "ts": "2025-06-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-590",
+      "ts": "2025-06-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.59067240714175,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-591",
+      "ts": "2025-06-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-592",
+      "ts": "2025-06-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.926359821429497,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-593",
+      "ts": "2025-06-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-594",
+      "ts": "2025-06-03 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.047741750001183,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-595",
+      "ts": "2025-06-03 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-596",
+      "ts": "2025-06-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.401308871428725,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-597",
+      "ts": "2025-06-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-598",
+      "ts": "2025-06-04 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 48.73429594285745,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-599",
+      "ts": "2025-06-04 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-600",
+      "ts": "2025-06-05 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.747808350000444,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-601",
+      "ts": "2025-06-05 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-602",
+      "ts": "2025-06-05 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 30.969979957145423,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-603",
+      "ts": "2025-06-05 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-604",
+      "ts": "2025-06-05 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 41.98419704285764,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-605",
+      "ts": "2025-06-05 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-606",
+      "ts": "2025-06-05 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.222905400000336,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-607",
+      "ts": "2025-06-05 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-608",
+      "ts": "2025-06-06 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.11924777857166,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-609",
+      "ts": "2025-06-06 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-610",
+      "ts": "2025-06-09 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 43.91284241428584,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-611",
+      "ts": "2025-06-09 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-612",
+      "ts": "2025-06-09 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.51924657857127,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-613",
+      "ts": "2025-06-09 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-614",
+      "ts": "2025-06-09 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.308511514286337,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-615",
+      "ts": "2025-06-09 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-616",
+      "ts": "2025-06-10 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.487046185714064,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-617",
+      "ts": "2025-06-10 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-618",
+      "ts": "2025-06-10 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 41.29855892857092,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-619",
+      "ts": "2025-06-10 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-620",
+      "ts": "2025-06-11 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.587099585714167,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-621",
+      "ts": "2025-06-11 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-622",
+      "ts": "2025-06-11 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 41.319954657142176,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-623",
+      "ts": "2025-06-11 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-624",
+      "ts": "2025-06-12 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 51.819829657144346,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-625",
+      "ts": "2025-06-12 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-626",
+      "ts": "2025-06-12 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 52.37684980000133,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-627",
+      "ts": "2025-06-12 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-628",
+      "ts": "2025-06-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 53.16960415714209,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-629",
+      "ts": "2025-06-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-630",
+      "ts": "2025-06-12 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -35.89815045000077,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-631",
+      "ts": "2025-06-12 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-632",
+      "ts": "2025-06-13 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.91236493571398,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-633",
+      "ts": "2025-06-13 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-634",
+      "ts": "2025-06-13 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -32.80162647142824,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-635",
+      "ts": "2025-06-13 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-636",
+      "ts": "2025-06-13 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.398020650000483,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-637",
+      "ts": "2025-06-13 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-638",
+      "ts": "2025-06-16 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 74.87683759999996,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-639",
+      "ts": "2025-06-16 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-640",
+      "ts": "2025-06-16 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.433819664285274,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-641",
+      "ts": "2025-06-16 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-642",
+      "ts": "2025-06-17 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.273072100001546,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-643",
+      "ts": "2025-06-17 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-644",
+      "ts": "2025-06-17 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.23014444285616,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-645",
+      "ts": "2025-06-17 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-646",
+      "ts": "2025-06-18 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.62651842142843,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-647",
+      "ts": "2025-06-18 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-648",
+      "ts": "2025-06-18 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 3.7770406000004697,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-649",
+      "ts": "2025-06-18 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-650",
+      "ts": "2025-06-20 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -34.012316692855705,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-651",
+      "ts": "2025-06-20 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-652",
+      "ts": "2025-06-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.262371192856556,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-653",
+      "ts": "2025-06-20 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-654",
+      "ts": "2025-06-22 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.069879128571216,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-655",
+      "ts": "2025-06-22 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-656",
+      "ts": "2025-06-22 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.40871685714325,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-657",
+      "ts": "2025-06-22 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-658",
+      "ts": "2025-06-23 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.33734294285717,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-659",
+      "ts": "2025-06-23 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-660",
+      "ts": "2025-06-23 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -34.4409851785709,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-661",
+      "ts": "2025-06-23 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-662",
+      "ts": "2025-06-24 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.523201000000302,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-663",
+      "ts": "2025-06-24 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-664",
+      "ts": "2025-06-25 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 66.15525487142945,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-665",
+      "ts": "2025-06-25 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-666",
+      "ts": "2025-06-26 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 49.67657579999919,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-667",
+      "ts": "2025-06-26 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-668",
+      "ts": "2025-06-26 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.673344499999505,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-669",
+      "ts": "2025-06-26 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-670",
+      "ts": "2025-06-26 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.51980277857061,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-671",
+      "ts": "2025-06-26 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-672",
+      "ts": "2025-06-27 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 55.46223431428601,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-673",
+      "ts": "2025-06-27 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-674",
+      "ts": "2025-06-27 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.798441050000992,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-675",
+      "ts": "2025-06-27 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-676",
+      "ts": "2025-06-27 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.26268423571493,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-677",
+      "ts": "2025-06-27 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-678",
+      "ts": "2025-06-30 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 65.59789032857024,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-679",
+      "ts": "2025-06-30 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-680",
+      "ts": "2025-07-01 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 57.19778592857072,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-681",
+      "ts": "2025-07-01 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-682",
+      "ts": "2025-07-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.712866135714098,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-683",
+      "ts": "2025-07-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-684",
+      "ts": "2025-07-02 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.987789785714348,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-685",
+      "ts": "2025-07-02 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-686",
+      "ts": "2025-07-02 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 36.6692815571428,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-687",
+      "ts": "2025-07-02 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-688",
+      "ts": "2025-07-03 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.79138500714328,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-689",
+      "ts": "2025-07-03 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-690",
+      "ts": "2025-07-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.15564019285678,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-691",
+      "ts": "2025-07-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-692",
+      "ts": "2025-07-07 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -32.14844274999841,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-693",
+      "ts": "2025-07-07 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-694",
+      "ts": "2025-07-07 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.430551842858353,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-695",
+      "ts": "2025-07-07 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-696",
+      "ts": "2025-07-07 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.23772234285706,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-697",
+      "ts": "2025-07-07 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-698",
+      "ts": "2025-07-08 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.302064585715563,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-699",
+      "ts": "2025-07-08 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-700",
+      "ts": "2025-07-08 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 49.37661459999944,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-701",
+      "ts": "2025-07-08 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-702",
+      "ts": "2025-07-08 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.28414460714176,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-703",
+      "ts": "2025-07-08 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-704",
+      "ts": "2025-07-10 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.405641821427736,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-705",
+      "ts": "2025-07-10 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-706",
+      "ts": "2025-07-10 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 39.49802241428452,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-707",
+      "ts": "2025-07-10 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-708",
+      "ts": "2025-07-10 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 30.090935142855855,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-709",
+      "ts": "2025-07-10 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-710",
+      "ts": "2025-07-10 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.205538621429415,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-711",
+      "ts": "2025-07-10 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-712",
+      "ts": "2025-07-15 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 39.79811961428648,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-713",
+      "ts": "2025-07-15 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-714",
+      "ts": "2025-07-15 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.69108734285847,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-715",
+      "ts": "2025-07-15 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-716",
+      "ts": "2025-07-16 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.016100928572214,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-717",
+      "ts": "2025-07-16 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-718",
+      "ts": "2025-07-16 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 21.198218014286756,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-719",
+      "ts": "2025-07-16 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-720",
+      "ts": "2025-07-16 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 29.083996671428935,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-721",
+      "ts": "2025-07-16 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-722",
+      "ts": "2025-07-16 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.00532742142789,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-723",
+      "ts": "2025-07-16 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-724",
+      "ts": "2025-07-16 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.49823194999936,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-725",
+      "ts": "2025-07-16 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-726",
+      "ts": "2025-07-18 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.39833014999949,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-727",
+      "ts": "2025-07-18 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-728",
+      "ts": "2025-07-18 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 33.776736799999384,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-729",
+      "ts": "2025-07-18 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-730",
+      "ts": "2025-07-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.284011407142092,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-731",
+      "ts": "2025-07-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-732",
+      "ts": "2025-07-21 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.141171178570914,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-733",
+      "ts": "2025-07-21 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-734",
+      "ts": "2025-07-21 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.519798364285556,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-735",
+      "ts": "2025-07-21 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-736",
+      "ts": "2025-07-21 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.234145307141876,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-737",
+      "ts": "2025-07-21 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-738",
+      "ts": "2025-07-21 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 12.57661820000039,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-739",
+      "ts": "2025-07-21 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-740",
+      "ts": "2025-07-22 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.17652179999891,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-741",
+      "ts": "2025-07-22 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-742",
+      "ts": "2025-07-23 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.273450099998996,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-743",
+      "ts": "2025-07-23 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-744",
+      "ts": "2025-07-23 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 36.66932915714279,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-745",
+      "ts": "2025-07-23 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-746",
+      "ts": "2025-07-24 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.20918811428524,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-747",
+      "ts": "2025-07-24 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-748",
+      "ts": "2025-07-24 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 34.03359994285885,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-749",
+      "ts": "2025-07-24 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-750",
+      "ts": "2025-07-24 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.43064344285802,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-751",
+      "ts": "2025-07-24 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-752",
+      "ts": "2025-07-25 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.023444799999137,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-753",
+      "ts": "2025-07-25 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-754",
+      "ts": "2025-07-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.762690835714977,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-755",
+      "ts": "2025-07-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-756",
+      "ts": "2025-07-27 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 43.162181714285374,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-757",
+      "ts": "2025-07-27 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-758",
+      "ts": "2025-07-28 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.452039371429272,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-759",
+      "ts": "2025-07-28 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-760",
+      "ts": "2025-07-28 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.15554579285744,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-761",
+      "ts": "2025-07-28 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-762",
+      "ts": "2025-07-28 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.71972977857181,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-763",
+      "ts": "2025-07-28 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-764",
+      "ts": "2025-07-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.99824704999997,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-765",
+      "ts": "2025-07-28 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-766",
+      "ts": "2025-07-28 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.823180599998707,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-767",
+      "ts": "2025-07-28 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-768",
+      "ts": "2025-07-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 59.76980192857172,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-769",
+      "ts": "2025-07-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-770",
+      "ts": "2025-07-29 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -30.605251621428604,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-771",
+      "ts": "2025-07-29 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-772",
+      "ts": "2025-07-30 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 70.69848941428464,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-773",
+      "ts": "2025-07-30 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-774",
+      "ts": "2025-07-30 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -29.340851978570793,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-775",
+      "ts": "2025-07-30 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-776",
+      "ts": "2025-07-31 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -37.515778328572175,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-777",
+      "ts": "2025-07-31 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-778",
+      "ts": "2025-08-01 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 61.69863741428785,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-779",
+      "ts": "2025-08-01 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-780",
+      "ts": "2025-08-01 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.64069817857153,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-781",
+      "ts": "2025-08-01 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-782",
+      "ts": "2025-08-01 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.95499532142956,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-783",
+      "ts": "2025-08-01 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-784",
+      "ts": "2025-08-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -40.0338825071428,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-785",
+      "ts": "2025-08-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-786",
+      "ts": "2025-08-05 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.52314639999907,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-787",
+      "ts": "2025-08-05 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-788",
+      "ts": "2025-08-05 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.97665612142716,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-789",
+      "ts": "2025-08-05 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-790",
+      "ts": "2025-08-05 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.308784114284446,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-791",
+      "ts": "2025-08-05 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-792",
+      "ts": "2025-08-05 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.387342385713627,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-793",
+      "ts": "2025-08-05 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-794",
+      "ts": "2025-08-05 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.58397584285491,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-795",
+      "ts": "2025-08-05 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-796",
+      "ts": "2025-08-06 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 51.77673459999963,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-797",
+      "ts": "2025-08-06 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-798",
+      "ts": "2025-08-07 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.02664170000014,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-799",
+      "ts": "2025-08-07 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-800",
+      "ts": "2025-08-07 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.748346549999546,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-801",
+      "ts": "2025-08-07 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-802",
+      "ts": "2025-08-07 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.348307150001254,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-803",
+      "ts": "2025-08-07 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-804",
+      "ts": "2025-08-07 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.323247199999543,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-805",
+      "ts": "2025-08-07 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-806",
+      "ts": "2025-08-11 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -28.2803377428586,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-807",
+      "ts": "2025-08-11 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-808",
+      "ts": "2025-08-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.26243551428613,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-809",
+      "ts": "2025-08-12 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-810",
+      "ts": "2025-08-12 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.73395826428568,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-811",
+      "ts": "2025-08-12 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-812",
+      "ts": "2025-08-13 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 51.112305014286385,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-813",
+      "ts": "2025-08-13 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-814",
+      "ts": "2025-08-13 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.366243057142707,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-815",
+      "ts": "2025-08-13 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-816",
+      "ts": "2025-08-14 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.069798278572435,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-817",
+      "ts": "2025-08-14 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-818",
+      "ts": "2025-08-14 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -12.49834805000068,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-819",
+      "ts": "2025-08-14 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-820",
+      "ts": "2025-08-14 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 26.21232261428535,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-821",
+      "ts": "2025-08-14 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-822",
+      "ts": "2025-08-14 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.37693232142833,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-823",
+      "ts": "2025-08-14 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-824",
+      "ts": "2025-08-14 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.47685892142844,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-825",
+      "ts": "2025-08-14 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-826",
+      "ts": "2025-08-14 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.869701278570577,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-827",
+      "ts": "2025-08-14 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-828",
+      "ts": "2025-08-15 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 53.59804992857156,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-829",
+      "ts": "2025-08-15 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-830",
+      "ts": "2025-08-15 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -12.980491142856064,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-831",
+      "ts": "2025-08-15 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-832",
+      "ts": "2025-08-18 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.04478752857171,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-833",
+      "ts": "2025-08-18 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-834",
+      "ts": "2025-08-18 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.037621085713996,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-835",
+      "ts": "2025-08-18 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-836",
+      "ts": "2025-08-18 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.166176657143396,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-837",
+      "ts": "2025-08-18 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-838",
+      "ts": "2025-08-19 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.030421442857843,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-839",
+      "ts": "2025-08-19 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-840",
+      "ts": "2025-08-19 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 34.97662140000058,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-841",
+      "ts": "2025-08-19 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-842",
+      "ts": "2025-08-19 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.86262823571352,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-843",
+      "ts": "2025-08-19 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-844",
+      "ts": "2025-08-19 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.330449242857583,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-845",
+      "ts": "2025-08-19 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-846",
+      "ts": "2025-08-19 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -3.4232904000000697,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-847",
+      "ts": "2025-08-19 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-848",
+      "ts": "2025-08-20 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.826898035714773,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-849",
+      "ts": "2025-08-20 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-850",
+      "ts": "2025-08-21 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 37.93387917142918,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-851",
+      "ts": "2025-08-21 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-852",
+      "ts": "2025-08-21 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 31.63389157142788,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-853",
+      "ts": "2025-08-21 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-854",
+      "ts": "2025-08-22 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.741141978571964,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-855",
+      "ts": "2025-08-22 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-856",
+      "ts": "2025-08-25 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 15.776597800001367,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-857",
+      "ts": "2025-08-25 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-858",
+      "ts": "2025-08-25 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.51622695714336,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-859",
+      "ts": "2025-08-25 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-860",
+      "ts": "2025-08-25 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.637583685715047,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-861",
+      "ts": "2025-08-25 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-862",
+      "ts": "2025-08-25 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.383963764285387,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-863",
+      "ts": "2025-08-25 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-864",
+      "ts": "2025-08-26 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 17.57672099999984,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-865",
+      "ts": "2025-08-26 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-866",
+      "ts": "2025-08-27 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 45.26251705714295,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-867",
+      "ts": "2025-08-27 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-868",
+      "ts": "2025-08-27 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.558951757143337,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-869",
+      "ts": "2025-08-27 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-870",
+      "ts": "2025-08-28 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.987611442857535,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-871",
+      "ts": "2025-08-28 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-872",
+      "ts": "2025-08-28 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.34480181428574,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-873",
+      "ts": "2025-08-28 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-874",
+      "ts": "2025-08-28 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.516232728571932,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-875",
+      "ts": "2025-08-28 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-876",
+      "ts": "2025-08-29 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 28.07667979999979,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-877",
+      "ts": "2025-08-29 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-878",
+      "ts": "2025-08-29 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 33.240892185713655,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-879",
+      "ts": "2025-08-29 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-880",
+      "ts": "2025-08-29 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.17694052142869,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-881",
+      "ts": "2025-08-29 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-882",
+      "ts": "2025-09-01 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 42.64796902857088,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-883",
+      "ts": "2025-09-01 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-884",
+      "ts": "2025-09-01 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.55199337142848,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-885",
+      "ts": "2025-09-01 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-886",
+      "ts": "2025-09-02 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.980522542857624,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-887",
+      "ts": "2025-09-02 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-888",
+      "ts": "2025-09-02 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -11.309081114285105,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-889",
+      "ts": "2025-09-02 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-890",
+      "ts": "2025-09-02 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.837538685714357,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-891",
+      "ts": "2025-09-02 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-892",
+      "ts": "2025-09-02 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.76609145714255,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-893",
+      "ts": "2025-09-02 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-894",
+      "ts": "2025-09-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 55.39808072857004,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-895",
+      "ts": "2025-09-02 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-896",
+      "ts": "2025-09-02 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -34.03397366428633,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-897",
+      "ts": "2025-09-02 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-898",
+      "ts": "2025-09-03 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 15.576699400000058,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-899",
+      "ts": "2025-09-03 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-900",
+      "ts": "2025-09-03 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.319762964286248,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-901",
+      "ts": "2025-09-03 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-902",
+      "ts": "2025-09-05 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.823372400000487,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-903",
+      "ts": "2025-09-05 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-904",
+      "ts": "2025-09-05 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.419828564285451,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-905",
+      "ts": "2025-09-05 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-906",
+      "ts": "2025-09-05 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.64850945000067,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-907",
+      "ts": "2025-09-05 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-908",
+      "ts": "2025-09-05 19:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 15.976561400000458,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-909",
+      "ts": "2025-09-05 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-910",
+      "ts": "2025-09-10 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.237661885715763,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-911",
+      "ts": "2025-09-10 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-912",
+      "ts": "2025-09-11 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.966231457142197,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-913",
+      "ts": "2025-09-11 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-914",
+      "ts": "2025-09-11 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -12.86264423571418,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-915",
+      "ts": "2025-09-11 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-916",
+      "ts": "2025-09-11 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.07691972142892,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-917",
+      "ts": "2025-09-11 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-918",
+      "ts": "2025-09-15 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 37.46220631428577,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-919",
+      "ts": "2025-09-15 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-920",
+      "ts": "2025-09-16 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 28.41929205714204,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-921",
+      "ts": "2025-09-16 03:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-922",
+      "ts": "2025-09-16 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 28.697808128572753,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-923",
+      "ts": "2025-09-16 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-924",
+      "ts": "2025-09-16 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.120027178573313,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-925",
+      "ts": "2025-09-16 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-926",
+      "ts": "2025-09-16 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 38.38345364285848,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-927",
+      "ts": "2025-09-16 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-928",
+      "ts": "2025-09-17 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.873656500000703,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-929",
+      "ts": "2025-09-17 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-930",
+      "ts": "2025-09-17 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -26.86647465714266,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-931",
+      "ts": "2025-09-17 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-932",
+      "ts": "2025-09-18 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.355708192857648,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-933",
+      "ts": "2025-09-18 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-934",
+      "ts": "2025-09-18 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -32.780668942857,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-935",
+      "ts": "2025-09-18 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-936",
+      "ts": "2025-09-19 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -32.0627586357134,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-937",
+      "ts": "2025-09-19 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-938",
+      "ts": "2025-09-21 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 1.2765210000018552,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-939",
+      "ts": "2025-09-21 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-940",
+      "ts": "2025-09-22 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.41993796428479,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-941",
+      "ts": "2025-09-22 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-942",
+      "ts": "2025-09-22 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.634235907143047,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-943",
+      "ts": "2025-09-22 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-944",
+      "ts": "2025-09-22 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.519981764285887,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-945",
+      "ts": "2025-09-22 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-946",
+      "ts": "2025-09-22 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.462867792856198,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-947",
+      "ts": "2025-09-22 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-948",
+      "ts": "2025-09-23 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -21.04861584999896,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-949",
+      "ts": "2025-09-23 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-950",
+      "ts": "2025-09-23 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -11.723633399998931,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-951",
+      "ts": "2025-09-24 02:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-952",
+      "ts": "2025-09-24 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.312849335714578,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-953",
+      "ts": "2025-09-24 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-954",
+      "ts": "2025-09-24 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.391373007144091,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-955",
+      "ts": "2025-09-24 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-956",
+      "ts": "2025-09-24 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -11.923482599998025,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-957",
+      "ts": "2025-09-24 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-958",
+      "ts": "2025-09-25 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 37.398028814286306,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-959",
+      "ts": "2025-09-25 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-960",
+      "ts": "2025-09-25 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 39.969543528573006,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-961",
+      "ts": "2025-09-25 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-962",
+      "ts": "2025-09-26 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.712653692856623,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-963",
+      "ts": "2025-09-26 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-964",
+      "ts": "2025-09-26 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.91624592857055,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-965",
+      "ts": "2025-09-26 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-966",
+      "ts": "2025-09-26 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.162690192858346,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-967",
+      "ts": "2025-09-26 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-968",
+      "ts": "2025-09-28 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -19.976991135715423,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-969",
+      "ts": "2025-09-28 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-970",
+      "ts": "2025-09-29 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.316301128570732,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-971",
+      "ts": "2025-09-29 00:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-972",
+      "ts": "2025-09-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.23061987142858,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-973",
+      "ts": "2025-09-29 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-974",
+      "ts": "2025-10-01 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.330680871429017,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-975",
+      "ts": "2025-10-01 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-976",
+      "ts": "2025-10-01 09:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 32.340817442855055,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-977",
+      "ts": "2025-10-01 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-978",
+      "ts": "2025-10-01 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -23.01992276428617,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-979",
+      "ts": "2025-10-01 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-980",
+      "ts": "2025-10-01 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -8.123511999999774,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-981",
+      "ts": "2025-10-01 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-982",
+      "ts": "2025-10-01 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -31.419861378571404,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-983",
+      "ts": "2025-10-01 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-984",
+      "ts": "2025-10-02 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -34.24838175000106,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-985",
+      "ts": "2025-10-02 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-986",
+      "ts": "2025-10-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 40.39795192857169,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-987",
+      "ts": "2025-10-03 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-988",
+      "ts": "2025-10-03 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -14.212740335714145,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-989",
+      "ts": "2025-10-03 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-990",
+      "ts": "2025-10-05 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.594879028570984,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-991",
+      "ts": "2025-10-05 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-992",
+      "ts": "2025-10-05 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.948418750000748,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-993",
+      "ts": "2025-10-05 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-994",
+      "ts": "2025-10-06 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.916245957141648,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-995",
+      "ts": "2025-10-06 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-996",
+      "ts": "2025-10-06 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.33763888571563,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-997",
+      "ts": "2025-10-06 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-998",
+      "ts": "2025-10-06 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -2.0233241999997795,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-999",
+      "ts": "2025-10-06 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1000",
+      "ts": "2025-10-06 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.95554252142923,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1001",
+      "ts": "2025-10-06 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1002",
+      "ts": "2025-10-08 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 52.63385157142778,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1003",
+      "ts": "2025-10-08 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1004",
+      "ts": "2025-10-08 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.955427321428,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1005",
+      "ts": "2025-10-08 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1006",
+      "ts": "2025-10-09 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 43.63396917142656,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1007",
+      "ts": "2025-10-09 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1008",
+      "ts": "2025-10-10 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.998205350000635,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1009",
+      "ts": "2025-10-10 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1010",
+      "ts": "2025-10-13 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 45.241153442855186,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1011",
+      "ts": "2025-10-13 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1012",
+      "ts": "2025-10-14 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.62318019999929,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1013",
+      "ts": "2025-10-14 04:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1014",
+      "ts": "2025-10-14 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 26.834015171427517,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1015",
+      "ts": "2025-10-14 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1016",
+      "ts": "2025-10-14 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.530276271428324,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1017",
+      "ts": "2025-10-14 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1018",
+      "ts": "2025-10-14 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -24.14462261428577,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1019",
+      "ts": "2025-10-14 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1020",
+      "ts": "2025-10-15 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -25.901808785713165,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1021",
+      "ts": "2025-10-15 01:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1022",
+      "ts": "2025-10-15 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.4054194214284,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1023",
+      "ts": "2025-10-15 06:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1024",
+      "ts": "2025-10-15 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.95543652142833,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1025",
+      "ts": "2025-10-15 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1026",
+      "ts": "2025-10-15 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -9.723290999999154,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1027",
+      "ts": "2025-10-15 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1028",
+      "ts": "2025-10-16 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 37.33377234285604,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1029",
+      "ts": "2025-10-16 17:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1030",
+      "ts": "2025-10-17 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -20.79119460714172,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1031",
+      "ts": "2025-10-17 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1032",
+      "ts": "2025-10-17 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.97688132142938,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1033",
+      "ts": "2025-10-17 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1034",
+      "ts": "2025-10-21 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -22.69825945000089,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1035",
+      "ts": "2025-10-21 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1036",
+      "ts": "2025-10-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -12.60537089285694,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1037",
+      "ts": "2025-10-21 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1038",
+      "ts": "2025-10-21 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -14.041074107141908,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1039",
+      "ts": "2025-10-21 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1040",
+      "ts": "2025-10-21 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.594636028570983,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1041",
+      "ts": "2025-10-21 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1042",
+      "ts": "2025-10-21 22:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -13.423198199998968,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1043",
+      "ts": "2025-10-21 23:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1044",
+      "ts": "2025-10-22 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.169659464285594,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1045",
+      "ts": "2025-10-22 05:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1046",
+      "ts": "2025-10-22 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 19.78395787142796,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1047",
+      "ts": "2025-10-22 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1048",
+      "ts": "2025-10-22 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -11.448215450000465,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1049",
+      "ts": "2025-10-22 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1050",
+      "ts": "2025-10-24 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.301823785714667,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1051",
+      "ts": "2025-10-24 07:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1052",
+      "ts": "2025-10-24 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -11.801829185714052,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1053",
+      "ts": "2025-10-24 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1054",
+      "ts": "2025-10-27 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -17.769730064285085,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1055",
+      "ts": "2025-10-27 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1056",
+      "ts": "2025-10-27 20:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -6.22329260000065,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1057",
+      "ts": "2025-10-27 21:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1058",
+      "ts": "2025-10-28 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.766120657143215,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1059",
+      "ts": "2025-10-28 13:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1060",
+      "ts": "2025-10-29 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -18.273245299999655,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1061",
+      "ts": "2025-10-29 08:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1062",
+      "ts": "2025-10-29 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 23.083847442855944,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1063",
+      "ts": "2025-10-29 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1064",
+      "ts": "2025-10-29 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -14.812553535713633,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1065",
+      "ts": "2025-10-29 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1066",
+      "ts": "2025-10-29 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -16.248249749998603,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1067",
+      "ts": "2025-10-29 18:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1068",
+      "ts": "2025-10-30 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -27.840993307141275,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1069",
+      "ts": "2025-10-30 12:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1070",
+      "ts": "2025-10-30 14:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 15.476856199999403,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1071",
+      "ts": "2025-10-30 15:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1072",
+      "ts": "2025-11-03 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 52.97698139999861,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1073",
+      "ts": "2025-11-03 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1074",
+      "ts": "2025-11-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": -15.465916428572044,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1075",
+      "ts": "2025-11-03 16:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1076",
+      "ts": "2025-11-04 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 30.71271675714088,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1077",
+      "ts": "2025-11-04 11:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-1078",
+      "ts": "2025-11-05 10:00:00+00:00",
+      "symbol": "EURUSD",
+      "pnl": 4.5770318000012695,
+      "strategy": "default"
+    }
+  ],
+  "rejects": [],
+  "kill_switch_events": [],
+  "run_id": "20251110_111635"
+}

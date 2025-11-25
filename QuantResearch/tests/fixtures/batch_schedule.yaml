@@ -1,0 +1,8 @@
+- label: scenario_job
+  symbol: TESTFX
+  csv_path: tests/fixtures/eurusd_small.csv
+  fast_win: 2
+  slow_win: 4
+  qty: 1000
+  initial_cash: 50000
+  scenario: double_costs

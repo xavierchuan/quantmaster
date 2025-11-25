@@ -1,0 +1,64 @@
+{
+  "generated_at": "2025-11-19T23:43:19.973547+00:00",
+  "symbol": "GBPJPY",
+  "csv": "QuantResearch/data/clean/GBPJPY_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 17436,
+    "val": 5812,
+    "test": 5813
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 26,
+  "thresholds": {
+    "label_mode": "binary",
+    "p_long": 0.65,
+    "p_exit": 0.45,
+    "val_metrics": {
+      "long": {
+        "sharpe": 15.29595631449901,
+        "trades": 63
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": 14.064747584586199,
+        "trades": 19
+      }
+    }
+  },
+  "label_mode": "binary",
+  "class_mapping": {
+    "flat": 0,
+    "long": 1
+  },
+  "costs": {
+    "spread_pips": 2.0,
+    "slip_pips": 0.2,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

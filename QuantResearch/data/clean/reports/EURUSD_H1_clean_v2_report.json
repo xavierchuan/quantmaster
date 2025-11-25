@@ -1,0 +1,11 @@
+{
+  "symbol": "EURUSD",
+  "total_rows_raw": 31094,
+  "clean_rows": 30930,
+  "removed_weekend": 168,
+  "filled_short_gaps": 4,
+  "segments": 264,
+  "price_outliers": 64,
+  "volume_outliers": 0,
+  "feature_columns": []
+}

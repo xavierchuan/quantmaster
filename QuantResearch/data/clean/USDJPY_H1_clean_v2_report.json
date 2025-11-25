@@ -1,0 +1,22 @@
+{
+  "total_rows_raw": 31095,
+  "clean_rows": 30931,
+  "removed_weekend": 168,
+  "filled_short_gaps": 4,
+  "segments": 264,
+  "price_outliers": 71,
+  "volume_outliers": 1,
+  "feature_columns": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ]
+}

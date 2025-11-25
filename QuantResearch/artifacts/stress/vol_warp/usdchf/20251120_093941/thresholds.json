@@ -1,0 +1,17 @@
+{
+  "label_mode": "binary",
+  "p_long": 0.55,
+  "p_exit": 0.45,
+  "val_metrics": {
+    "long": {
+      "sharpe": 3.0577349298151004,
+      "trades": 219
+    }
+  },
+  "test_metrics": {
+    "long": {
+      "sharpe": -3.7012325721814596,
+      "trades": 222
+    }
+  }
+}

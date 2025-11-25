@@ -1,0 +1,11 @@
+{
+  "symbol": "EURJPY",
+  "total_rows_raw": 31085,
+  "clean_rows": 30919,
+  "removed_weekend": 168,
+  "filled_short_gaps": 2,
+  "segments": 265,
+  "price_outliers": 50,
+  "volume_outliers": 0,
+  "feature_columns": []
+}

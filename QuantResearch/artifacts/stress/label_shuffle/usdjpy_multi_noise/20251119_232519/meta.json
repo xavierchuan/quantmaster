@@ -1,0 +1,77 @@
+{
+  "generated_at": "2025-11-19T23:25:19.516154+00:00",
+  "symbol": "USDJPY",
+  "csv": "QuantResearch/data/clean/USDJPY_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 18511,
+    "val": 6170,
+    "test": 6171
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "eval_metric": "mlogloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42,
+    "num_class": 3
+  },
+  "best_iteration": 50,
+  "thresholds": {
+    "label_mode": "multi",
+    "p_long": 0.6,
+    "p_exit": 0.5,
+    "p_short": 0.6,
+    "p_short_exit": 0.5,
+    "val_metrics": {
+      "long": {
+        "sharpe": -Infinity,
+        "trades": 0
+      },
+      "short": {
+        "sharpe": -Infinity,
+        "trades": 0
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": 0.0,
+        "trades": 0
+      },
+      "short": {
+        "sharpe": 0.0,
+        "trades": 0
+      }
+    }
+  },
+  "label_mode": "multi",
+  "class_mapping": {
+    "short": 0,
+    "flat": 1,
+    "long": 2
+  },
+  "costs": {
+    "spread_pips": 2.0,
+    "slip_pips": 0.3,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

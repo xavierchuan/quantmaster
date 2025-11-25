@@ -1,0 +1,3 @@
+order_id,ts,symbol,pnl,strategy
+PAPER-1,2025-11-06T14:37:50+00:00,EURUSD,0.0,default
+PAPER-2,2025-11-06T14:37:50+00:00,EURUSD,0.0,default

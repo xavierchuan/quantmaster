@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-10T17:20:41.635223+00:00",
+  "inputs": {
+    "batch_csv": "data/results/batch_backtests_20251110_164719.csv",
+    "walkforward_csv": "results/20251110_112516/walkforward/metrics.csv",
+    "mc_summary": "results/20251109_154443/stress/mc_summary.json",
+    "mc_iterations": "results/20251109_154443/stress/mc_iterations.csv",
+    "equity_csv": "tests/fixtures/equity_sample.csv",
+    "underwater_csv": "tests/fixtures/underwater_sample.csv"
+  },
+  "artifacts": {
+    "batch_heatmap": null,
+    "mc_boxplot": "charts/ci/diagnostics_20251110_172040/diagnostics_20251110_172041/monte_carlo_box.png",
+    "walkforward_timeline": "charts/ci/diagnostics_20251110_172040/diagnostics_20251110_172041/walkforward_timeline.png",
+    "equity_curve": "charts/ci/diagnostics_20251110_172040/diagnostics_20251110_172041/equity_curve.png",
+    "underwater_curve": "charts/ci/diagnostics_20251110_172040/diagnostics_20251110_172041/underwater_curve.png"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "generated_at": "2025-11-18T21:58:15.687582+00:00",
+  "symbol": "GBPUSD",
+  "csv": "QuantResearch/data/clean/GBPUSD_H1_clean_v2.csv",
+  "horizon": 12,
+  "pos_thresh": 0.0005,
+  "neg_thresh": -0.0005,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "ret_12",
+    "vol_24",
+    "vol_48",
+    "sma_diff",
+    "ema_diff",
+    "ema_slope_20",
+    "ema_slope_80",
+    "rsi",
+    "atr_norm_14",
+    "atr_norm_50",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "splits": {
+    "train": 18503,
+    "val": 6168,
+    "test": 6168
+  },
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "num_class": 3,
+    "eval_metric": "mlogloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 58,
+  "metrics": {
+    "train_acc": 0.5943900989028806,
+    "val_acc": 0.41293774319066145,
+    "test_acc": 0.4293125810635538,
+    "train_confusion": [
+      [
+        5489,
+        2,
+        2614
+      ],
+      [
+        1177,
+        47,
+        1211
+      ],
+      [
+        2494,
+        7,
+        5462
+      ]
+    ],
+    "val_confusion": [
+      [
+        1441,
+        62,
+        912
+      ],
+      [
+        680,
+        47,
+        365
+      ],
+      [
+        1550,
+        52,
+        1059
+      ]
+    ],
+    "test_confusion": [
+      [
+        1330,
+        11,
+        1195
+      ],
+      [
+        481,
+        6,
+        425
+      ],
+      [
+        1397,
+        11,
+        1312
+      ]
+    ]
+  }
+}

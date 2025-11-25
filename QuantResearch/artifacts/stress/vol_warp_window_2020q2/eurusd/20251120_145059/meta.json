@@ -1,0 +1,82 @@
+{
+  "generated_at": "2025-11-20T14:50:59.011232+00:00",
+  "symbol": "EURUSD",
+  "csv": "QuantResearch/data/clean/USDJPY_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 18470,
+    "val": 6157,
+    "test": 6157
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 30,
+  "thresholds": {
+    "label_mode": "binary",
+    "p_long": 0.65,
+    "p_exit": 0.45,
+    "val_metrics": {
+      "long": {
+        "sharpe": 27.026578622857322,
+        "trades": 72
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": -2.834430524601172,
+        "trades": 30
+      }
+    }
+  },
+  "label_mode": "binary",
+  "class_mapping": {
+    "flat": 0,
+    "long": 1
+  },
+  "costs": {
+    "spread_pips": 2.0,
+    "slip_pips": 0.3,
+    "comm_per_million": 0.25
+  },
+  "stress_params": {
+    "label_shuffle": 0.0,
+    "label_noise": 0.0,
+    "block_shuffle": 0,
+    "drop_regime": 0.0,
+    "drop_regime_mode": "row",
+    "feature_mask": [],
+    "feature_drop_rate": 0.0,
+    "drop_sample": 0.0,
+    "vol_warp": 0.1,
+    "vol_warp_window": [
+      "2020-03-01",
+      "2020-05-30"
+    ],
+    "train_start": null,
+    "train_end": null
+  },
+  "git_commit": null
+}

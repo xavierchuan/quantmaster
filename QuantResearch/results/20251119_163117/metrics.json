@@ -1,0 +1,28 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 1015808.1288112263,
+  "ann_return": 0.011116504360103363,
+  "ann_vol": 0.0034611057204016558,
+  "sharpe": 3.211836117740232,
+  "max_drawdown": -0.0025823765175197184,
+  "sortino": 1.3824628473238028,
+  "calmar": 4.304757375497037,
+  "max_drawdown_duration_bars": 2877,
+  "avg_drawdown_duration_bars": 75.81848184818482,
+  "current_drawdown_duration_bars": 2062,
+  "recovery_time_bars": 2877,
+  "trades": 880,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14,
+  "data_report": "data/outputs/stats/data_reports/data_USDJPY_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json",
+  "data_validation": {
+    "severity": "warn",
+    "messages": [
+      "Non-zero timestamp gaps detected (ratio=0.0085).",
+      "Columns contain nulls (max ratio=0.0026).",
+      "Detected numeric outliers (threshold z>5.0)."
+    ]
+  }
+}

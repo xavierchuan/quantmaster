@@ -1,0 +1,10 @@
+{
+  "timestamp": "20251109_145253",
+  "job_count": 3,
+  "symbols": [
+    "EURUSD",
+    "USDJPY"
+  ],
+  "sharpe_max": -0.24200820493167774,
+  "sharpe_min": -1.1716153510167895
+}

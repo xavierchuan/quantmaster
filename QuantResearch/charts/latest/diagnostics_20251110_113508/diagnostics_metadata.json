@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-11-10T11:35:08.954740+00:00",
+  "inputs": {
+    "batch_csv": "data/results/batch_backtests_20251110_112520.csv",
+    "walkforward_csv": "results/walkforward_usdjpy_walk_20251110_113157/walkforward/metrics.csv",
+    "mc_summary": null,
+    "mc_iterations": null,
+    "equity_csv": null,
+    "underwater_csv": null
+  },
+  "artifacts": {
+    "batch_heatmap": null,
+    "walkforward_timeline": "charts/latest/diagnostics_20251110_113508/walkforward_timeline.png"
+  }
+}

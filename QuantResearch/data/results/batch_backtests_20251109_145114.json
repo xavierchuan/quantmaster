@@ -1,0 +1,21 @@
+[
+  {
+    "symbol":"USDJPY",
+    "label":null,
+    "config_name":null,
+    "sharpe":-1.171615351,
+    "ann_return":-0.0096935386,
+    "ann_vol":0.0082736528,
+    "max_drawdown":-0.0116874943,
+    "trades":876,
+    "final_equity":99195.2946244881,
+    "sortino":-1.0250997103,
+    "calmar":-0.8293940773,
+    "run_id":"20251109_145113",
+    "summary_path":"\/Users\/chuan\/Documents\/Projects\/FX_Backtest\/QuantResearch\/results\/20251109_145113\/summary.json",
+    "data_severity":"warn",
+    "strategy_mode":null,
+    "stress_cost_spread_mult":null,
+    "stress_price_vol_mult":null
+  }
+]

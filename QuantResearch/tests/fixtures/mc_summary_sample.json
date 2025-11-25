@@ -1,0 +1,7 @@
+{
+  "scenario": "base",
+  "iterations": 5,
+  "method": "bootstrap",
+  "return_scale": 1.0,
+  "seed": 123
+}

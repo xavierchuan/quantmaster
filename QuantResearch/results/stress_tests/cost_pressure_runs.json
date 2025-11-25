@@ -1,0 +1,86 @@
+{
+  "GBPUSD": [
+    {
+      "run_id": "20251120_092717",
+      "summary_path": "QuantResearch/results/20251120_092717/summary.json",
+      "symbol": "GBPUSD",
+      "ann_return": 0.08688535661796526,
+      "sharpe": 2.415962595546174,
+      "max_drawdown": -0.03326085242756098,
+      "trades": 818,
+      "spread_mult": 1.5,
+      "slip_mult": 1.5,
+      "comm_mult": 1.5
+    }
+  ],
+  "EURUSD": [
+    {
+      "run_id": "20251120_092830",
+      "summary_path": "QuantResearch/results/20251120_092830/summary.json",
+      "symbol": "EURUSD",
+      "ann_return": 0.065262410242521,
+      "sharpe": 1.9932617382624243,
+      "max_drawdown": -0.046766591670304586,
+      "trades": 1286,
+      "spread_mult": 1.5,
+      "slip_mult": 1.5,
+      "comm_mult": 1.5
+    }
+  ],
+  "USDCHF": [
+    {
+      "run_id": "20251120_092852",
+      "summary_path": "QuantResearch/results/20251120_092852/summary.json",
+      "symbol": "USDCHF",
+      "ann_return": 0.04806353807325592,
+      "sharpe": 2.0191628242903503,
+      "max_drawdown": -0.018556080668353615,
+      "trades": 364,
+      "spread_mult": 1.5,
+      "slip_mult": 1.5,
+      "comm_mult": 1.5
+    }
+  ],
+  "AUDUSD": [
+    {
+      "run_id": "20251120_092921",
+      "summary_path": "QuantResearch/results/20251120_092921/summary.json",
+      "symbol": "AUDUSD",
+      "ann_return": 0.06972497990020532,
+      "sharpe": 2.407937147007573,
+      "max_drawdown": -0.04125427071039069,
+      "trades": 1190,
+      "spread_mult": 1.5,
+      "slip_mult": 1.5,
+      "comm_mult": 1.5
+    }
+  ],
+  "GBPJPY": [
+    {
+      "run_id": "20251120_092946",
+      "summary_path": "QuantResearch/results/20251120_092946/summary.json",
+      "symbol": "GBPJPY",
+      "ann_return": 0.14206025542826373,
+      "sharpe": 1.1848429786353725,
+      "max_drawdown": -0.09994512339075312,
+      "trades": 34,
+      "spread_mult": 1.5,
+      "slip_mult": 1.5,
+      "comm_mult": 1.5
+    }
+  ],
+  "USDJPY": [
+    {
+      "run_id": "20251120_093019",
+      "summary_path": "QuantResearch/results/20251120_093019/summary.json",
+      "symbol": "USDJPY",
+      "ann_return": 0.004015235227851299,
+      "sharpe": 2.126591569594468,
+      "max_drawdown": -0.005954057724896175,
+      "trades": 986,
+      "spread_mult": 1.5,
+      "slip_mult": 1.5,
+      "comm_mult": 1.5
+    }
+  ]
+}

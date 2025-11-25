@@ -1,0 +1,55 @@
+{
+  "base": {
+    "audusd_h1_xgb_baseline.yaml": 0.3424247463828372,
+    "eurusd_h1_xgb_baseline.yaml": 0.24097788125727593,
+    "usdchf_h1_xgb_baseline.yaml": 0.416597372359887,
+    "gbpusd_h1_xgb_baseline.yaml": 0.0,
+    "gbpjpy_h1_xgb_baseline.yaml": 0.0,
+    "usdjpy_xgb_backtest.yaml": 0.0
+  },
+  "scale_2x": {
+    "exposures": {
+      "audusd_h1_xgb_baseline.yaml": 0.6848494927656744,
+      "eurusd_h1_xgb_baseline.yaml": 0.48195576251455186,
+      "usdchf_h1_xgb_baseline.yaml": 0.833194744719774,
+      "gbpusd_h1_xgb_baseline.yaml": 0.0,
+      "gbpjpy_h1_xgb_baseline.yaml": 0.0,
+      "usdjpy_xgb_backtest.yaml": 0.0
+    },
+    "normalized": {
+      "audusd_h1_xgb_baseline.yaml": 0.3424247463828372,
+      "eurusd_h1_xgb_baseline.yaml": 0.24097788125727593,
+      "usdchf_h1_xgb_baseline.yaml": 0.416597372359887
+    }
+  },
+  "scale_3x": {
+    "exposures": {
+      "audusd_h1_xgb_baseline.yaml": 1.0272742391485116,
+      "eurusd_h1_xgb_baseline.yaml": 0.7229336437718278,
+      "usdchf_h1_xgb_baseline.yaml": 1.249792117079661,
+      "gbpusd_h1_xgb_baseline.yaml": 0.0,
+      "gbpjpy_h1_xgb_baseline.yaml": 0.0,
+      "usdjpy_xgb_backtest.yaml": 0.0
+    },
+    "normalized": {
+      "audusd_h1_xgb_baseline.yaml": 0.3424247463828372,
+      "eurusd_h1_xgb_baseline.yaml": 0.24097788125727593,
+      "usdchf_h1_xgb_baseline.yaml": 0.416597372359887
+    }
+  },
+  "scale_5x": {
+    "exposures": {
+      "audusd_h1_xgb_baseline.yaml": 1.712123731914186,
+      "eurusd_h1_xgb_baseline.yaml": 1.2048894062863797,
+      "usdchf_h1_xgb_baseline.yaml": 2.082986861799435,
+      "gbpusd_h1_xgb_baseline.yaml": 0.0,
+      "gbpjpy_h1_xgb_baseline.yaml": 0.0,
+      "usdjpy_xgb_backtest.yaml": 0.0
+    },
+    "normalized": {
+      "audusd_h1_xgb_baseline.yaml": 0.3424247463828372,
+      "eurusd_h1_xgb_baseline.yaml": 0.24097788125727593,
+      "usdchf_h1_xgb_baseline.yaml": 0.416597372359887
+    }
+  }
+}

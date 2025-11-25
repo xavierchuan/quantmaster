@@ -1,0 +1,10 @@
+{
+  "path": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/data/clean/GBPUSD_H1_clean_v2_with_regime.csv",
+  "severity": "warn",
+  "messages": [
+    "gap ratio=0.2938",
+    "outliers detected: {'volume': 85}"
+  ],
+  "duplicate_timestamps": 0,
+  "gap_ratio": 0.29383561643835615
+}

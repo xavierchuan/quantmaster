@@ -1,0 +1,101 @@
+{
+  "generated_at": "2025-11-18T21:58:01.935524+00:00",
+  "symbol": "AUDJPY",
+  "csv": "QuantResearch/data/clean/AUDJPY_H1_clean_v2.csv",
+  "horizon": 12,
+  "pos_thresh": 0.0005,
+  "neg_thresh": -0.0005,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "ret_12",
+    "vol_24",
+    "vol_48",
+    "sma_diff",
+    "ema_diff",
+    "ema_slope_20",
+    "ema_slope_80",
+    "rsi",
+    "atr_norm_14",
+    "atr_norm_50",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "splits": {
+    "train": 18503,
+    "val": 6168,
+    "test": 6168
+  },
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "num_class": 3,
+    "eval_metric": "mlogloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 55,
+  "metrics": {
+    "train_acc": 0.6187645246716749,
+    "val_acc": 0.42071984435797666,
+    "test_acc": 0.4573605706874189,
+    "train_confusion": [
+      [
+        3769,
+        1,
+        3901
+      ],
+      [
+        548,
+        29,
+        1290
+      ],
+      [
+        1314,
+        0,
+        7651
+      ]
+    ],
+    "val_confusion": [
+      [
+        938,
+        8,
+        1470
+      ],
+      [
+        330,
+        1,
+        407
+      ],
+      [
+        1355,
+        3,
+        1656
+      ]
+    ],
+    "test_confusion": [
+      [
+        892,
+        0,
+        1738
+      ],
+      [
+        226,
+        0,
+        417
+      ],
+      [
+        966,
+        0,
+        1929
+      ]
+    ]
+  }
+}

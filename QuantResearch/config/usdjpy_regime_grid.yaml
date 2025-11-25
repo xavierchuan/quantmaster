@@ -1,0 +1,104 @@
+symbol: USDJPY
+csv: data/raw/USDJPY_H1.csv
+cash: 100000.0
+account_ccy: USD
+
+qty: 100000           # 基础名义（仅作为下限；实际用风控 sizing）
+# ===== 基础交易杠杆 / 成本 =====
+spread: 1.0
+slip: 0.2
+comm: 2.0
+
+# ===== 成本分段配置（可选，根据时段切换） =====
+cost_profiles:
+  - name: default
+    spread: 1.0
+    slip: 0.2
+    comm: 2.0
+    default: true
+  - name: asia_open
+    spread: 1.3
+    slip: 0.3
+    comm: 2.0
+    weekdays: [0, 1, 2, 3, 4]   # 周一=0
+    start_hour: 0               # UTC 时间
+    end_hour: 7
+  - name: europe
+    spread: 0.9
+    slip: 0.18
+    comm: 1.8
+    weekdays: [0, 1, 2, 3, 4]
+    start_hour: 7
+    end_hour: 15
+  - name: us_session
+    spread: 0.8
+    slip: 0.15
+    comm: 1.8
+    weekdays: [0, 1, 2, 3, 4]
+    start_hour: 13
+    end_hour: 22
+
+# ===== 滑点模型（ATR 自适应，可选） =====
+slippage_model:
+  mode: atr
+  base_pips: 0.15        # 若未设置则回退到 profile 定义
+  atr_mult: 0.25         # ATR（折算成 pips）乘子
+  size_mult: 0.2         # 每超出基准名义（size_pivot）的滑点附加（pips）
+  size_pivot: 100000     # 名义基准（单位=qty），可按策略风险调整
+  min_pips: 0.05
+  max_pips: 1.5
+
+# ===== HTF（高时间框）过滤 =====
+htf_factor: 4                 # 用 H4 对齐（H1×4）
+htf_alignment: true
+htf_ema_window: 100
+htf_rsi_period: 14
+htf_rsi_range: [45, 55]       # H4 RSI 区间过滤（可调）
+
+# ===== 动态仓位与风险控制 =====
+risk_per_trade_pct: 0.008     # 每笔风险占净值
+max_drawdown_pct: 0.05        # 风控断路器（回撤停止）
+position_sizing_mode: atr_based
+atr_window: 14
+regime_atr_percentile_min: 30
+regime_atr_percentile_window: 200
+
+# ===== 全局回测窗口内的基础均线参数（便于 grid 扫描覆盖）=====
+fast: 30
+slow: 120
+cooldown: 12
+
+# ===== 策略组合：趋势 + 布林回归 =====
+strategies:
+  - name: regime_sma    # 趋势腿（含 RSI 75/25 的 range filter）
+    weight: 1.0
+    params:
+      trend_params:
+        fast_win: 30
+        slow_win: 120
+        long_only_above_slow: true
+        short_only_below_slow: true
+        slope_lookback: 6
+        cooldown: 12
+        atr_sl: 1.6
+        atr_tp: 4.0
+        atr_window: 14
+        allow_short: true
+        rsi_period: 14
+        rsi_long_thresh: 60
+        rsi_short_thresh: 40
+      range_mode: flat            # 非趋势期不做（让布林腿来做）
+      range_rsi_high: 75          # 默认 75/25 作为“震荡识别”
+      range_rsi_low: 25
+      atr_percentile_min: 60      # 仅在波动较高时做趋势
+      trend_min_bars: 3
+
+  - name: bollinger_mean_revert   # 回归腿（做震荡期）
+    weight: 0.6                   # 初期小权重叠加
+    params:
+      window: 48
+      num_std: 2.0
+      enter_z: 1.3                # 进场阈值（偏离）
+      exit_z: 0.3                 # 离场阈值（回归）
+      cooldown: 6
+      allow_short: true

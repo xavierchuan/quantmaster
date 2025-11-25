@@ -1,0 +1,53 @@
+{
+  "run_id": "20251118_221309",
+  "timestamp": "2025-11-18T22:13:18.174041+00:00",
+  "symbol": "USDCAD",
+  "csv_path": "data/clean/USDCAD_H1_clean_v2_with_regime.csv",
+  "parameters": {
+    "fast_win": 20,
+    "slow_win": 80,
+    "spread_pips": 1.6,
+    "commission_per_million": 0.25,
+    "slippage_pips": 0.2,
+    "stop_loss_pips": 50,
+    "take_profit_pips": null,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14,
+    "rsi_period": 14,
+    "regime_ema_window": 200,
+    "skip_outlier_entries": false,
+    "strategy_mode": "first_hit",
+    "strategy_vote_threshold": 0.0,
+    "stress_cost_spread_mult": 1.0,
+    "stress_cost_comm_mult": 1.0,
+    "stress_slippage_mult": 1.0,
+    "stress_price_vol_mult": 1.0,
+    "stress_skip_trade_pct": 0.0
+  },
+  "metrics": {
+    "fast": 20,
+    "slow": 80,
+    "final_equity": 1017947.9508194024,
+    "ann_return": 0.0035400965919507588,
+    "ann_vol": 0.010520250694127946,
+    "sharpe": 0.3365030639361781,
+    "max_drawdown": -0.02037298355700164,
+    "sortino": 0.07565821684166453,
+    "calmar": 0.17376426884387897,
+    "max_drawdown_duration_bars": 11415,
+    "avg_drawdown_duration_bars": 239.0,
+    "current_drawdown_duration_bars": 11415,
+    "recovery_time_bars": 11415,
+    "trades": 338,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14
+  },
+  "data_report": null,
+  "artifacts": {
+    "equity": "data/outputs/equity/equity_USDCAD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.csv",
+    "trades": "data/outputs/trades/trades_USDCAD_20251118_221318.csv",
+    "trade_stats": "data/outputs/stats/stats_USDCAD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json"
+  }
+}

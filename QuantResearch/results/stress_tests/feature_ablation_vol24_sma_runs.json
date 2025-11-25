@@ -1,0 +1,132 @@
+{
+  "GBPUSD": [
+    {
+      "timestamp": "2025-11-20T14:15:13.440414",
+      "symbol": "GBPUSD",
+      "test": "feature_ablation_vol24_sma",
+      "run_id": "20251120_141505",
+      "summary_path": "QuantResearch/results/stress_tests/feature_ablation_vol24_sma/GBPUSD/20251120_141505/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/feature_ablation_vol24_sma/gbpusd/20251120_141505",
+      "train_params": [
+        "--feature-mask",
+        "vol_24,sma_diff"
+      ],
+      "backtest_params": [],
+      "description": "Remove vol_24 + sma_diff",
+      "metrics": {
+        "sharpe": 0.1708918676708584,
+        "ann_return": 0.007004185084770409,
+        "max_drawdown": -0.07288942852758518,
+        "trades": 1256
+      }
+    }
+  ],
+  "EURUSD": [
+    {
+      "timestamp": "2025-11-20T14:50:32.862729",
+      "symbol": "EURUSD",
+      "test": "feature_ablation_vol24_sma",
+      "run_id": "20251120_145025",
+      "summary_path": "QuantResearch/results/stress_tests/feature_ablation_vol24_sma/EURUSD/20251120_145025/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/feature_ablation_vol24_sma/eurusd/20251120_145025",
+      "train_params": [
+        "--feature-mask",
+        "vol_24,sma_diff"
+      ],
+      "backtest_params": [],
+      "description": "Remove vol_24 + sma_diff",
+      "metrics": {
+        "sharpe": -1.1050210687839996,
+        "ann_return": -0.017275411243817262,
+        "max_drawdown": -0.10118214383543739,
+        "trades": 336
+      }
+    }
+  ],
+  "AUDUSD": [
+    {
+      "timestamp": "2025-11-20T14:53:00.779523",
+      "symbol": "AUDUSD",
+      "test": "feature_ablation_vol24_sma",
+      "run_id": "20251120_145253",
+      "summary_path": "QuantResearch/results/stress_tests/feature_ablation_vol24_sma/AUDUSD/20251120_145253/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/feature_ablation_vol24_sma/audusd/20251120_145253",
+      "train_params": [
+        "--feature-mask",
+        "vol_24,sma_diff"
+      ],
+      "backtest_params": [],
+      "description": "Remove vol_24 + sma_diff",
+      "metrics": {
+        "sharpe": -0.8179644844750815,
+        "ann_return": -0.018141938850753214,
+        "max_drawdown": -0.10037892496861167,
+        "trades": 886
+      }
+    }
+  ],
+  "GBPJPY": [
+    {
+      "timestamp": "2025-11-20T14:55:22.109916",
+      "symbol": "GBPJPY",
+      "test": "feature_ablation_vol24_sma",
+      "run_id": "20251120_145511",
+      "summary_path": "QuantResearch/results/stress_tests/feature_ablation_vol24_sma/GBPJPY/20251120_145511/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/feature_ablation_vol24_sma/gbpjpy/20251120_145511",
+      "train_params": [
+        "--feature-mask",
+        "vol_24,sma_diff"
+      ],
+      "backtest_params": [],
+      "description": "Remove vol_24 + sma_diff",
+      "metrics": {
+        "sharpe": 0.21604904815799472,
+        "ann_return": 0.009023379846676338,
+        "max_drawdown": -0.056750028966342375,
+        "trades": 4
+      }
+    },
+    {
+      "timestamp": "2025-11-20T14:57:36.395820",
+      "symbol": "GBPJPY",
+      "test": "feature_ablation_vol24_sma",
+      "run_id": "20251120_145727",
+      "summary_path": "QuantResearch/results/stress_tests/feature_ablation_vol24_sma/GBPJPY/20251120_145727/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/feature_ablation_vol24_sma/gbpjpy/20251120_145726",
+      "train_params": [
+        "--feature-mask",
+        "vol_24,sma_diff"
+      ],
+      "backtest_params": [],
+      "description": "Remove vol_24 + sma_diff",
+      "metrics": {
+        "sharpe": 0.21604904815799472,
+        "ann_return": 0.009023379846676338,
+        "max_drawdown": -0.056750028966342375,
+        "trades": 4
+      }
+    }
+  ],
+  "USDJPY": [
+    {
+      "timestamp": "2025-11-20T14:59:57.532960",
+      "symbol": "USDJPY",
+      "test": "feature_ablation_vol24_sma",
+      "run_id": "20251120_145948",
+      "summary_path": "QuantResearch/results/stress_tests/feature_ablation_vol24_sma/USDJPY/20251120_145948/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/feature_ablation_vol24_sma/usdjpy/20251120_145947",
+      "train_params": [
+        "--feature-mask",
+        "vol_24,sma_diff"
+      ],
+      "backtest_params": [],
+      "description": "Remove vol_24 + sma_diff",
+      "metrics": {
+        "sharpe": 0.6234485396677256,
+        "ann_return": 0.0002478261868890108,
+        "max_drawdown": -0.0004900433184299671,
+        "trades": 84
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "generated_at": "2025-11-18T21:57:12.802352+00:00",
+  "symbol": "EURJPY",
+  "csv": "QuantResearch/data/clean/EURJPY_H1_clean_v2.csv",
+  "vol_window": 24,
+  "label_percentiles": {
+    "low": 0.3,
+    "high": 0.7
+  },
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "ret_24",
+    "realized_vol_10",
+    "atr_norm",
+    "atr_percentile",
+    "sma_diff",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "splits": {
+    "train": 18504,
+    "val": 6168,
+    "test": 6168
+  },
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "num_class": 3,
+    "eval_metric": "mlogloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "metrics": {
+    "train_acc": 0.8263618677042801,
+    "val_acc": 0.7715629053177692,
+    "test_acc": 0.7503242542153048,
+    "val_confusion": [
+      [
+        1434,
+        411,
+        2
+      ],
+      [
+        316,
+        1845,
+        268
+      ],
+      [
+        6,
+        406,
+        1480
+      ]
+    ],
+    "test_confusion": [
+      [
+        1088,
+        455,
+        1
+      ],
+      [
+        440,
+        2049,
+        303
+      ],
+      [
+        15,
+        326,
+        1491
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "generated_at": "2025-11-17T15:40:52.920441+00:00",
+  "symbol": "USDJPY",
+  "csv": "QuantResearch/data/raw/USDJPY_H1.csv",
+  "horizon": 12,
+  "pos_thresh": 0.0005,
+  "neg_thresh": -0.0005,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "ret_12",
+    "vol_24",
+    "vol_48",
+    "sma_diff",
+    "ema_diff",
+    "ema_slope_20",
+    "ema_slope_80",
+    "rsi",
+    "atr_norm_14",
+    "atr_norm_50",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "splits": {
+    "train": 2945,
+    "val": 982,
+    "test": 982
+  },
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "num_class": 3,
+    "eval_metric": "mlogloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 68,
+  "metrics": {
+    "train_acc": 0.8173174872665535,
+    "val_acc": 0.4775967413441955,
+    "test_acc": 0.40835030549898166,
+    "train_confusion": [
+      [
+        1231,
+        0,
+        146
+      ],
+      [
+        130,
+        50,
+        113
+      ],
+      [
+        148,
+        1,
+        1126
+      ]
+    ],
+    "val_confusion": [
+      [
+        274,
+        0,
+        178
+      ],
+      [
+        55,
+        0,
+        30
+      ],
+      [
+        245,
+        5,
+        195
+      ]
+    ],
+    "test_confusion": [
+      [
+        223,
+        0,
+        159
+      ],
+      [
+        74,
+        0,
+        68
+      ],
+      [
+        280,
+        0,
+        178
+      ]
+    ]
+  }
+}

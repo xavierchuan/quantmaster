@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!strategies/
+!strategies/**
+!scripts/
+!scripts/**
+!core/
+!core/**

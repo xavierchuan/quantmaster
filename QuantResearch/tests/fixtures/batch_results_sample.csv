@@ -1,0 +1,5 @@
+symbol,label,fast_win,slow_win,sharpe,scenario
+EURUSD,sample_1,20,80,1.2,base
+EURUSD,sample_2,40,80,1.4,base
+EURUSD,sample_3,20,120,0.9,double_costs
+EURUSD,sample_4,40,120,1.1,double_costs

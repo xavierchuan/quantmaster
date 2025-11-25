@@ -1,0 +1,65 @@
+{
+  "generated_at": "2025-11-19T23:54:39.886740+00:00",
+  "symbol": "GBPUSD",
+  "csv": "QuantResearch/data/clean/GBPUSD_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 7302,
+    "val": 2434,
+    "test": 2435
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 0,
+  "thresholds": {
+    "label_mode": "binary",
+    "p_long": 0.7000000000000001,
+    "p_exit": 0.45,
+    "val_metrics": {
+      "long": {
+        "sharpe": 30.87490370660152,
+        "trades": 66
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": -15.087630474718216,
+        "trades": 205
+      }
+    }
+  },
+  "label_mode": "binary",
+  "class_mapping": {
+    "flat": 0,
+    "long": 1
+  },
+  "costs": {
+    "spread_pips": 1.6,
+    "slip_pips": 0.2,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

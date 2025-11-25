@@ -1,0 +1,28 @@
+# RSI均值回归策略回测配置
+
+# OANDA API配置
+oanda:
+  account_id: "your_account_id"  # 替换为您的账户ID
+  access_token: "your_access_token"  # 替换为您的访问令牌
+  environment: "practice"  # practice或live
+
+# 策略参数
+strategy:
+  instrument: "EUR_USD"  # 交易品种
+  rsi_period: 14  # RSI周期
+  overbought: 70  # 超买水平
+  oversold: 30   # 超卖水平
+  stop_loss_atr: 2.0  # 止损ATR倍数
+
+# 回测参数
+backtest:
+  initial_capital: 100000  # 初始资金
+  commission: 0.0001      # 手续费（1 pip）
+  start_date: "2024-01-01"  # 回测开始日期
+  end_date: "2024-12-31"   # 回测结束日期
+
+# 风险管理参数
+risk:
+  max_position_size: 1.0  # 最大仓位规模
+  max_portfolio_risk: 0.02  # 最大组合风险（2%）
+  max_drawdown: 0.10  # 最大回撤限制（10%）

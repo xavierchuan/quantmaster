@@ -1,0 +1,88 @@
+name: Risk Simulation Gate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  risk-sim:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: QuantResearch
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install pandas pyyaml requests
+      - name: Determine latest backtest run
+        id: latest-run
+        run: |
+          set -euo pipefail
+          latest_run=$(ls -t results | grep '^[0-9]' | head -n1 || true)
+          if [ -z "$latest_run" ]; then
+            echo "::error::No results/<run_id> directories found. Run a backtest before invoking risk-sim."
+            exit 1
+          fi
+          summary="results/${latest_run}/summary.json"
+          if [ ! -f "$summary" ]; then
+            echo "::error::results/${latest_run}/summary.json is missing."
+            exit 1
+          fi
+          echo "run_id=${latest_run}" >> "$GITHUB_OUTPUT"
+          echo "RUN_ID=${latest_run}" >> "$GITHUB_ENV"
+      - name: Run risk simulation (paper adapter)
+        env:
+          RUN: ${{ steps.latest-run.outputs.run_id }}
+        run: |
+          ./scripts/run_risk_sim.sh
+      - name: Backfill risk metrics delta
+        run: |
+          missing=$(cd QuantResearch && ./bin/backfill_risk.sh | tee /tmp/backfill.log | grep -i "Backfilling runs" || true)
+          if [ -n "$missing" ]; then
+            echo "::error::Risk metrics were missing entries. Please run ./bin/backfill_risk.sh locally and commit the updated results/risk/metrics.csv."
+            cat /tmp/backfill.log
+            exit 1
+          fi
+      - name: Upload execution artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: risk-sim-results
+          path: |
+            results/execution/${{ steps.latest-run.outputs.run_id }}/
+            results/risk/report.csv
+            results/risk/events.jsonl
+      - name: Comment risk results
+        if: ${{ failure() && github.event_name == 'pull_request' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_ID: ${{ steps.latest-run.outputs.run_id }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          set -euo pipefail
+          python - <<'PY' > comment.json
+import json, os
+run_id = os.environ["RUN_ID"]
+repo = os.environ["GITHUB_REPOSITORY"]
+run_url = f"https://github.com/{repo}/actions/runs/{os.environ['GITHUB_RUN_ID']}"
+body = (
+    f"⚠️ Risk simulation failed for run `{run_id}`.\n"
+    f"- Artifacts & logs: {run_url}\n"
+    f"- Diagnostics dashboard: http://localhost:8501/diagnostics?run={run_id}\n"
+    "Please investigate risk limits or data issues before merging."
+)
+print(json.dumps({"body": body}))
+PY
+          curl -sS -H "Authorization: token $GH_TOKEN" \
+               -H "Content-Type: application/json" \
+               -X POST \
+               --data @comment.json \
+               "https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments"

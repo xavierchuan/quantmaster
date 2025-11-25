@@ -1,0 +1,65 @@
+{
+  "generated_at": "2025-11-19T22:13:49.342860+00:00",
+  "symbol": "EURUSD",
+  "csv": "QuantResearch/data/clean/EURUSD_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 17067,
+    "val": 5689,
+    "test": 5689
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 16,
+  "thresholds": {
+    "label_mode": "binary",
+    "p_long": 0.5750000000000001,
+    "p_exit": 0.45,
+    "val_metrics": {
+      "long": {
+        "sharpe": -3.46228149838322,
+        "trades": 99
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": -3.768203877134982,
+        "trades": 122
+      }
+    }
+  },
+  "label_mode": "binary",
+  "class_mapping": {
+    "flat": 0,
+    "long": 1
+  },
+  "costs": {
+    "spread_pips": 1.2,
+    "slip_pips": 0.2,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

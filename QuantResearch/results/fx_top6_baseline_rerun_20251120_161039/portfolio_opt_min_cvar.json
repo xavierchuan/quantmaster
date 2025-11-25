@@ -1,0 +1,31 @@
+{
+  "weights": {
+    "gbpusd_h1_xgb_baseline.yaml": 0.004571351157663585,
+    "eurusd_h1_xgb_baseline.yaml": 0.007957206705170692,
+    "usdchf_h1_xgb_baseline.yaml": 0.0015485021872451727,
+    "audusd_h1_xgb_baseline.yaml": 0.008111320668734876,
+    "gbpjpy_h1_xgb_baseline.yaml": 0.0005913412569259343,
+    "usdjpy_xgb_backtest.yaml": 0.9772202780242597
+  },
+  "metrics": {
+    "ann_return": 0.005409549319485674,
+    "ann_vol": 0.0018619304270522552,
+    "sharpe": 2.905344496705974,
+    "max_drawdown": -0.006111313546812012,
+    "cvar": 5.909032233496866e-05,
+    "objective_value": 5.909032233496866e-05,
+    "status": "Optimization terminated successfully"
+  },
+  "constraints": {
+    "objective": "min_cvar",
+    "cvar_alpha": 0.95,
+    "cvar_limit": null,
+    "cvar_penalty": 0.0,
+    "max_dd": null,
+    "caps": null,
+    "min_weight": 0.0,
+    "risk_free": 0.0,
+    "min_ann_return": null,
+    "equity_csv": "QuantResearch/results/fx_top6_baseline_rerun_20251120_161039/portfolio_equity.csv"
+  }
+}

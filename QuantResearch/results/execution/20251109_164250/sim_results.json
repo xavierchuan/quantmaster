@@ -1,0 +1,21 @@
+{
+  "fills": [
+    {
+      "order_id": "PAPER-1",
+      "ts": "2024-01-01 03:00:00+00:00",
+      "symbol": "TESTFX",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-2",
+      "ts": "2024-01-01 11:00:00+00:00",
+      "symbol": "TESTFX",
+      "pnl": 1.8977937400000129,
+      "strategy": "default"
+    }
+  ],
+  "rejects": [],
+  "kill_switch_events": [],
+  "run_id": "20251109_164250"
+}

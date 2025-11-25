@@ -1,0 +1,67 @@
+# Experimental short-enabled config (Phase 2 Line A)
+symbol: USDJPY
+csv: QuantResearch/data/clean/USDJPY_H1_clean_v2.csv
+
+# Trading capital and unit size
+cash: 1000.0
+qty: 20000
+account_ccy: USD
+
+# Cost assumptions
+spread: 2.0
+slip: 0.3
+comm: 0.25
+
+# Core params
+fast: 20
+slow: 80
+atr_sl: 1.9
+atr_tp: 3.8
+atr_window: 14
+regime_ema_window: 200
+regime_trend_min_bars: 0
+cooldown: 0
+long_only_above_slow: true
+
+# Risk controls
+# Slightly higher per-trade risk and cap to target more realistic 5–10% DD in experiments.
+risk_per_trade_pct: 0.05
+max_drawdown_pct: 0.30
+max_position_units: 4500000
+allow_short: true
+short_only_below_slow: true
+
+strategies:
+  - name: regime_vol_ml
+    weight: 0.0
+    params:
+      min_confidence: 0.0
+  - name: xgb_signal
+    weight: 1.0
+    params:
+      latest_ptr: QuantResearch/artifacts/models/usdjpy_h1_xgb_short_latest.json
+      prob_long: 0.60
+      prob_exit: 0.52
+      size_mult: 1.0
+      cooldown_bars: 5
+      low_atr_pct: 0.08
+      prob_long_low: 0.59
+      cooldown_low: 4
+      enable_short_signals: true
+      prob_short: 0.59
+      prob_short_exit: 0.48
+      short_size_mult: 1.1
+      allow_short_regimes: ["trend_down", "vol_high"]
+      short_cooldown_bars: 5
+      vol_high_prob_delta: -0.02
+      vol_low_prob_delta: 0.03
+      vol_high_size_mult: 1.25
+      vol_low_size_mult: 0.80
+      vol_high_cooldown: 6
+      vol_low_cooldown: 6
+      short_vol_high_size_mult: 1.35
+      short_vol_low_size_mult: 0.75
+      short_vol_high_prob_delta: -0.02
+      short_vol_low_prob_delta: 0.01
+      short_vol_high_cooldown: 6
+      short_vol_low_cooldown: 6

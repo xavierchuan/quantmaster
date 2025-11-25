@@ -1,0 +1,19 @@
+[
+  "ret_1",
+  "ret_3",
+  "ret_6",
+  "ret_12",
+  "vol_24",
+  "vol_48",
+  "sma_diff",
+  "ema_diff",
+  "ema_slope_20",
+  "ema_slope_80",
+  "rsi",
+  "atr_norm_14",
+  "atr_norm_50",
+  "hour_sin",
+  "hour_cos",
+  "dow_sin",
+  "dow_cos"
+]

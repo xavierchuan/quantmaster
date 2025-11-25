@@ -1,0 +1,62 @@
+{
+  "generated_at": "2025-11-14T14:26:00.267296+00:00",
+  "symbol": "USDJPY",
+  "csv": "QuantResearch/data/raw/USDJPY_H1_full.csv",
+  "data_window": {
+    "start": "2018-01-01T00:00:00Z",
+    "end": "2025-11-01T00:00:00Z"
+  },
+  "horizon": 6,
+  "splits": {
+    "train": 16879,
+    "val": 5627,
+    "test": 5627
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 46,
+  "thresholds": {
+    "p_long": 0.65,
+    "p_exit": 0.45,
+    "val_sharpe": 5.6097290173058365,
+    "val_trades": 113,
+    "test_sharpe": -14.079146467802063,
+    "test_trades": 92
+  },
+  "walkforward": {
+    "train_bars": 6000,
+    "test_bars": 1500,
+    "step_bars": 1500,
+    "windows": 16,
+    "label": "usdjpy_xgb"
+  },
+  "costs": {
+    "spread_pips": 2.0,
+    "slip_pips": 0.3,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

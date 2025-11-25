@@ -1,0 +1,79 @@
+symbol: USDCHF
+csv: QuantResearch/data/clean/USDCHF_H1_clean_v2_with_regime.csv
+
+cash: 1000000.0
+qty: 1000000
+account_ccy: USD
+
+spread: 1.5
+slip: 0.2
+comm: 0.25
+
+fast: 20
+slow: 80
+atr_sl: 1.9
+atr_tp: 3.8
+atr_window: 14
+regime_ema_window: 200
+regime_trend_min_bars: 0
+cooldown: 0
+long_only_above_slow: true
+
+risk_per_trade_pct: 0.05
+max_drawdown_pct: 0.10
+max_position_units: 5000000
+allow_short: true
+short_only_below_slow: true
+
+strategies:
+  - name: xgb_signal
+    weight: 1.0
+    params:
+      latest_ptr: QuantResearch/artifacts/models/usdchf_h1_xgb_latest.json
+      trend_ptr: QuantResearch/artifacts/models/usdchf_trend_regime_latest.json
+      prob_long: 0.70
+      prob_exit: 0.45
+      size_mult: 1.0
+      cooldown_bars: 3
+      regime_filter:
+        trend: ["trend_up", "trend_down"]
+      session_block_hours:
+        []
+      enable_short_signals: true
+      prob_short: 0.56
+      prob_short_exit: 0.48
+      short_size_mult: 1.0
+      vol_high_prob_delta: -0.10
+      vol_low_prob_delta: 0.03
+      vol_high_size_mult: 0.7
+      vol_low_size_mult: 1.0
+      vol_high_cooldown: 10
+      vol_low_cooldown: 5
+      vol_high_atr_sl_mult: 0.60
+      vol_high_atr_tp_mult: 0.40
+      vol_low_atr_sl_mult: 1.0
+      vol_low_atr_tp_mult: 1.0
+      trend_up_prob_delta: -0.02
+      trend_down_prob_delta: 0.03
+      trend_chop_prob_delta: 0.01
+      trend_up_size_mult: 1.1
+      trend_down_size_mult: 0.9
+      trend_chop_size_mult: 0.9
+      trend_up_cooldown: 4
+      trend_down_cooldown: 8
+      trend_chop_cooldown: 7
+      trend_up_short_prob_delta: 0.02
+      trend_down_short_prob_delta: -0.02
+      trend_chop_short_prob_delta: 0.0
+      trend_up_short_size_mult: 0.9
+      trend_down_short_size_mult: 1.1
+      trend_chop_short_size_mult: 0.9
+      trend_up_short_cooldown: 6
+      trend_down_short_cooldown: 6
+      trend_chop_short_cooldown: 7
+      trend_up_atr_sl_mult: 1.05
+      trend_up_atr_tp_mult: 1.18
+      trend_down_atr_sl_mult: 0.74
+      trend_down_atr_tp_mult: 0.58
+      trend_chop_atr_sl_mult: 1.0
+      trend_chop_atr_tp_mult: 1.0

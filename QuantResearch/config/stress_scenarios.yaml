@@ -1,0 +1,49 @@
+# Canonical stress scenarios used by batch backtests, Monte Carlo, and future CI gating.
+# Fields:
+#   stress_cost_spread_mult   -> multiplies quoted spread (>=1 means wider spread)
+#   stress_cost_comm_mult     -> multiplies commission per million
+#   stress_slippage_mult      -> multiplies slippage pips
+#   stress_price_vol_mult     -> scales price volatility (1.0 = unchanged)
+#   stress_skip_trade_pct     -> probability of skipping a signal (0-1)
+#   return_scale              -> scales per-bar returns in Monte Carlo
+#   block_size                -> default block size for block bootstrap
+#   notes                     -> optional description
+
+base:
+  description: Baseline scenario (no additional stress).
+  stress_cost_spread_mult: 1.0
+  stress_cost_comm_mult: 1.0
+  stress_slippage_mult: 1.0
+  stress_price_vol_mult: 1.0
+  stress_skip_trade_pct: 0.0
+  return_scale: 1.0
+  block_size: null
+
+double_costs:
+  description: Double transaction costs and friction.
+  stress_cost_spread_mult: 2.0
+  stress_cost_comm_mult: 2.0
+  stress_slippage_mult: 1.5
+  stress_price_vol_mult: 1.0
+  stress_skip_trade_pct: 0.05
+  return_scale: 0.95
+
+vol_shock:
+  description: 50% higher volatility with modest cost increase.
+  stress_cost_spread_mult: 1.2
+  stress_cost_comm_mult: 1.0
+  stress_slippage_mult: 1.3
+  stress_price_vol_mult: 1.5
+  stress_skip_trade_pct: 0.1
+  return_scale: 0.9
+  block_size: 30
+
+liquidity_gap:
+  description: Random liquidity drought with trade skips and wider spreads.
+  stress_cost_spread_mult: 1.5
+  stress_cost_comm_mult: 1.0
+  stress_slippage_mult: 1.8
+  stress_price_vol_mult: 1.1
+  stress_skip_trade_pct: 0.25
+  return_scale: 0.85
+  block_size: 10

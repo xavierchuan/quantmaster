@@ -1,0 +1,8 @@
+{
+  "p_long": 0.55,
+  "p_exit": 0.45,
+  "val_sharpe": -2.9096752505565706,
+  "val_trades": 173,
+  "test_sharpe": 10.953313447757429,
+  "test_trades": 193
+}

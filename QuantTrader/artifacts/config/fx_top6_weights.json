@@ -1,0 +1,8 @@
+{
+  "audusd_h1_xgb_baseline.yaml": 0.3424247463828372,
+  "eurusd_h1_xgb_baseline.yaml": 0.24097788125727593,
+  "usdchf_h1_xgb_baseline.yaml": 0.416597372359887,
+  "gbpusd_h1_xgb_baseline.yaml": 0.0,
+  "gbpjpy_h1_xgb_baseline.yaml": 0.0,
+  "usdjpy_xgb_backtest.yaml": 0.0
+}

@@ -1,0 +1,53 @@
+# Backtest config for USDJPY XGB (research use only, matches live sizing)
+# NOTE: Frozen long-only v2 baseline (backtest 20251116_181739 / WF walkforward_usdjpy_xgb_v2_final_20251116_181814).
+symbol: USDJPY
+csv: QuantResearch/data/clean/USDJPY_H1_clean_v2.csv
+
+# Trading capital and unit size
+cash: 960000.0
+qty: 2000000
+account_ccy: USD
+
+# Cost assumptions (aligned with training defaults)
+spread: 2.0
+slip: 0.3
+comm: 0.25
+
+# Core engine params (still used for indicators and safety exits)
+fast: 20
+slow: 80
+atr_sl: 1.9
+atr_tp: 3.8
+atr_window: 14
+regime_ema_window: 200
+cooldown: 0
+long_only_above_slow: true
+
+# Risk controls
+risk_per_trade_pct: 0.02
+max_drawdown_pct: 0.30
+max_position_units: 2000000
+allow_short: false
+
+# Single-model (long-only) strategy with ML regimes
+strategies:
+  - name: regime_vol_ml
+    weight: 0.0
+    params:
+      # default uses latest pointer
+      min_confidence: 0.0
+  - name: xgb_signal
+    weight: 1.0
+    params:
+      # If omitted, strategy will read QuantResearch/artifacts/models/usdjpy_h1_xgb_latest.json
+      # model_dir: QuantResearch/artifacts/models/usdjpy_h1_xgb/20250101_120000
+      prob_long: 0.66
+      prob_exit: 0.52
+      size_mult: 1.0
+      cooldown_bars: 8
+      vol_high_prob_delta: -0.02
+      vol_low_prob_delta: 0.03
+      vol_high_size_mult: 1.0
+      vol_low_size_mult: 0.9
+      vol_high_cooldown: 6
+      vol_low_cooldown: 12

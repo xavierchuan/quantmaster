@@ -1,0 +1,27 @@
+{
+  "label_mode": "multi",
+  "p_long": 0.55,
+  "p_exit": 0.45,
+  "p_short": 0.7000000000000001,
+  "p_short_exit": 0.45,
+  "val_metrics": {
+    "long": {
+      "sharpe": -2.8532275742065765,
+      "trades": 984
+    },
+    "short": {
+      "sharpe": 18.681942706186007,
+      "trades": 54
+    }
+  },
+  "test_metrics": {
+    "long": {
+      "sharpe": -5.828891106521252,
+      "trades": 1383
+    },
+    "short": {
+      "sharpe": 10.266960366120214,
+      "trades": 28
+    }
+  }
+}

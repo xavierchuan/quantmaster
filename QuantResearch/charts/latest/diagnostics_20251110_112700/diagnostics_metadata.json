@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-10T11:27:00.320874+00:00",
+  "inputs": {
+    "batch_csv": "data/results/batch_backtests_20251110_112520.csv",
+    "walkforward_csv": "results/20251110_112516/walkforward/metrics.csv",
+    "mc_summary": "results/20251110_112516/stress/mc_summary.json",
+    "mc_iterations": "results/20251110_112516/stress/mc_iterations.csv",
+    "equity_csv": "results/20251110_112516/equity.csv",
+    "underwater_csv": "results/20251110_112516/stats/underwater.csv"
+  },
+  "artifacts": {
+    "batch_heatmap": null,
+    "mc_boxplot": null,
+    "walkforward_timeline": null,
+    "equity_curve": null,
+    "underwater_curve": null
+  }
+}

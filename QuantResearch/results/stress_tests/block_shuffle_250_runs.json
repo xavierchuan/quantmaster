@@ -1,0 +1,132 @@
+{
+  "GBPUSD": [
+    {
+      "timestamp": "2025-11-20T14:14:37.841086",
+      "symbol": "GBPUSD",
+      "test": "block_shuffle_250",
+      "run_id": "20251120_141430",
+      "summary_path": "QuantResearch/results/stress_tests/block_shuffle_250/GBPUSD/20251120_141430/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/block_shuffle_250/gbpusd/20251120_141430",
+      "train_params": [
+        "--block-shuffle",
+        "250"
+      ],
+      "backtest_params": [],
+      "description": "Shuffle samples in 250-row blocks",
+      "metrics": {
+        "sharpe": -0.4339619660697501,
+        "ann_return": -0.014876819468037872,
+        "max_drawdown": -0.08365921422250222,
+        "trades": 652
+      }
+    }
+  ],
+  "EURUSD": [
+    {
+      "timestamp": "2025-11-20T14:50:00.236157",
+      "symbol": "EURUSD",
+      "test": "block_shuffle_250",
+      "run_id": "20251120_144952",
+      "summary_path": "QuantResearch/results/stress_tests/block_shuffle_250/EURUSD/20251120_144952/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/block_shuffle_250/eurusd/20251120_144952",
+      "train_params": [
+        "--block-shuffle",
+        "250"
+      ],
+      "backtest_params": [],
+      "description": "Shuffle samples in 250-row blocks",
+      "metrics": {
+        "sharpe": -0.06743337393075687,
+        "ann_return": -0.0012460484379094305,
+        "max_drawdown": -0.06956256742971763,
+        "trades": 460
+      }
+    }
+  ],
+  "AUDUSD": [
+    {
+      "timestamp": "2025-11-20T14:52:27.468503",
+      "symbol": "AUDUSD",
+      "test": "block_shuffle_250",
+      "run_id": "20251120_145220",
+      "summary_path": "QuantResearch/results/stress_tests/block_shuffle_250/AUDUSD/20251120_145220/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/block_shuffle_250/audusd/20251120_145219",
+      "train_params": [
+        "--block-shuffle",
+        "250"
+      ],
+      "backtest_params": [],
+      "description": "Shuffle samples in 250-row blocks",
+      "metrics": {
+        "sharpe": 0.28172015932050853,
+        "ann_return": 0.006756900445320735,
+        "max_drawdown": -0.041671172437767905,
+        "trades": 760
+      }
+    }
+  ],
+  "GBPJPY": [
+    {
+      "timestamp": "2025-11-20T14:54:36.782276",
+      "symbol": "GBPJPY",
+      "test": "block_shuffle_250",
+      "run_id": "20251120_145427",
+      "summary_path": "QuantResearch/results/stress_tests/block_shuffle_250/GBPJPY/20251120_145427/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/block_shuffle_250/gbpjpy/20251120_145427",
+      "train_params": [
+        "--block-shuffle",
+        "250"
+      ],
+      "backtest_params": [],
+      "description": "Shuffle samples in 250-row blocks",
+      "metrics": {
+        "sharpe": -0.7547148592597547,
+        "ann_return": -0.020016118429852958,
+        "max_drawdown": -0.09988277810453344,
+        "trades": 4
+      }
+    },
+    {
+      "timestamp": "2025-11-20T14:56:53.941814",
+      "symbol": "GBPJPY",
+      "test": "block_shuffle_250",
+      "run_id": "20251120_145643",
+      "summary_path": "QuantResearch/results/stress_tests/block_shuffle_250/GBPJPY/20251120_145643/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/block_shuffle_250/gbpjpy/20251120_145643",
+      "train_params": [
+        "--block-shuffle",
+        "250"
+      ],
+      "backtest_params": [],
+      "description": "Shuffle samples in 250-row blocks",
+      "metrics": {
+        "sharpe": -0.03930130114218581,
+        "ann_return": -0.001655963334085353,
+        "max_drawdown": -0.11236531482601371,
+        "trades": 6
+      }
+    }
+  ],
+  "USDJPY": [
+    {
+      "timestamp": "2025-11-20T14:59:16.608034",
+      "symbol": "USDJPY",
+      "test": "block_shuffle_250",
+      "run_id": "20251120_145907",
+      "summary_path": "QuantResearch/results/stress_tests/block_shuffle_250/USDJPY/20251120_145907/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/block_shuffle_250/usdjpy/20251120_145907",
+      "train_params": [
+        "--block-shuffle",
+        "250"
+      ],
+      "backtest_params": [],
+      "description": "Shuffle samples in 250-row blocks",
+      "metrics": {
+        "sharpe": 1.2252642176340574,
+        "ann_return": 0.0008374794164598409,
+        "max_drawdown": -0.0009296950118998549,
+        "trades": 170
+      }
+    }
+  ]
+}

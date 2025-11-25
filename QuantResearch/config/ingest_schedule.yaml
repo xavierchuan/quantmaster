@@ -1,0 +1,13 @@
+- symbol: EUR_USD
+  granularity: H1
+  days: 365
+  target_count: 8000
+  output: data/raw/EURUSD_H1.csv
+  frequency: daily
+
+- symbol: USD_JPY
+  granularity: H1
+  days: 365
+  target_count: 8000
+  output: data/raw/USDJPY_H1.csv
+  frequency: daily

@@ -1,0 +1,13 @@
+symbol: TESTFX
+csv_path: tests/fixtures/eurusd_small.csv
+initial_cash: 50000
+qty: 1000
+spread_pips: 0.05
+commission_per_million: 0.0
+slippage_pips: 0.0
+fast_win: 2
+slow_win: 4
+atr_window: 3
+atr_sl: 1.0
+atr_tp: 2.0
+strategy_mode: first_hit

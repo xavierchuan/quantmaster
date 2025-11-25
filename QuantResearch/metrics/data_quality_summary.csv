@@ -1,0 +1,3 @@
+generated_at,dataset_path,symbol,severity,gap_ratio,duplicate_timestamps,null_max,outlier_columns,hash,report_file
+2025-11-09T10:57:39.031072+00:00,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/data/raw/EURUSD_H1.csv,EURUSD,warn,0.008688656476267096,0,0,volume,2d5dfdb41e87afd72a597be7fed90176cf31bd19d5da1930bad7f973de34f8cc,results/data_quality/20251109_105739_EURUSD_H1.json
+2025-11-09T11:23:21.719562+00:00,/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/data/raw/EURUSD_H1.csv,EURUSD,warn,0.008688656476267096,0,0,volume,2d5dfdb41e87afd72a597be7fed90176cf31bd19d5da1930bad7f973de34f8cc,results/data_quality/20251109_112321_EURUSD_H1.json

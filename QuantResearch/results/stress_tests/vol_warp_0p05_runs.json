@@ -1,0 +1,132 @@
+{
+  "GBPUSD": [
+    {
+      "timestamp": "2025-11-20T14:15:43.755315",
+      "symbol": "GBPUSD",
+      "test": "vol_warp_0p05",
+      "run_id": "20251120_141534",
+      "summary_path": "QuantResearch/results/stress_tests/vol_warp_0p05/GBPUSD/20251120_141534/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/vol_warp_0p05/gbpusd/20251120_141534",
+      "train_params": [
+        "--vol-warp",
+        "0.05"
+      ],
+      "backtest_params": [],
+      "description": "Global vol warp sigma=0.05",
+      "metrics": {
+        "sharpe": 0.0,
+        "ann_return": 0.0,
+        "max_drawdown": 0.0,
+        "trades": 0
+      }
+    }
+  ],
+  "EURUSD": [
+    {
+      "timestamp": "2025-11-20T14:50:58.048997",
+      "symbol": "EURUSD",
+      "test": "vol_warp_0p05",
+      "run_id": "20251120_145050",
+      "summary_path": "QuantResearch/results/stress_tests/vol_warp_0p05/EURUSD/20251120_145050/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/vol_warp_0p05/eurusd/20251120_145050",
+      "train_params": [
+        "--vol-warp",
+        "0.05"
+      ],
+      "backtest_params": [],
+      "description": "Global vol warp sigma=0.05",
+      "metrics": {
+        "sharpe": 0.0,
+        "ann_return": 0.0,
+        "max_drawdown": 0.0,
+        "trades": 0
+      }
+    }
+  ],
+  "AUDUSD": [
+    {
+      "timestamp": "2025-11-20T14:53:26.817654",
+      "symbol": "AUDUSD",
+      "test": "vol_warp_0p05",
+      "run_id": "20251120_145318",
+      "summary_path": "QuantResearch/results/stress_tests/vol_warp_0p05/AUDUSD/20251120_145318/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/vol_warp_0p05/audusd/20251120_145318",
+      "train_params": [
+        "--vol-warp",
+        "0.05"
+      ],
+      "backtest_params": [],
+      "description": "Global vol warp sigma=0.05",
+      "metrics": {
+        "sharpe": 0.0,
+        "ann_return": 0.0,
+        "max_drawdown": 0.0,
+        "trades": 0
+      }
+    }
+  ],
+  "GBPJPY": [
+    {
+      "timestamp": "2025-11-20T14:55:55.559261",
+      "symbol": "GBPJPY",
+      "test": "vol_warp_0p05",
+      "run_id": "20251120_145545",
+      "summary_path": "QuantResearch/results/stress_tests/vol_warp_0p05/GBPJPY/20251120_145545/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/vol_warp_0p05/gbpjpy/20251120_145545",
+      "train_params": [
+        "--vol-warp",
+        "0.05"
+      ],
+      "backtest_params": [],
+      "description": "Global vol warp sigma=0.05",
+      "metrics": {
+        "sharpe": 0.0,
+        "ann_return": 0.0,
+        "max_drawdown": 0.0,
+        "trades": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-20T14:58:08.429351",
+      "symbol": "GBPJPY",
+      "test": "vol_warp_0p05",
+      "run_id": "20251120_145758",
+      "summary_path": "QuantResearch/results/stress_tests/vol_warp_0p05/GBPJPY/20251120_145758/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/vol_warp_0p05/gbpjpy/20251120_145758",
+      "train_params": [
+        "--vol-warp",
+        "0.05"
+      ],
+      "backtest_params": [],
+      "description": "Global vol warp sigma=0.05",
+      "metrics": {
+        "sharpe": 0.0,
+        "ann_return": 0.0,
+        "max_drawdown": 0.0,
+        "trades": 0
+      }
+    }
+  ],
+  "USDJPY": [
+    {
+      "timestamp": "2025-11-20T15:00:28.243278",
+      "symbol": "USDJPY",
+      "test": "vol_warp_0p05",
+      "run_id": "20251120_150018",
+      "summary_path": "QuantResearch/results/stress_tests/vol_warp_0p05/USDJPY/20251120_150018/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/vol_warp_0p05/usdjpy/20251120_150018",
+      "train_params": [
+        "--vol-warp",
+        "0.05"
+      ],
+      "backtest_params": [],
+      "description": "Global vol warp sigma=0.05",
+      "metrics": {
+        "sharpe": 0.0,
+        "ann_return": 0.0,
+        "max_drawdown": 0.0,
+        "trades": 0
+      }
+    }
+  ]
+}

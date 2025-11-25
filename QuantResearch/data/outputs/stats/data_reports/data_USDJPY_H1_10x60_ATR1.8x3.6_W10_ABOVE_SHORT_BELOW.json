@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-11-17T14:23:06.067127+00:00",
+  "dataset_path": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/data/clean/USDJPY_H1_clean_v2.csv",
+  "total_rows": 30971,
+  "time_column": "time",
+  "inferred_interval_seconds": 3600.0,
+  "duplicate_timestamps": 0,
+  "gap_ratio": 0.008459799806264127,
+  "null_counts": {
+    "time": 0,
+    "open": 0,
+    "high": 0,
+    "low": 0,
+    "close": 0,
+    "volume": 0,
+    "was_filled": 0,
+    "is_price_outlier": 0,
+    "is_volume_outlier": 0,
+    "segment_id": 0,
+    "is_gap_reopen": 0
+  },
+  "numeric_outliers": {
+    "volume": 132
+  },
+  "severity": "warn",
+  "messages": [
+    "Non-zero timestamp gaps detected (ratio=0.0085).",
+    "Detected numeric outliers (threshold z>5.0)."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-11-23T15:58:43.158450",
+  "weights": {
+    "audusd_h1_xgb_baseline.yaml": 0.34242474638283715,
+    "eurusd_h1_xgb_baseline.yaml": 0.2409778812572759,
+    "gbpjpy_h1_xgb_baseline.yaml": 0.0,
+    "gbpusd_h1_xgb_baseline.yaml": 0.0,
+    "usdchf_h1_xgb_baseline.yaml": 0.416597372359887
+  },
+  "metrics": {
+    "final_equity": 1.1709777442881824,
+    "ann_return": 0.03611464824564026,
+    "ann_vol": 0.013052257229805294,
+    "sharpe": 2.7669274064850002,
+    "max_drawdown": -0.010335305295146075,
+    "sortino": 1.3406901834574638,
+    "calmar": 3.494299124632663,
+    "max_drawdown_duration_bars": 4133,
+    "avg_drawdown_duration_bars": 58.29491525423729,
+    "current_drawdown_duration_bars": 2836,
+    "recovery_time_bars": 4133
+  },
+  "per_window_returns": [
+    0.0038467554235150914,
+    0.0046053682322448886,
+    0.004632009811190496,
+    0.0035361920267056313,
+    0.008656831666508547,
+    0.007761567818614479,
+    0.00791182881542829,
+    0.0005411852240049253,
+    0.028670599679400777,
+    0.02031279458463109,
+    0.020566772255730337,
+    0.0122543989234698,
+    0.010691993262260002,
+    0.007506753934508836,
+    0.007369306206629123,
+    0.0002554983701121838,
+    0.001306691544091354,
+    -0.0008517791451528867,
+    0.0009811258914573795,
+    0.0028716192737638924,
+    -0.0003326779178123296,
+    -0.0015842223941661127,
+    0.001990354422677587,
+    -0.0007612953989273308,
+    0.006975562886332609,
+    -0.0014939665713735728,
+    0.0007880579743948513
+  ],
+  "meta": {
+    "audusd_h1_xgb_baseline.yaml": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/walkforward_fx_top6/walkforward_audusd_h1_xgb_baseline_20251119_161220/walkforward/metrics.csv",
+    "eurusd_h1_xgb_baseline.yaml": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/walkforward_fx_top6/walkforward_eurusd_h1_xgb_baseline_20251119_161143/walkforward/metrics.csv",
+    "gbpjpy_h1_xgb_baseline.yaml": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/walkforward_fx_top6/walkforward_gbpjpy_h1_xgb_baseline_updated_20251119_180633/walkforward/metrics.csv",
+    "gbpusd_h1_xgb_baseline.yaml": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/walkforward_fx_top6/walkforward_gbpusd_h1_xgb_baseline_20251119_171011/walkforward/metrics.csv",
+    "usdchf_h1_xgb_baseline.yaml": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/results/walkforward_fx_top6/walkforward_usdchf_h1_xgb_baseline_20251119_173731/walkforward/metrics.csv"
+  }
+}

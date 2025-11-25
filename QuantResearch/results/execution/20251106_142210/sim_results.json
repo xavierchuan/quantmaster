@@ -1,0 +1,21 @@
+{
+  "fills": [
+    {
+      "order_id": "PAPER-1",
+      "ts": "2025-11-06T14:22:10+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-2",
+      "ts": "2025-11-06T14:22:10+00:00",
+      "symbol": "EURUSD",
+      "pnl": 0.0,
+      "strategy": "default"
+    }
+  ],
+  "rejects": [],
+  "kill_switch_events": [],
+  "run_id": "20251106_142210"
+}

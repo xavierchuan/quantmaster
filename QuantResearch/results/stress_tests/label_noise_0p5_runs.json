@@ -1,0 +1,132 @@
+{
+  "GBPUSD": [
+    {
+      "timestamp": "2025-11-20T14:14:29.140037",
+      "symbol": "GBPUSD",
+      "test": "label_noise_0p5",
+      "run_id": "20251120_141420",
+      "summary_path": "QuantResearch/results/stress_tests/label_noise_0p5/GBPUSD/20251120_141420/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/label_noise_0p5/gbpusd/20251120_141420",
+      "train_params": [
+        "--label-noise",
+        "0.5"
+      ],
+      "backtest_params": [],
+      "description": "Random label flip p=0.5",
+      "metrics": {
+        "sharpe": -0.5925155653756139,
+        "ann_return": -0.004714249958297834,
+        "max_drawdown": -0.025918880692851063,
+        "trades": 90
+      }
+    }
+  ],
+  "EURUSD": [
+    {
+      "timestamp": "2025-11-20T14:49:51.745491",
+      "symbol": "EURUSD",
+      "test": "label_noise_0p5",
+      "run_id": "20251120_144943",
+      "summary_path": "QuantResearch/results/stress_tests/label_noise_0p5/EURUSD/20251120_144943/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/label_noise_0p5/eurusd/20251120_144943",
+      "train_params": [
+        "--label-noise",
+        "0.5"
+      ],
+      "backtest_params": [],
+      "description": "Random label flip p=0.5",
+      "metrics": {
+        "sharpe": 0.09141824373859501,
+        "ann_return": 0.0005900500633626571,
+        "max_drawdown": -0.017494999443969192,
+        "trades": 78
+      }
+    }
+  ],
+  "AUDUSD": [
+    {
+      "timestamp": "2025-11-20T14:52:19.047793",
+      "symbol": "AUDUSD",
+      "test": "label_noise_0p5",
+      "run_id": "20251120_145211",
+      "summary_path": "QuantResearch/results/stress_tests/label_noise_0p5/AUDUSD/20251120_145211/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/label_noise_0p5/audusd/20251120_145210",
+      "train_params": [
+        "--label-noise",
+        "0.5"
+      ],
+      "backtest_params": [],
+      "description": "Random label flip p=0.5",
+      "metrics": {
+        "sharpe": -0.7774262389466712,
+        "ann_return": -0.003596325108030096,
+        "max_drawdown": -0.02046784967160857,
+        "trades": 68
+      }
+    }
+  ],
+  "GBPJPY": [
+    {
+      "timestamp": "2025-11-20T14:54:26.236689",
+      "symbol": "GBPJPY",
+      "test": "label_noise_0p5",
+      "run_id": "20251120_145416",
+      "summary_path": "QuantResearch/results/stress_tests/label_noise_0p5/GBPJPY/20251120_145416/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/label_noise_0p5/gbpjpy/20251120_145416",
+      "train_params": [
+        "--label-noise",
+        "0.5"
+      ],
+      "backtest_params": [],
+      "description": "Random label flip p=0.5",
+      "metrics": {
+        "sharpe": -0.20103045831574637,
+        "ann_return": -0.01135767443424085,
+        "max_drawdown": -0.10072763476727721,
+        "trades": 18
+      }
+    },
+    {
+      "timestamp": "2025-11-20T14:56:42.325348",
+      "symbol": "GBPJPY",
+      "test": "label_noise_0p5",
+      "run_id": "20251120_145632",
+      "summary_path": "QuantResearch/results/stress_tests/label_noise_0p5/GBPJPY/20251120_145632/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/label_noise_0p5/gbpjpy/20251120_145632",
+      "train_params": [
+        "--label-noise",
+        "0.5"
+      ],
+      "backtest_params": [],
+      "description": "Random label flip p=0.5",
+      "metrics": {
+        "sharpe": -0.20103045831574637,
+        "ann_return": -0.01135767443424085,
+        "max_drawdown": -0.10072763476727721,
+        "trades": 18
+      }
+    }
+  ],
+  "USDJPY": [
+    {
+      "timestamp": "2025-11-20T14:59:06.114245",
+      "symbol": "USDJPY",
+      "test": "label_noise_0p5",
+      "run_id": "20251120_145857",
+      "summary_path": "QuantResearch/results/stress_tests/label_noise_0p5/USDJPY/20251120_145857/summary.json",
+      "train_model_dir": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/artifacts/stress/label_noise_0p5/usdjpy/20251120_145856",
+      "train_params": [
+        "--label-noise",
+        "0.5"
+      ],
+      "backtest_params": [],
+      "description": "Random label flip p=0.5",
+      "metrics": {
+        "sharpe": -0.9804029804915816,
+        "ann_return": -0.00015414375224720445,
+        "max_drawdown": -0.0008385203670066238,
+        "trades": 12
+      }
+    }
+  ]
+}

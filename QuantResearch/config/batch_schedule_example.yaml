@@ -1,0 +1,49 @@
+- label: eurusd_baseline
+  symbol: EURUSD
+  csv_path: data/raw/EURUSD_H1.csv
+  initial_cash: 100000
+  fast_win: 50
+  slow_win: 200
+  strategy_mode: first_hit
+
+- label: eurusd_weighted_stress
+  symbol: EURUSD
+  csv_path: data/raw/EURUSD_H1.csv
+  fast_win: 30
+  slow_win: 120
+  strategy_mode: weighted
+  strategy_vote_threshold: 0.5
+  stress_cost_spread_mult: 1.1
+  stress_cost_comm_mult: 1.2
+  stress_slippage_mult: 1.3
+  stress_price_vol_mult: 1.2
+  stress_skip_trade_pct: 0.05
+  strategies:
+    - name: sma_atr
+      weight: 0.6
+      params:
+        fast_win: 30
+        slow_win: 120
+    - name: regime_sma
+      weight: 0.4
+      params:
+        trend_params:
+          fast_win: 30
+          slow_win: 120
+
+- label: eurusd_double_costs
+  symbol: EURUSD
+  csv_path: data/raw/EURUSD_H1.csv
+  fast_win: 40
+  slow_win: 160
+  scenario: double_costs  # defined in config/stress_scenarios.yaml
+
+- label: usdjpy_bollinger
+  symbol: USDJPY
+  config_name: usdjpy_bollinger_only.yaml
+  csv_path: data/raw/USDJPY_H1.csv
+  strategies:
+    - name: bollinger_mean_revert
+      params:
+        window: 48
+        num_std: 2.0

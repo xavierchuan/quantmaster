@@ -1,0 +1,28 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 989381.2177474336,
+  "ann_return": -0.002077129021347157,
+  "ann_vol": 0.0040588682064205735,
+  "sharpe": -0.5117507925143822,
+  "max_drawdown": -0.010942287458840036,
+  "sortino": -0.014484895364111022,
+  "calmar": -0.18982585032246524,
+  "max_drawdown_duration_bars": 3764,
+  "avg_drawdown_duration_bars": 3505.0,
+  "current_drawdown_duration_bars": 3764,
+  "recovery_time_bars": 3764,
+  "trades": 6,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14,
+  "data_report": "data/outputs/stats/data_reports/data_USDCHF_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json",
+  "data_validation": {
+    "severity": "warn",
+    "messages": [
+      "Non-zero timestamp gaps detected (ratio=0.0085).",
+      "Columns contain nulls (max ratio=0.0026).",
+      "Detected numeric outliers (threshold z>5.0)."
+    ]
+  }
+}

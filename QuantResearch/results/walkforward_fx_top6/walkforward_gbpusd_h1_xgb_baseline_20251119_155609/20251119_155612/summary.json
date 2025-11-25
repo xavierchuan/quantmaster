@@ -1,0 +1,53 @@
+{
+  "run_id": "20251119_155612",
+  "timestamp": "2025-11-19T15:56:13.040927+00:00",
+  "symbol": "GBPUSD",
+  "csv_path": "results/walkforward_fx_top6/walkforward_gbpusd_h1_xgb_baseline_20251119_155609/walkforward/window_008_test.csv",
+  "parameters": {
+    "fast_win": 20,
+    "slow_win": 80,
+    "spread_pips": 1.6,
+    "commission_per_million": 0.25,
+    "slippage_pips": 0.2,
+    "stop_loss_pips": 50,
+    "take_profit_pips": null,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14,
+    "rsi_period": 14,
+    "regime_ema_window": 200,
+    "skip_outlier_entries": false,
+    "strategy_mode": "first_hit",
+    "strategy_vote_threshold": 0.0,
+    "stress_cost_spread_mult": 1.0,
+    "stress_cost_comm_mult": 1.0,
+    "stress_slippage_mult": 1.0,
+    "stress_price_vol_mult": 1.0,
+    "stress_skip_trade_pct": 0.0
+  },
+  "metrics": {
+    "fast": 20,
+    "slow": 80,
+    "final_equity": 1095419.9120719284,
+    "ann_return": 0.7412521948570958,
+    "ann_vol": 0.07563047948698108,
+    "sharpe": 9.800971775997981,
+    "max_drawdown": -0.011962200385656672,
+    "sortino": 5.161753123955522,
+    "calmar": 61.966207801191615,
+    "max_drawdown_duration_bars": 187,
+    "avg_drawdown_duration_bars": 20.043478260869566,
+    "current_drawdown_duration_bars": 0,
+    "recovery_time_bars": 187,
+    "trades": 24,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14
+  },
+  "data_report": null,
+  "artifacts": {
+    "equity": "data/outputs/equity/equity_GBPUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.csv",
+    "trades": "data/outputs/trades/trades_GBPUSD_20251119_155613.csv",
+    "trade_stats": "data/outputs/stats/stats_GBPUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json"
+  }
+}

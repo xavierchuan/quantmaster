@@ -1,0 +1,53 @@
+{
+  "run_id": "20251116_134932",
+  "timestamp": "2025-11-16T13:49:33.284987+00:00",
+  "symbol": "USDJPY",
+  "csv_path": "results/walkforward_usdjpy_xgb_v2_20251116_134927/walkforward/window_006_test.csv",
+  "parameters": {
+    "fast_win": 20,
+    "slow_win": 80,
+    "spread_pips": 2.0,
+    "commission_per_million": 0.25,
+    "slippage_pips": 0.3,
+    "stop_loss_pips": 50,
+    "take_profit_pips": null,
+    "atr_sl": 2.0,
+    "atr_tp": 4.0,
+    "atr_window": 14,
+    "rsi_period": 14,
+    "regime_ema_window": 200,
+    "skip_outlier_entries": false,
+    "strategy_mode": "first_hit",
+    "strategy_vote_threshold": 0.0,
+    "stress_cost_spread_mult": 1.0,
+    "stress_cost_comm_mult": 1.0,
+    "stress_slippage_mult": 1.0,
+    "stress_price_vol_mult": 1.0,
+    "stress_skip_trade_pct": 0.0
+  },
+  "metrics": {
+    "fast": 20,
+    "slow": 80,
+    "final_equity": 969133.3452773038,
+    "ann_return": 0.039693404102697505,
+    "ann_vol": 0.038006060484051245,
+    "sharpe": 1.0443966987674067,
+    "max_drawdown": -0.014471192721540708,
+    "sortino": 0.28552165616982533,
+    "calmar": 2.742925539483207,
+    "max_drawdown_duration_bars": 589,
+    "avg_drawdown_duration_bars": 153.42857142857142,
+    "current_drawdown_duration_bars": 46,
+    "recovery_time_bars": 589,
+    "trades": 14,
+    "atr_sl": 2.0,
+    "atr_tp": 4.0,
+    "atr_window": 14
+  },
+  "data_report": null,
+  "artifacts": {
+    "equity": "data/outputs/equity/equity_USDJPY_H1_20x80_ATR2.0x4.0_W14_LONGONLY.csv",
+    "trades": "data/outputs/trades/trades_USDJPY_20251116_134933.csv",
+    "trade_stats": "data/outputs/stats/stats_USDJPY_H1_20x80_ATR2.0x4.0_W14_LONGONLY.json"
+  }
+}

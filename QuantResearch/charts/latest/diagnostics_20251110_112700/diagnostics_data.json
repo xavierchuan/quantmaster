@@ -1,0 +1,11 @@
+{
+  "batch_heatmap": {
+    "double_costs": {
+      "40.0": {
+        "160.0": -1.6395098597635402
+      }
+    }
+  },
+  "monte_carlo": {},
+  "walkforward": []
+}

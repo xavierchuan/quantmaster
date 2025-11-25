@@ -1,0 +1,4 @@
+- [ ] 运行 `python scripts/build_dataset_manifest.py --dirs data/raw data/derived --output data/_manifest.json`（如数据变动）
+- [ ] 若 `data/signature_baseline.json` 中的数据哈希发生变化，已在 PR 描述写明原因并附上新的 `results/data_quality/...json` 报告
+- [ ] `python scripts/check_data_integrity.py` 通过（或解释允许的漂移）
+- [ ] 相关回测已附上 `results/<run_id>/summary.json`

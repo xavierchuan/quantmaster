@@ -1,0 +1,6139 @@
+{
+  "fills": [
+    {
+      "order_id": "PAPER-1",
+      "ts": "2024-11-19 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-2",
+      "ts": "2024-11-19 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -38.34203867382727,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-3",
+      "ts": "2024-11-19 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-4",
+      "ts": "2024-11-19 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 79.996029059133,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-5",
+      "ts": "2024-11-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-6",
+      "ts": "2024-11-20 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.15825375051523,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-7",
+      "ts": "2024-11-20 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-8",
+      "ts": "2024-11-20 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.967712694164533,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-9",
+      "ts": "2024-11-20 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-10",
+      "ts": "2024-11-21 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 40.00595281674632,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-11",
+      "ts": "2024-11-21 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-12",
+      "ts": "2024-11-21 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.88173600024869,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-13",
+      "ts": "2024-11-21 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-14",
+      "ts": "2024-11-22 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 51.11009122073103,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-15",
+      "ts": "2024-11-22 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-16",
+      "ts": "2024-11-22 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 34.7181402826821,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-17",
+      "ts": "2024-11-24 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-18",
+      "ts": "2024-11-25 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.795636642029695,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-19",
+      "ts": "2024-11-25 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-20",
+      "ts": "2024-11-25 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 48.83687846608785,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-21",
+      "ts": "2024-11-25 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-22",
+      "ts": "2024-11-25 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 27.70685164190883,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-23",
+      "ts": "2024-11-25 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-24",
+      "ts": "2024-11-25 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 16.951220178908535,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-25",
+      "ts": "2024-11-26 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-26",
+      "ts": "2024-11-26 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -32.52963948612755,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-27",
+      "ts": "2024-11-26 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-28",
+      "ts": "2024-11-27 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.9294619864749,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-29",
+      "ts": "2024-11-27 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-30",
+      "ts": "2024-11-27 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.464753751649017,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-31",
+      "ts": "2024-11-27 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-32",
+      "ts": "2024-11-27 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.05690275985673,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-33",
+      "ts": "2024-11-27 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-34",
+      "ts": "2024-11-27 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.70414323577939,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-35",
+      "ts": "2024-11-27 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-36",
+      "ts": "2024-11-27 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.237395931127654,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-37",
+      "ts": "2024-11-27 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-38",
+      "ts": "2024-11-27 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -35.51538219094088,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-39",
+      "ts": "2024-11-27 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-40",
+      "ts": "2024-11-29 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -43.11103570325356,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-41",
+      "ts": "2024-11-29 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-42",
+      "ts": "2024-11-29 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.282027992296698,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-43",
+      "ts": "2024-11-29 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-44",
+      "ts": "2024-11-29 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.66263792872378,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-45",
+      "ts": "2024-11-29 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-46",
+      "ts": "2024-12-02 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 62.00312253883069,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-47",
+      "ts": "2024-12-02 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-48",
+      "ts": "2024-12-03 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 54.08231467291976,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-49",
+      "ts": "2024-12-03 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-50",
+      "ts": "2024-12-04 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 66.26387956601391,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-51",
+      "ts": "2024-12-04 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-52",
+      "ts": "2024-12-04 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.356152739087587,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-53",
+      "ts": "2024-12-04 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-54",
+      "ts": "2024-12-04 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 54.69910636567813,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-55",
+      "ts": "2024-12-04 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-56",
+      "ts": "2024-12-05 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 38.128338346416434,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-57",
+      "ts": "2024-12-06 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-58",
+      "ts": "2024-12-06 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 34.69644907921545,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-59",
+      "ts": "2024-12-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-60",
+      "ts": "2024-12-09 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 30.952125087419656,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-61",
+      "ts": "2024-12-09 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-62",
+      "ts": "2024-12-09 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.695154741062268,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-63",
+      "ts": "2024-12-09 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-64",
+      "ts": "2024-12-09 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.75983014284872,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-65",
+      "ts": "2024-12-09 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-66",
+      "ts": "2024-12-09 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.731399765889584,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-67",
+      "ts": "2024-12-09 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-68",
+      "ts": "2024-12-10 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.620550894120747,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-69",
+      "ts": "2024-12-10 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-70",
+      "ts": "2024-12-10 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.734934761172138,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-71",
+      "ts": "2024-12-10 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-72",
+      "ts": "2024-12-11 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.214483170985957,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-73",
+      "ts": "2024-12-11 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-74",
+      "ts": "2024-12-12 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 45.0496441142994,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-75",
+      "ts": "2024-12-12 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-76",
+      "ts": "2024-12-12 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 19.231617990078934,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-77",
+      "ts": "2024-12-12 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-78",
+      "ts": "2024-12-13 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.680861710758123,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-79",
+      "ts": "2024-12-13 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-80",
+      "ts": "2024-12-13 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.62898135811746,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-81",
+      "ts": "2024-12-13 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-82",
+      "ts": "2024-12-13 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.03855746347182,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-83",
+      "ts": "2024-12-13 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-84",
+      "ts": "2024-12-16 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.812011499006815,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-85",
+      "ts": "2024-12-16 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-86",
+      "ts": "2024-12-17 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 27.79568856827174,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-87",
+      "ts": "2024-12-17 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-88",
+      "ts": "2024-12-17 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.393783086537113,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-89",
+      "ts": "2024-12-17 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-90",
+      "ts": "2024-12-18 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 34.76113887101051,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-91",
+      "ts": "2024-12-18 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-92",
+      "ts": "2024-12-19 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.013390413058467,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-93",
+      "ts": "2024-12-19 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-94",
+      "ts": "2024-12-19 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.561904888248804,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-95",
+      "ts": "2024-12-19 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-96",
+      "ts": "2024-12-19 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -42.64180726577757,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-97",
+      "ts": "2024-12-19 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-98",
+      "ts": "2024-12-19 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -45.20894924786506,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-99",
+      "ts": "2024-12-19 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-100",
+      "ts": "2024-12-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -48.28467212790342,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-101",
+      "ts": "2024-12-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-102",
+      "ts": "2024-12-20 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 56.46359024873594,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-103",
+      "ts": "2024-12-20 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-104",
+      "ts": "2024-12-20 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 55.28724930454876,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-105",
+      "ts": "2024-12-23 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-106",
+      "ts": "2024-12-26 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -15.17267356549303,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-107",
+      "ts": "2024-12-26 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-108",
+      "ts": "2024-12-26 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -13.494533087150929,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-109",
+      "ts": "2024-12-26 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-110",
+      "ts": "2024-12-26 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -13.101584106984264,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-111",
+      "ts": "2024-12-26 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-112",
+      "ts": "2024-12-27 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 23.554298936617467,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-113",
+      "ts": "2024-12-27 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-114",
+      "ts": "2024-12-27 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 16.60636993038323,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-115",
+      "ts": "2024-12-27 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-116",
+      "ts": "2024-12-29 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 14.246511108854486,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-117",
+      "ts": "2024-12-30 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-118",
+      "ts": "2024-12-30 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -15.726338217681857,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-119",
+      "ts": "2024-12-30 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-120",
+      "ts": "2024-12-30 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.238814213298593,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-121",
+      "ts": "2024-12-30 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-122",
+      "ts": "2024-12-30 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.85635970812563,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-123",
+      "ts": "2024-12-30 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-124",
+      "ts": "2024-12-31 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.592259921657615,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-125",
+      "ts": "2024-12-31 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-126",
+      "ts": "2024-12-31 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.61642646568872,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-127",
+      "ts": "2024-12-31 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-128",
+      "ts": "2024-12-31 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 41.93520071858214,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-129",
+      "ts": "2025-01-01 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-130",
+      "ts": "2025-01-02 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 33.575266121591426,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-131",
+      "ts": "2025-01-02 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-132",
+      "ts": "2025-01-03 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 30.009074760943115,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-133",
+      "ts": "2025-01-05 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-134",
+      "ts": "2025-01-06 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.94117974661149,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-135",
+      "ts": "2025-01-06 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-136",
+      "ts": "2025-01-06 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.702647225053624,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-137",
+      "ts": "2025-01-06 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-138",
+      "ts": "2025-01-06 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 32.85319334729763,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-139",
+      "ts": "2025-01-06 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-140",
+      "ts": "2025-01-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.717199005170848,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-141",
+      "ts": "2025-01-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-142",
+      "ts": "2025-01-06 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 53.10127164430966,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-143",
+      "ts": "2025-01-06 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-144",
+      "ts": "2025-01-07 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.876408637707996,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-145",
+      "ts": "2025-01-07 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-146",
+      "ts": "2025-01-07 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 37.75705821476228,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-147",
+      "ts": "2025-01-07 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-148",
+      "ts": "2025-01-08 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.822842823697492,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-149",
+      "ts": "2025-01-08 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-150",
+      "ts": "2025-01-09 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 12.75518830754041,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-151",
+      "ts": "2025-01-09 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-152",
+      "ts": "2025-01-09 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.4360226647587,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-153",
+      "ts": "2025-01-09 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-154",
+      "ts": "2025-01-09 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 27.430806762765418,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-155",
+      "ts": "2025-01-10 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-156",
+      "ts": "2025-01-10 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 25.33608387763586,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-157",
+      "ts": "2025-01-10 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-158",
+      "ts": "2025-01-10 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 32.4086774341239,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-159",
+      "ts": "2025-01-10 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-160",
+      "ts": "2025-01-10 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 35.93482858155565,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-161",
+      "ts": "2025-01-10 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-162",
+      "ts": "2025-01-13 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -36.137622838475814,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-163",
+      "ts": "2025-01-13 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-164",
+      "ts": "2025-01-13 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 48.58336611578601,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-165",
+      "ts": "2025-01-13 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-166",
+      "ts": "2025-01-14 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 21.034367195771704,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-167",
+      "ts": "2025-01-14 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-168",
+      "ts": "2025-01-15 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 20.219190432381968,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-169",
+      "ts": "2025-01-15 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-170",
+      "ts": "2025-01-15 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.15413110052606,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-171",
+      "ts": "2025-01-15 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-172",
+      "ts": "2025-01-15 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.05777639757496,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-173",
+      "ts": "2025-01-15 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-174",
+      "ts": "2025-01-16 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.536591965846803,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-175",
+      "ts": "2025-01-16 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-176",
+      "ts": "2025-01-17 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.673674166143687,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-177",
+      "ts": "2025-01-17 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-178",
+      "ts": "2025-01-17 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 36.829437307809144,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-179",
+      "ts": "2025-01-17 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-180",
+      "ts": "2025-01-20 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 35.2927748778488,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-181",
+      "ts": "2025-01-20 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-182",
+      "ts": "2025-01-20 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 29.51811379879459,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-183",
+      "ts": "2025-01-20 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-184",
+      "ts": "2025-01-21 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 55.5339545770361,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-185",
+      "ts": "2025-01-21 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-186",
+      "ts": "2025-01-21 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -40.80546366608114,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-187",
+      "ts": "2025-01-21 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-188",
+      "ts": "2025-01-21 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 44.56186063517882,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-189",
+      "ts": "2025-01-21 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-190",
+      "ts": "2025-01-21 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 15.133947410664913,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-191",
+      "ts": "2025-01-22 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-192",
+      "ts": "2025-01-22 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 20.01480405062534,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-193",
+      "ts": "2025-01-22 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-194",
+      "ts": "2025-01-22 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.470991244923137,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-195",
+      "ts": "2025-01-22 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-196",
+      "ts": "2025-01-23 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 13.938521421207303,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-197",
+      "ts": "2025-01-24 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-198",
+      "ts": "2025-01-24 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.79293115567606,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-199",
+      "ts": "2025-01-24 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-200",
+      "ts": "2025-01-24 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 54.56284484249617,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-201",
+      "ts": "2025-01-24 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-202",
+      "ts": "2025-01-27 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 17.35079271067609,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-203",
+      "ts": "2025-01-27 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-204",
+      "ts": "2025-01-27 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.75129164764673,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-205",
+      "ts": "2025-01-27 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-206",
+      "ts": "2025-01-27 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.61978454604641,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-207",
+      "ts": "2025-01-27 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-208",
+      "ts": "2025-01-28 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 75.01115747427113,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-209",
+      "ts": "2025-01-29 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-210",
+      "ts": "2025-01-30 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.93829626255002,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-211",
+      "ts": "2025-01-30 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-212",
+      "ts": "2025-01-30 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.22404254575609,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-213",
+      "ts": "2025-01-30 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-214",
+      "ts": "2025-01-30 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.173565917297267,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-215",
+      "ts": "2025-01-30 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-216",
+      "ts": "2025-01-31 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 58.65399899426554,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-217",
+      "ts": "2025-01-31 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-218",
+      "ts": "2025-02-03 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.668047223222555,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-219",
+      "ts": "2025-02-03 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-220",
+      "ts": "2025-02-03 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 58.75189986996079,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-221",
+      "ts": "2025-02-04 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-222",
+      "ts": "2025-02-04 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.32675148390534,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-223",
+      "ts": "2025-02-04 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-224",
+      "ts": "2025-02-05 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.356697043498293,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-225",
+      "ts": "2025-02-05 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-226",
+      "ts": "2025-02-05 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.307262612833693,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-227",
+      "ts": "2025-02-05 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-228",
+      "ts": "2025-02-05 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.714968117307453,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-229",
+      "ts": "2025-02-05 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-230",
+      "ts": "2025-02-05 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.954676049979575,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-231",
+      "ts": "2025-02-05 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-232",
+      "ts": "2025-02-05 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.79093859313913,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-233",
+      "ts": "2025-02-05 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-234",
+      "ts": "2025-02-05 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.02395182965156,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-235",
+      "ts": "2025-02-05 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-236",
+      "ts": "2025-02-06 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -36.832423444884746,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-237",
+      "ts": "2025-02-06 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-238",
+      "ts": "2025-02-07 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 52.36837070194952,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-239",
+      "ts": "2025-02-07 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-240",
+      "ts": "2025-02-07 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -32.32374170625217,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-241",
+      "ts": "2025-02-07 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-242",
+      "ts": "2025-02-09 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 36.72195035227449,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-243",
+      "ts": "2025-02-10 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-244",
+      "ts": "2025-02-10 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 34.00639023521673,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-245",
+      "ts": "2025-02-11 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-246",
+      "ts": "2025-02-11 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.697231056150976,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-247",
+      "ts": "2025-02-11 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-248",
+      "ts": "2025-02-11 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.230902584908936,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-249",
+      "ts": "2025-02-11 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-250",
+      "ts": "2025-02-12 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.766118614089415,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-251",
+      "ts": "2025-02-12 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-252",
+      "ts": "2025-02-12 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.740328074606968,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-253",
+      "ts": "2025-02-12 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-254",
+      "ts": "2025-02-12 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.76128785024074,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-255",
+      "ts": "2025-02-12 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-256",
+      "ts": "2025-02-13 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 62.20894984399773,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-257",
+      "ts": "2025-02-13 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-258",
+      "ts": "2025-02-14 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.977112593380188,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-259",
+      "ts": "2025-02-14 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-260",
+      "ts": "2025-02-14 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.150118636323384,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-261",
+      "ts": "2025-02-14 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-262",
+      "ts": "2025-02-17 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.5005207369458,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-263",
+      "ts": "2025-02-17 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-264",
+      "ts": "2025-02-18 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 33.84464662405549,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-265",
+      "ts": "2025-02-18 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-266",
+      "ts": "2025-02-19 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.890256259815636,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-267",
+      "ts": "2025-02-19 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-268",
+      "ts": "2025-02-19 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 16.781739474204088,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-269",
+      "ts": "2025-02-19 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-270",
+      "ts": "2025-02-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.449761301808984,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-271",
+      "ts": "2025-02-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-272",
+      "ts": "2025-02-20 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.9157071852881,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-273",
+      "ts": "2025-02-20 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-274",
+      "ts": "2025-02-20 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.419964541981567,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-275",
+      "ts": "2025-02-20 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-276",
+      "ts": "2025-02-20 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.356386821075827,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-277",
+      "ts": "2025-02-20 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-278",
+      "ts": "2025-02-20 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -32.127150513069985,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-279",
+      "ts": "2025-02-20 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-280",
+      "ts": "2025-02-21 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 62.26636536270335,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-281",
+      "ts": "2025-02-21 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-282",
+      "ts": "2025-02-21 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.90781817506847,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-283",
+      "ts": "2025-02-21 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-284",
+      "ts": "2025-02-24 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 39.65220341020618,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-285",
+      "ts": "2025-02-25 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-286",
+      "ts": "2025-02-25 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.16518730611016,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-287",
+      "ts": "2025-02-25 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-288",
+      "ts": "2025-02-26 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 25.67300869146217,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-289",
+      "ts": "2025-02-26 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-290",
+      "ts": "2025-02-27 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 14.174369120550976,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-291",
+      "ts": "2025-02-27 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-292",
+      "ts": "2025-02-27 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.76280937115318,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-293",
+      "ts": "2025-02-27 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-294",
+      "ts": "2025-02-28 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 23.007747096428297,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-295",
+      "ts": "2025-02-28 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-296",
+      "ts": "2025-02-28 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.865060308870103,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-297",
+      "ts": "2025-02-28 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-298",
+      "ts": "2025-02-28 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.13670758037322,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-299",
+      "ts": "2025-02-28 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-300",
+      "ts": "2025-03-03 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 30.74287945878567,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-301",
+      "ts": "2025-03-03 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-302",
+      "ts": "2025-03-03 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.789507053791475,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-303",
+      "ts": "2025-03-03 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-304",
+      "ts": "2025-03-03 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 63.85501449760359,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-305",
+      "ts": "2025-03-03 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-306",
+      "ts": "2025-03-04 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -41.20430124800909,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-307",
+      "ts": "2025-03-04 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-308",
+      "ts": "2025-03-04 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -41.54260965688983,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-309",
+      "ts": "2025-03-04 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-310",
+      "ts": "2025-03-04 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 82.91147065746068,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-311",
+      "ts": "2025-03-05 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-312",
+      "ts": "2025-03-06 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 50.19857483841521,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-313",
+      "ts": "2025-03-06 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-314",
+      "ts": "2025-03-06 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.588502491110273,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-315",
+      "ts": "2025-03-06 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-316",
+      "ts": "2025-03-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.50183190415633,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-317",
+      "ts": "2025-03-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-318",
+      "ts": "2025-03-06 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 63.44557775917326,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-319",
+      "ts": "2025-03-06 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-320",
+      "ts": "2025-03-07 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -38.18004825931342,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-321",
+      "ts": "2025-03-07 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-322",
+      "ts": "2025-03-07 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 42.42074852504787,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-323",
+      "ts": "2025-03-10 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-324",
+      "ts": "2025-03-10 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 26.521182843020817,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-325",
+      "ts": "2025-03-10 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-326",
+      "ts": "2025-03-10 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.51552636959252,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-327",
+      "ts": "2025-03-10 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-328",
+      "ts": "2025-03-11 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.830302015108376,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-329",
+      "ts": "2025-03-11 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-330",
+      "ts": "2025-03-11 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 35.76145475037763,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-331",
+      "ts": "2025-03-11 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-332",
+      "ts": "2025-03-11 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 27.19134597767326,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-333",
+      "ts": "2025-03-11 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-334",
+      "ts": "2025-03-12 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -44.24204203607646,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-335",
+      "ts": "2025-03-12 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-336",
+      "ts": "2025-03-12 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.746913134282124,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-337",
+      "ts": "2025-03-12 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-338",
+      "ts": "2025-03-12 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 66.75843821680384,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-339",
+      "ts": "2025-03-13 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-340",
+      "ts": "2025-03-14 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 38.88971866317793,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-341",
+      "ts": "2025-03-14 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-342",
+      "ts": "2025-03-14 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.950738419690328,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-343",
+      "ts": "2025-03-14 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-344",
+      "ts": "2025-03-17 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.414026211083545,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-345",
+      "ts": "2025-03-17 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-346",
+      "ts": "2025-03-17 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 30.618492720831757,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-347",
+      "ts": "2025-03-17 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-348",
+      "ts": "2025-03-18 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.686044282043984,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-349",
+      "ts": "2025-03-18 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-350",
+      "ts": "2025-03-18 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.820365471412707,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-351",
+      "ts": "2025-03-18 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-352",
+      "ts": "2025-03-18 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 39.13600045592433,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-353",
+      "ts": "2025-03-19 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-354",
+      "ts": "2025-03-19 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 32.40120775697551,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-355",
+      "ts": "2025-03-19 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-356",
+      "ts": "2025-03-19 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 55.14886141503489,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-357",
+      "ts": "2025-03-19 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-358",
+      "ts": "2025-03-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -36.33284579864157,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-359",
+      "ts": "2025-03-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-360",
+      "ts": "2025-03-21 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 45.486715260858,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-361",
+      "ts": "2025-03-21 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-362",
+      "ts": "2025-03-21 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 39.79014655236003,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-363",
+      "ts": "2025-03-21 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-364",
+      "ts": "2025-03-23 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.35896891018202,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-365",
+      "ts": "2025-03-23 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-366",
+      "ts": "2025-03-24 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.064519325707224,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-367",
+      "ts": "2025-03-24 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-368",
+      "ts": "2025-03-24 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.635907414958364,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-369",
+      "ts": "2025-03-24 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-370",
+      "ts": "2025-03-25 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 45.74204782426764,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-371",
+      "ts": "2025-03-26 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-372",
+      "ts": "2025-03-26 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 23.596599475777335,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-373",
+      "ts": "2025-03-27 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-374",
+      "ts": "2025-03-27 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.74919900054663,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-375",
+      "ts": "2025-03-27 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-376",
+      "ts": "2025-03-28 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 19.89754137869108,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-377",
+      "ts": "2025-03-28 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-378",
+      "ts": "2025-03-28 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.35442707961974,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-379",
+      "ts": "2025-03-28 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-380",
+      "ts": "2025-03-30 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.04992280299271,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-381",
+      "ts": "2025-03-30 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-382",
+      "ts": "2025-03-31 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.910502169543,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-383",
+      "ts": "2025-03-31 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-384",
+      "ts": "2025-03-31 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.04025013217545,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-385",
+      "ts": "2025-03-31 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-386",
+      "ts": "2025-03-31 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 67.75173731781284,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-387",
+      "ts": "2025-04-01 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-388",
+      "ts": "2025-04-01 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 20.17945287574611,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-389",
+      "ts": "2025-04-02 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-390",
+      "ts": "2025-04-02 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.95525306613449,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-391",
+      "ts": "2025-04-02 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-392",
+      "ts": "2025-04-02 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 30.710380989917734,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-393",
+      "ts": "2025-04-02 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-394",
+      "ts": "2025-04-02 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.22290629658102,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-395",
+      "ts": "2025-04-02 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-396",
+      "ts": "2025-04-02 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.92790528443057,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-397",
+      "ts": "2025-04-02 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-398",
+      "ts": "2025-04-02 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -37.07745532700166,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-399",
+      "ts": "2025-04-02 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-400",
+      "ts": "2025-04-02 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -40.02206798950487,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-401",
+      "ts": "2025-04-02 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-402",
+      "ts": "2025-04-03 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -43.37476372442067,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-403",
+      "ts": "2025-04-03 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-404",
+      "ts": "2025-04-03 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -51.80220080690959,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-405",
+      "ts": "2025-04-03 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-406",
+      "ts": "2025-04-03 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -66.0209340402745,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-407",
+      "ts": "2025-04-03 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-408",
+      "ts": "2025-04-04 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -61.10349689697779,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-409",
+      "ts": "2025-04-04 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-410",
+      "ts": "2025-04-04 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 88.86343591736035,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-411",
+      "ts": "2025-04-06 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-412",
+      "ts": "2025-04-07 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 37.877703563340035,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-413",
+      "ts": "2025-04-07 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-414",
+      "ts": "2025-04-07 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 55.78937269170616,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-415",
+      "ts": "2025-04-07 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-416",
+      "ts": "2025-04-07 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -63.04499195315232,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-417",
+      "ts": "2025-04-07 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-418",
+      "ts": "2025-04-08 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 46.54831040093664,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-419",
+      "ts": "2025-04-08 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-420",
+      "ts": "2025-04-09 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -46.442694993629395,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-421",
+      "ts": "2025-04-09 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-422",
+      "ts": "2025-04-09 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -49.32096294221186,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-423",
+      "ts": "2025-04-09 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-424",
+      "ts": "2025-04-09 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -52.473172825007175,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-425",
+      "ts": "2025-04-09 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-426",
+      "ts": "2025-04-09 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 124.38012726905627,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-427",
+      "ts": "2025-04-09 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-428",
+      "ts": "2025-04-10 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 113.87350342158835,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-429",
+      "ts": "2025-04-10 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-430",
+      "ts": "2025-04-10 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -50.55538158315117,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-431",
+      "ts": "2025-04-10 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-432",
+      "ts": "2025-04-11 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -51.16851021788937,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-433",
+      "ts": "2025-04-11 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-434",
+      "ts": "2025-04-11 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -56.623102373102455,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-435",
+      "ts": "2025-04-11 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-436",
+      "ts": "2025-04-14 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 86.08488507747315,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-437",
+      "ts": "2025-04-15 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-438",
+      "ts": "2025-04-15 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 26.53244457177164,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-439",
+      "ts": "2025-04-16 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-440",
+      "ts": "2025-04-16 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.44836147678605,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-441",
+      "ts": "2025-04-16 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-442",
+      "ts": "2025-04-16 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 47.91584817347864,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-443",
+      "ts": "2025-04-16 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-444",
+      "ts": "2025-04-16 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.97850208735709,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-445",
+      "ts": "2025-04-16 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-446",
+      "ts": "2025-04-17 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 41.88345388167422,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-447",
+      "ts": "2025-04-17 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-448",
+      "ts": "2025-04-17 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 28.32033657657127,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-449",
+      "ts": "2025-04-20 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-450",
+      "ts": "2025-04-20 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -11.58355307106663,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-451",
+      "ts": "2025-04-20 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-452",
+      "ts": "2025-04-20 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -14.890171767769594,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-453",
+      "ts": "2025-04-20 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-454",
+      "ts": "2025-04-21 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.7196702004632,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-455",
+      "ts": "2025-04-21 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-456",
+      "ts": "2025-04-21 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.753003790988885,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-457",
+      "ts": "2025-04-21 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-458",
+      "ts": "2025-04-22 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.821441918353987,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-459",
+      "ts": "2025-04-22 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-460",
+      "ts": "2025-04-22 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 46.477100142685835,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-461",
+      "ts": "2025-04-22 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-462",
+      "ts": "2025-04-22 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -38.92960575706282,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-463",
+      "ts": "2025-04-22 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-464",
+      "ts": "2025-04-22 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -39.627121300551046,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-465",
+      "ts": "2025-04-22 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-466",
+      "ts": "2025-04-23 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 81.68210280315131,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-467",
+      "ts": "2025-04-23 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-468",
+      "ts": "2025-04-23 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -49.40460400687454,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-469",
+      "ts": "2025-04-23 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-470",
+      "ts": "2025-04-23 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -47.12096277088324,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-471",
+      "ts": "2025-04-23 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-472",
+      "ts": "2025-04-24 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 71.60317782209236,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-473",
+      "ts": "2025-04-25 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-474",
+      "ts": "2025-04-25 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.898694088338225,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-475",
+      "ts": "2025-04-25 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-476",
+      "ts": "2025-04-25 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.54546309899485,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-477",
+      "ts": "2025-04-25 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-478",
+      "ts": "2025-04-28 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 25.506394710595227,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-479",
+      "ts": "2025-04-28 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-480",
+      "ts": "2025-04-28 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.6978464254207,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-481",
+      "ts": "2025-04-28 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-482",
+      "ts": "2025-04-30 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 11.488045105922245,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-483",
+      "ts": "2025-04-30 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-484",
+      "ts": "2025-05-01 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.882564840198206,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-485",
+      "ts": "2025-05-01 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-486",
+      "ts": "2025-05-01 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.752081955831855,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-487",
+      "ts": "2025-05-01 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-488",
+      "ts": "2025-05-01 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.916426177053825,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-489",
+      "ts": "2025-05-01 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-490",
+      "ts": "2025-05-01 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.728671230624204,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-491",
+      "ts": "2025-05-01 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-492",
+      "ts": "2025-05-01 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.739017733145257,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-493",
+      "ts": "2025-05-01 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-494",
+      "ts": "2025-05-02 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 85.30351315786257,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-495",
+      "ts": "2025-05-05 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-496",
+      "ts": "2025-05-05 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -39.233969911503685,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-497",
+      "ts": "2025-05-05 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-498",
+      "ts": "2025-05-06 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.037284190139783,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-499",
+      "ts": "2025-05-06 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-500",
+      "ts": "2025-05-06 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.839628313261155,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-501",
+      "ts": "2025-05-06 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-502",
+      "ts": "2025-05-06 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.45570023582881,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-503",
+      "ts": "2025-05-06 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-504",
+      "ts": "2025-05-07 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 36.54332642537471,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-505",
+      "ts": "2025-05-07 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-506",
+      "ts": "2025-05-08 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -32.68952980927617,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-507",
+      "ts": "2025-05-08 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-508",
+      "ts": "2025-05-08 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.82524883460845,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-509",
+      "ts": "2025-05-08 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-510",
+      "ts": "2025-05-08 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.864609329736197,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-511",
+      "ts": "2025-05-08 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-512",
+      "ts": "2025-05-08 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -37.409825251610854,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-513",
+      "ts": "2025-05-08 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-514",
+      "ts": "2025-05-12 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -40.07126288611381,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-515",
+      "ts": "2025-05-12 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-516",
+      "ts": "2025-05-12 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -43.27665486997909,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-517",
+      "ts": "2025-05-12 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-518",
+      "ts": "2025-05-13 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 52.615144289390784,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-519",
+      "ts": "2025-05-14 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-520",
+      "ts": "2025-05-14 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.392764936765275,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-521",
+      "ts": "2025-05-14 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-522",
+      "ts": "2025-05-14 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.651880026253018,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-523",
+      "ts": "2025-05-14 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-524",
+      "ts": "2025-05-14 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 63.63181619784131,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-525",
+      "ts": "2025-05-14 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-526",
+      "ts": "2025-05-15 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -43.56411809651961,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-527",
+      "ts": "2025-05-15 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-528",
+      "ts": "2025-05-15 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.058431453323468,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-529",
+      "ts": "2025-05-15 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-530",
+      "ts": "2025-05-16 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.17046522088806,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-531",
+      "ts": "2025-05-16 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-532",
+      "ts": "2025-05-16 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 61.497837922464285,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-533",
+      "ts": "2025-05-18 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-534",
+      "ts": "2025-05-19 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.361555213238052,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-535",
+      "ts": "2025-05-19 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-536",
+      "ts": "2025-05-20 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 27.99756777222353,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-537",
+      "ts": "2025-05-20 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-538",
+      "ts": "2025-05-20 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.788380898112095,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-539",
+      "ts": "2025-05-20 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-540",
+      "ts": "2025-05-21 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.651005329803215,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-541",
+      "ts": "2025-05-21 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-542",
+      "ts": "2025-05-21 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.875317564757488,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-543",
+      "ts": "2025-05-21 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-544",
+      "ts": "2025-05-21 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.381892784468057,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-545",
+      "ts": "2025-05-21 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-546",
+      "ts": "2025-05-21 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 60.89711601264602,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-547",
+      "ts": "2025-05-21 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-548",
+      "ts": "2025-05-22 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.026756697789665,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-549",
+      "ts": "2025-05-22 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-550",
+      "ts": "2025-05-22 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.436794082410785,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-551",
+      "ts": "2025-05-22 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-552",
+      "ts": "2025-05-22 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 41.26469060807999,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-553",
+      "ts": "2025-05-22 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-554",
+      "ts": "2025-05-23 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 42.31776905025549,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-555",
+      "ts": "2025-05-23 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-556",
+      "ts": "2025-05-23 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.22425483563782,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-557",
+      "ts": "2025-05-23 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-558",
+      "ts": "2025-05-26 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.02422788394846,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-559",
+      "ts": "2025-05-26 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-560",
+      "ts": "2025-05-27 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 34.841987133265924,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-561",
+      "ts": "2025-05-27 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-562",
+      "ts": "2025-05-27 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.663225302704028,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-563",
+      "ts": "2025-05-27 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-564",
+      "ts": "2025-05-27 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.66122651840663,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-565",
+      "ts": "2025-05-27 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-566",
+      "ts": "2025-05-28 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.419869660249255,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-567",
+      "ts": "2025-05-28 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-568",
+      "ts": "2025-05-28 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.09433577629983,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-569",
+      "ts": "2025-05-28 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-570",
+      "ts": "2025-05-28 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.11311202959082,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-571",
+      "ts": "2025-05-28 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-572",
+      "ts": "2025-05-28 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.099851864396943,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-573",
+      "ts": "2025-05-28 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-574",
+      "ts": "2025-05-28 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -37.58778433567328,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-575",
+      "ts": "2025-05-28 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-576",
+      "ts": "2025-05-29 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.49440448188781,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-577",
+      "ts": "2025-05-29 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-578",
+      "ts": "2025-05-29 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 66.66465443991129,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-579",
+      "ts": "2025-05-29 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-580",
+      "ts": "2025-05-30 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -35.50910119728914,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-581",
+      "ts": "2025-05-30 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-582",
+      "ts": "2025-06-02 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.633991695526923,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-583",
+      "ts": "2025-06-02 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-584",
+      "ts": "2025-06-02 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.84935061563139,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-585",
+      "ts": "2025-06-02 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-586",
+      "ts": "2025-06-02 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.971101354798233,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-587",
+      "ts": "2025-06-02 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-588",
+      "ts": "2025-06-03 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 48.261259886300145,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-589",
+      "ts": "2025-06-03 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-590",
+      "ts": "2025-06-04 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.551870735866135,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-591",
+      "ts": "2025-06-04 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-592",
+      "ts": "2025-06-04 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.07978225054111,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-593",
+      "ts": "2025-06-04 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-594",
+      "ts": "2025-06-04 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 51.424282298506874,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-595",
+      "ts": "2025-06-04 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-596",
+      "ts": "2025-06-05 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 56.09594041253977,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-597",
+      "ts": "2025-06-06 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-598",
+      "ts": "2025-06-06 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.220314812119422,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-599",
+      "ts": "2025-06-06 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-600",
+      "ts": "2025-06-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.256649025829365,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-601",
+      "ts": "2025-06-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-602",
+      "ts": "2025-06-09 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 51.476561528060145,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-603",
+      "ts": "2025-06-10 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-604",
+      "ts": "2025-06-10 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.234652870362837,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-605",
+      "ts": "2025-06-10 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-606",
+      "ts": "2025-06-10 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 24.881948577475164,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-607",
+      "ts": "2025-06-10 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-608",
+      "ts": "2025-06-11 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.70875985325386,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-609",
+      "ts": "2025-06-11 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-610",
+      "ts": "2025-06-11 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 42.45381061479809,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-611",
+      "ts": "2025-06-11 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-612",
+      "ts": "2025-06-11 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 15.931716708559687,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-613",
+      "ts": "2025-06-11 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-614",
+      "ts": "2025-06-12 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -32.836869765580424,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-615",
+      "ts": "2025-06-12 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-616",
+      "ts": "2025-06-12 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.47385698353027,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-617",
+      "ts": "2025-06-12 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-618",
+      "ts": "2025-06-12 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.132502806957696,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-619",
+      "ts": "2025-06-12 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-620",
+      "ts": "2025-06-13 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 54.41782987359041,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-621",
+      "ts": "2025-06-15 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-622",
+      "ts": "2025-06-16 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 39.61370116189276,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-623",
+      "ts": "2025-06-16 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-624",
+      "ts": "2025-06-16 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.52161203130363,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-625",
+      "ts": "2025-06-16 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-626",
+      "ts": "2025-06-17 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.337096669961028,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-627",
+      "ts": "2025-06-17 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-628",
+      "ts": "2025-06-18 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 24.00800505416553,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-629",
+      "ts": "2025-06-18 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-630",
+      "ts": "2025-06-18 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 30.52477256900041,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-631",
+      "ts": "2025-06-19 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-632",
+      "ts": "2025-06-19 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.59086824098757,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-633",
+      "ts": "2025-06-19 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-634",
+      "ts": "2025-06-19 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 31.720785877070508,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-635",
+      "ts": "2025-06-20 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-636",
+      "ts": "2025-06-20 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.5586955735991,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-637",
+      "ts": "2025-06-20 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-638",
+      "ts": "2025-06-20 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.280774810002953,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-639",
+      "ts": "2025-06-20 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-640",
+      "ts": "2025-06-22 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.904967526830184,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-641",
+      "ts": "2025-06-22 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-642",
+      "ts": "2025-06-23 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.13310217109199,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-643",
+      "ts": "2025-06-23 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-644",
+      "ts": "2025-06-23 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.573589684377684,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-645",
+      "ts": "2025-06-23 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-646",
+      "ts": "2025-06-23 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -30.075782622719007,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-647",
+      "ts": "2025-06-23 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-648",
+      "ts": "2025-06-23 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 64.17141705231764,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-649",
+      "ts": "2025-06-24 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-650",
+      "ts": "2025-06-24 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -33.607135085591544,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-651",
+      "ts": "2025-06-24 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-652",
+      "ts": "2025-06-24 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.256488269680055,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-653",
+      "ts": "2025-06-24 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-654",
+      "ts": "2025-06-24 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -29.783390189989543,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-655",
+      "ts": "2025-06-24 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-656",
+      "ts": "2025-06-25 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 49.54382459492918,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-657",
+      "ts": "2025-06-26 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-658",
+      "ts": "2025-06-26 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.90977687066951,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-659",
+      "ts": "2025-06-26 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-660",
+      "ts": "2025-06-26 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.00039893242896,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-661",
+      "ts": "2025-06-26 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-662",
+      "ts": "2025-06-27 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 49.769972448529145,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-663",
+      "ts": "2025-06-27 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-664",
+      "ts": "2025-06-27 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 29.347256545442058,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-665",
+      "ts": "2025-06-30 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-666",
+      "ts": "2025-06-30 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.18019613319687,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-667",
+      "ts": "2025-06-30 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-668",
+      "ts": "2025-06-30 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 37.08498078986348,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-669",
+      "ts": "2025-06-30 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-670",
+      "ts": "2025-06-30 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.285769273557825,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-671",
+      "ts": "2025-06-30 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-672",
+      "ts": "2025-07-01 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.64180964778225,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-673",
+      "ts": "2025-07-01 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-674",
+      "ts": "2025-07-01 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.09786707835643,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-675",
+      "ts": "2025-07-01 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-676",
+      "ts": "2025-07-01 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.06662616265121,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-677",
+      "ts": "2025-07-01 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-678",
+      "ts": "2025-07-01 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 55.42959053490398,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-679",
+      "ts": "2025-07-02 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-680",
+      "ts": "2025-07-02 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 45.20305644145856,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-681",
+      "ts": "2025-07-03 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-682",
+      "ts": "2025-07-04 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 50.90302626855781,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-683",
+      "ts": "2025-07-07 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-684",
+      "ts": "2025-07-07 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.740841142663996,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-685",
+      "ts": "2025-07-07 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-686",
+      "ts": "2025-07-07 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.004369746704796,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-687",
+      "ts": "2025-07-07 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-688",
+      "ts": "2025-07-07 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.422048359376607,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-689",
+      "ts": "2025-07-07 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-690",
+      "ts": "2025-07-07 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.838103532119355,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-691",
+      "ts": "2025-07-07 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-692",
+      "ts": "2025-07-08 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.300630851049455,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-693",
+      "ts": "2025-07-08 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-694",
+      "ts": "2025-07-08 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -22.56629080255972,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-695",
+      "ts": "2025-07-08 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-696",
+      "ts": "2025-07-08 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.725712792018772,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-697",
+      "ts": "2025-07-08 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-698",
+      "ts": "2025-07-09 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 28.30861189801645,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-699",
+      "ts": "2025-07-09 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-700",
+      "ts": "2025-07-10 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.18249074672867,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-701",
+      "ts": "2025-07-10 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-702",
+      "ts": "2025-07-10 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 37.78320763656868,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-703",
+      "ts": "2025-07-10 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-704",
+      "ts": "2025-07-10 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 28.020826351554277,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-705",
+      "ts": "2025-07-11 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-706",
+      "ts": "2025-07-11 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.705672488347627,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-707",
+      "ts": "2025-07-11 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-708",
+      "ts": "2025-07-11 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.421126840714532,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-709",
+      "ts": "2025-07-11 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-710",
+      "ts": "2025-07-14 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.74904733768475,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-711",
+      "ts": "2025-07-14 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-712",
+      "ts": "2025-07-15 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.9199173365086,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-713",
+      "ts": "2025-07-15 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-714",
+      "ts": "2025-07-15 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.14146359582421,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-715",
+      "ts": "2025-07-15 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-716",
+      "ts": "2025-07-15 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.663077067701625,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-717",
+      "ts": "2025-07-15 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-718",
+      "ts": "2025-07-16 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.652883810148897,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-719",
+      "ts": "2025-07-16 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-720",
+      "ts": "2025-07-16 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 37.464305312698976,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-721",
+      "ts": "2025-07-16 17:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-722",
+      "ts": "2025-07-17 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 46.2142038753164,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-723",
+      "ts": "2025-07-18 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-724",
+      "ts": "2025-07-18 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 16.677188408918887,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-725",
+      "ts": "2025-07-18 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-726",
+      "ts": "2025-07-20 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 40.4226954147729,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-727",
+      "ts": "2025-07-20 21:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-728",
+      "ts": "2025-07-20 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 24.074277272635772,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-729",
+      "ts": "2025-07-21 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-730",
+      "ts": "2025-07-21 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.192942506302288,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-731",
+      "ts": "2025-07-21 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-732",
+      "ts": "2025-07-21 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -26.88281182815729,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-733",
+      "ts": "2025-07-21 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-734",
+      "ts": "2025-07-21 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.318665064213413,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-735",
+      "ts": "2025-07-21 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-736",
+      "ts": "2025-07-22 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 50.19815609207143,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-737",
+      "ts": "2025-07-22 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-738",
+      "ts": "2025-07-22 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.71815690289584,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-739",
+      "ts": "2025-07-22 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-740",
+      "ts": "2025-07-22 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.306098536522413,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-741",
+      "ts": "2025-07-22 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-742",
+      "ts": "2025-07-22 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.354697562311028,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-743",
+      "ts": "2025-07-22 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-744",
+      "ts": "2025-07-23 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 47.20911216064647,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-745",
+      "ts": "2025-07-23 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-746",
+      "ts": "2025-07-24 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -37.45078680991756,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-747",
+      "ts": "2025-07-24 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-748",
+      "ts": "2025-07-24 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 40.37935306441464,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-749",
+      "ts": "2025-07-24 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-750",
+      "ts": "2025-07-24 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 15.605213226163936,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-751",
+      "ts": "2025-07-24 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-752",
+      "ts": "2025-07-24 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -28.64270605279243,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-753",
+      "ts": "2025-07-24 22:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-754",
+      "ts": "2025-07-25 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.77530959693418,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-755",
+      "ts": "2025-07-25 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-756",
+      "ts": "2025-07-25 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -24.55284952661928,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-757",
+      "ts": "2025-07-25 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-758",
+      "ts": "2025-07-28 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.245576255649546,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-759",
+      "ts": "2025-07-28 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-760",
+      "ts": "2025-07-28 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.649131916170894,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-761",
+      "ts": "2025-07-28 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-762",
+      "ts": "2025-07-28 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.644869320708672,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-763",
+      "ts": "2025-07-28 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-764",
+      "ts": "2025-07-29 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.34294773023347,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-765",
+      "ts": "2025-07-29 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-766",
+      "ts": "2025-07-30 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 35.4209385990927,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-767",
+      "ts": "2025-07-30 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-768",
+      "ts": "2025-07-30 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 38.19014474297002,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-769",
+      "ts": "2025-07-30 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-770",
+      "ts": "2025-07-30 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -27.351361289394095,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-771",
+      "ts": "2025-07-30 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-772",
+      "ts": "2025-07-31 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.782590133858296,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-773",
+      "ts": "2025-07-31 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-774",
+      "ts": "2025-07-31 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -31.37771274606695,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-775",
+      "ts": "2025-07-31 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-776",
+      "ts": "2025-08-01 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 71.78817259955288,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-777",
+      "ts": "2025-08-01 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-778",
+      "ts": "2025-08-01 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -35.21258997787537,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-779",
+      "ts": "2025-08-01 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-780",
+      "ts": "2025-08-01 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -38.52842004160893,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-781",
+      "ts": "2025-08-01 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-782",
+      "ts": "2025-08-01 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -41.72243576999097,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-783",
+      "ts": "2025-08-01 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-784",
+      "ts": "2025-08-04 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -45.54157840580301,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-785",
+      "ts": "2025-08-04 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-786",
+      "ts": "2025-08-05 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 49.68754996051874,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-787",
+      "ts": "2025-08-06 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-788",
+      "ts": "2025-08-06 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 32.88783140445549,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-789",
+      "ts": "2025-08-06 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-790",
+      "ts": "2025-08-07 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 33.92837949002925,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-791",
+      "ts": "2025-08-07 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-792",
+      "ts": "2025-08-07 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -25.221761133775505,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-793",
+      "ts": "2025-08-07 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-794",
+      "ts": "2025-08-07 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 41.88313459856356,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-795",
+      "ts": "2025-08-07 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-796",
+      "ts": "2025-08-08 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 12.60909172386957,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-797",
+      "ts": "2025-08-08 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-798",
+      "ts": "2025-08-11 03:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 10.421598242556724,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-799",
+      "ts": "2025-08-11 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-800",
+      "ts": "2025-08-11 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.50946559952203,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-801",
+      "ts": "2025-08-11 15:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-802",
+      "ts": "2025-08-11 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.689609968711284,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-803",
+      "ts": "2025-08-11 19:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-804",
+      "ts": "2025-08-12 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.477715911151364,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-805",
+      "ts": "2025-08-12 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-806",
+      "ts": "2025-08-12 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 32.5653960856019,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-807",
+      "ts": "2025-08-13 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-808",
+      "ts": "2025-08-13 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.45251478029504,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-809",
+      "ts": "2025-08-13 08:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-810",
+      "ts": "2025-08-14 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.12642942040275,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-811",
+      "ts": "2025-08-14 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-812",
+      "ts": "2025-08-14 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.558389272124643,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-813",
+      "ts": "2025-08-14 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-814",
+      "ts": "2025-08-14 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 39.8434667764783,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-815",
+      "ts": "2025-08-14 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-816",
+      "ts": "2025-08-15 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 37.320538925813366,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-817",
+      "ts": "2025-08-18 12:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-818",
+      "ts": "2025-08-19 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.705443106531693,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-819",
+      "ts": "2025-08-19 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-820",
+      "ts": "2025-08-19 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 7.430908672179338,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-821",
+      "ts": "2025-08-20 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-822",
+      "ts": "2025-08-20 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.607625990030428,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-823",
+      "ts": "2025-08-20 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-824",
+      "ts": "2025-08-20 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -17.784093421945553,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-825",
+      "ts": "2025-08-20 13:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-826",
+      "ts": "2025-08-21 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 26.81672293794256,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-827",
+      "ts": "2025-08-21 09:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-828",
+      "ts": "2025-08-21 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -15.793601964311817,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-829",
+      "ts": "2025-08-21 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-830",
+      "ts": "2025-08-21 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.056165665722492,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-831",
+      "ts": "2025-08-21 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-832",
+      "ts": "2025-08-22 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -21.07374574811538,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-833",
+      "ts": "2025-08-22 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-834",
+      "ts": "2025-08-22 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.96587376828348,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-835",
+      "ts": "2025-08-22 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-836",
+      "ts": "2025-08-22 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 29.968632641657376,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-837",
+      "ts": "2025-08-22 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-838",
+      "ts": "2025-08-25 18:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 58.4718606039873,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-839",
+      "ts": "2025-08-27 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-840",
+      "ts": "2025-08-27 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -16.467678087029775,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-841",
+      "ts": "2025-08-27 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-842",
+      "ts": "2025-08-27 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -15.605597615832089,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-843",
+      "ts": "2025-08-27 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-844",
+      "ts": "2025-08-27 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 32.76970854022323,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-845",
+      "ts": "2025-08-27 16:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-846",
+      "ts": "2025-08-28 06:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -20.93935387513244,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-847",
+      "ts": "2025-08-28 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-848",
+      "ts": "2025-08-28 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -19.103157490631485,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-849",
+      "ts": "2025-08-28 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-850",
+      "ts": "2025-08-29 10:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 17.372131419291122,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-851",
+      "ts": "2025-08-29 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-852",
+      "ts": "2025-08-29 20:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 15.347981558422068,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-853",
+      "ts": "2025-09-01 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-854",
+      "ts": "2025-09-01 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 22.035369869915,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-855",
+      "ts": "2025-09-01 11:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-856",
+      "ts": "2025-09-01 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 3.447005662775082,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-857",
+      "ts": "2025-09-02 00:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-858",
+      "ts": "2025-09-02 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -9.672750476764923,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-859",
+      "ts": "2025-09-02 01:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-860",
+      "ts": "2025-09-02 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -11.722478507577868,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-861",
+      "ts": "2025-09-02 02:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-862",
+      "ts": "2025-09-02 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -12.487349000983006,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-863",
+      "ts": "2025-09-02 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-864",
+      "ts": "2025-09-02 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -13.762737499228232,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-865",
+      "ts": "2025-09-02 05:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-866",
+      "ts": "2025-09-02 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -14.99439453274384,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-867",
+      "ts": "2025-09-02 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-868",
+      "ts": "2025-09-02 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 40.36800662921123,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-869",
+      "ts": "2025-09-02 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-870",
+      "ts": "2025-09-02 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -34.69782407469693,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-871",
+      "ts": "2025-09-02 23:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-872",
+      "ts": "2025-09-03 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -23.648246365896107,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-873",
+      "ts": "2025-09-03 04:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-874",
+      "ts": "2025-09-03 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": -18.75740143670965,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-875",
+      "ts": "2025-09-03 07:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 0.0,
+      "strategy": "default"
+    },
+    {
+      "order_id": "PAPER-876",
+      "ts": "2025-09-03 14:00:00+00:00",
+      "symbol": "USDJPY",
+      "pnl": 40.43170508107919,
+      "strategy": "default"
+    }
+  ],
+  "rejects": [],
+  "kill_switch_events": [],
+  "run_id": "20251109_145252"
+}

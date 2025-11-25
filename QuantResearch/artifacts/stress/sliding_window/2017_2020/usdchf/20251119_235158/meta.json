@@ -1,0 +1,65 @@
+{
+  "generated_at": "2025-11-19T23:51:58.301040+00:00",
+  "symbol": "USDCHF",
+  "csv": "QuantResearch/data/clean/USDCHF_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 319,
+    "val": 107,
+    "test": 107
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 0,
+  "thresholds": {
+    "label_mode": "binary",
+    "p_long": 0.6,
+    "p_exit": 0.5,
+    "val_metrics": {
+      "long": {
+        "sharpe": -Infinity,
+        "trades": 0
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": 0.0,
+        "trades": 1
+      }
+    }
+  },
+  "label_mode": "binary",
+  "class_mapping": {
+    "flat": 0,
+    "long": 1
+  },
+  "costs": {
+    "spread_pips": 1.5,
+    "slip_pips": 0.2,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

@@ -1,0 +1,101 @@
+{
+  "generated_at": "2025-11-18T21:58:18.086267+00:00",
+  "symbol": "USDCAD",
+  "csv": "QuantResearch/data/clean/USDCAD_H1_clean_v2.csv",
+  "horizon": 12,
+  "pos_thresh": 0.0005,
+  "neg_thresh": -0.0005,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "ret_12",
+    "vol_24",
+    "vol_48",
+    "sma_diff",
+    "ema_diff",
+    "ema_slope_20",
+    "ema_slope_80",
+    "rsi",
+    "atr_norm_14",
+    "atr_norm_50",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "splits": {
+    "train": 18503,
+    "val": 6168,
+    "test": 6168
+  },
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "num_class": 3,
+    "eval_metric": "mlogloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 20,
+  "metrics": {
+    "train_acc": 0.568232178565638,
+    "val_acc": 0.39234760051880674,
+    "test_acc": 0.4090466926070039,
+    "train_confusion": [
+      [
+        5746,
+        0,
+        2188
+      ],
+      [
+        1522,
+        15,
+        1258
+      ],
+      [
+        3017,
+        4,
+        4753
+      ]
+    ],
+    "val_confusion": [
+      [
+        895,
+        0,
+        1398
+      ],
+      [
+        524,
+        0,
+        988
+      ],
+      [
+        835,
+        3,
+        1525
+      ]
+    ],
+    "test_confusion": [
+      [
+        1031,
+        0,
+        1307
+      ],
+      [
+        510,
+        2,
+        779
+      ],
+      [
+        1049,
+        0,
+        1490
+      ]
+    ]
+  }
+}

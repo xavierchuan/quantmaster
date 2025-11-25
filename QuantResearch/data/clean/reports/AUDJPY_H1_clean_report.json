@@ -1,0 +1,11 @@
+{
+  "symbol": "AUDJPY",
+  "total_rows_raw": 31105,
+  "clean_rows": 30930,
+  "removed_weekend": 179,
+  "filled_short_gaps": 4,
+  "segments": 264,
+  "price_outliers": 49,
+  "volume_outliers": 5,
+  "feature_columns": []
+}

@@ -1,0 +1,28 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 1101665.3174935353,
+  "ann_return": 0.02163848438491711,
+  "ann_vol": 0.07024976933906807,
+  "sharpe": 0.3080221414034349,
+  "max_drawdown": -0.13131221638994933,
+  "sortino": 0.022656996867252054,
+  "calmar": 0.16478652923394968,
+  "max_drawdown_duration_bars": 25650,
+  "avg_drawdown_duration_bars": 84.4,
+  "current_drawdown_duration_bars": 25650,
+  "recovery_time_bars": 25650,
+  "trades": 16,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14,
+  "data_report": "data/outputs/stats/data_reports/data_GBPJPY_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json",
+  "data_validation": {
+    "severity": "warn",
+    "messages": [
+      "Non-zero timestamp gaps detected (ratio=0.0085).",
+      "Columns contain nulls (max ratio=0.0026).",
+      "Detected numeric outliers (threshold z>5.0)."
+    ]
+  }
+}

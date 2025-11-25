@@ -1,0 +1,2 @@
+symbol,config,benchmark,sharpe,ann_return,ann_vol,max_drawdown,trades,final_equity
+EURUSD,eurusd_regime.yaml,True,-4.091388643054443,-0.018367456360149914,0.004489296413170276,-0.019501268810382288,1582,98112.0030302285

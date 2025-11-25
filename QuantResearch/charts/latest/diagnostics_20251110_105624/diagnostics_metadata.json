@@ -1,0 +1,14 @@
+{
+  "generated_at": "2025-11-10T10:56:24.949304+00:00",
+  "inputs": {
+    "batch_csv": "data/results/batch_backtests_20251109_145253.csv",
+    "walkforward_csv": null,
+    "mc_summary": null,
+    "mc_iterations": null,
+    "equity_csv": null,
+    "underwater_csv": null
+  },
+  "artifacts": {
+    "batch_heatmap": null
+  }
+}

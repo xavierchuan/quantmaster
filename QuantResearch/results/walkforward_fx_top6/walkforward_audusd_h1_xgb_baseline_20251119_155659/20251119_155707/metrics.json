@@ -1,0 +1,19 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 1012961.1475522675,
+  "ann_return": 0.08232794078343719,
+  "ann_vol": 0.0480389160513336,
+  "sharpe": 1.713775987273795,
+  "max_drawdown": -0.016083819395849384,
+  "sortino": 0.4593194384727686,
+  "calmar": 5.118681002143239,
+  "max_drawdown_duration_bars": 838,
+  "avg_drawdown_duration_bars": 12.4,
+  "current_drawdown_duration_bars": 838,
+  "recovery_time_bars": 838,
+  "trades": 8,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14
+}

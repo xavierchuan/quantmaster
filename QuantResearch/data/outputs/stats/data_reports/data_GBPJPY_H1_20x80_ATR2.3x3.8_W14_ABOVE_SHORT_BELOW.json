@@ -1,0 +1,35 @@
+{
+  "generated_at": "2025-11-19T21:09:15.412425+00:00",
+  "dataset_path": "/Users/chuan/Documents/Projects/FX_Backtest/QuantResearch/data/clean/GBPJPY_H1_clean_v2_with_regime.csv",
+  "total_rows": 30930,
+  "time_column": "time",
+  "inferred_interval_seconds": 3600.0,
+  "duplicate_timestamps": 0,
+  "gap_ratio": 0.008503346373953247,
+  "null_counts": {
+    "time": 0,
+    "open": 0,
+    "high": 0,
+    "low": 0,
+    "close": 0,
+    "volume": 0,
+    "was_filled": 0,
+    "is_price_outlier": 0,
+    "is_volume_outlier": 0,
+    "segment_id": 0,
+    "is_gap_reopen": 0,
+    "vol_regime": 79,
+    "vol_high": 0,
+    "vol_low": 0,
+    "trend_regime": 79
+  },
+  "numeric_outliers": {
+    "volume": 41
+  },
+  "severity": "warn",
+  "messages": [
+    "Non-zero timestamp gaps detected (ratio=0.0085).",
+    "Columns contain nulls (max ratio=0.0026).",
+    "Detected numeric outliers (threshold z>5.0)."
+  ]
+}

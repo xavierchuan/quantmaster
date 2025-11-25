@@ -1,0 +1,65 @@
+{
+  "generated_at": "2025-11-18T22:08:43.050031+00:00",
+  "symbol": "EURJPY",
+  "csv": "QuantResearch/data/clean/EURJPY_H1_clean_v2_with_regime.csv",
+  "horizon": 6,
+  "splits": {
+    "train": 17045,
+    "val": 5682,
+    "test": 5682
+  },
+  "seed": 42,
+  "features": [
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "vol_24",
+    "sma_diff",
+    "rsi",
+    "atr_norm",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos"
+  ],
+  "xgb_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "max_depth": 4,
+    "eta": 0.05,
+    "lambda": 1.0,
+    "min_child_weight": 1.0,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "seed": 42
+  },
+  "best_iteration": 24,
+  "thresholds": {
+    "label_mode": "binary",
+    "p_long": 0.675,
+    "p_exit": 0.45,
+    "val_metrics": {
+      "long": {
+        "sharpe": 16.842503484669233,
+        "trades": 93
+      }
+    },
+    "test_metrics": {
+      "long": {
+        "sharpe": 12.083596713856801,
+        "trades": 38
+      }
+    }
+  },
+  "label_mode": "binary",
+  "class_mapping": {
+    "flat": 0,
+    "long": 1
+  },
+  "costs": {
+    "spread_pips": 2.0,
+    "slip_pips": 0.3,
+    "comm_per_million": 0.25
+  },
+  "git_commit": null
+}

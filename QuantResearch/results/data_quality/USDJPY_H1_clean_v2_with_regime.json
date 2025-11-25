@@ -1,0 +1,9 @@
+{
+  "path": "QuantResearch/data/clean/USDJPY_H1_clean_v2_with_regime.csv",
+  "rows": 30931,
+  "severity": "error",
+  "issues": [
+    "gap ratio=0.2938",
+    "nan ratios: {\"vol_regime\": 0.0025540719666354143, \"trend_regime\": 0.0025540719666354143}"
+  ]
+}

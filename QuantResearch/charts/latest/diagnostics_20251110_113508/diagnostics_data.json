@@ -1,0 +1,16 @@
+{
+  "batch_heatmap": {
+    "double_costs": {
+      "40.0": {
+        "160.0": -1.6395098597635402
+      }
+    }
+  },
+  "walkforward": [
+    {
+      "window": 0,
+      "sharpe": -3.2174714395261903,
+      "status": "fail"
+    }
+  ]
+}

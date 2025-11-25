@@ -1,0 +1,194 @@
+{
+  "AUDUSD": {
+    "2017_2020": {
+      "window": "2017_2020",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2017_2020/audusd/20251120_091637",
+      "backtest_run_id": "20251120_091643",
+      "summary_path": "QuantResearch/results/20251120_091643/summary.json",
+      "ann_return": -0.011362276765098933,
+      "sharpe": -0.5518793780388881,
+      "max_drawdown": -0.10084753645592973,
+      "trades": 526
+    },
+    "2018_2021": {
+      "window": "2018_2021",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2018_2021/audusd/20251120_091729",
+      "backtest_run_id": "20251120_091733",
+      "summary_path": "QuantResearch/results/20251120_091733/summary.json",
+      "ann_return": 0.014376214467795023,
+      "sharpe": 0.8245419292050997,
+      "max_drawdown": -0.10152020104903155,
+      "trades": 594
+    },
+    "2019_2022": {
+      "window": "2019_2022",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2019_2022/audusd/20251120_091802",
+      "backtest_run_id": "20251120_091805",
+      "summary_path": "QuantResearch/results/20251120_091805/summary.json",
+      "ann_return": 0.006427946661943906,
+      "sharpe": 0.2874885784025802,
+      "max_drawdown": -0.06998448025683422,
+      "trades": 554
+    }
+  },
+  "GBPJPY": {
+    "2017_2020": {
+      "window": "2017_2020",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2017_2020/gbpjpy/20251120_091842",
+      "backtest_run_id": "20251120_091847",
+      "summary_path": "QuantResearch/results/20251120_091847/summary.json",
+      "ann_return": 0.09416443088085313,
+      "sharpe": 0.940618623929761,
+      "max_drawdown": -0.10218972176362295,
+      "trades": 34
+    },
+    "2018_2021": {
+      "window": "2018_2021",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2018_2021/gbpjpy/20251120_091913",
+      "backtest_run_id": "20251120_091919",
+      "summary_path": "QuantResearch/results/20251120_091919/summary.json",
+      "ann_return": 0.8273464474943981,
+      "sharpe": 3.8356906722440147,
+      "max_drawdown": -0.12961760715814352,
+      "trades": 216
+    },
+    "2019_2022": {
+      "window": "2019_2022",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2019_2022/gbpjpy/20251120_092011",
+      "backtest_run_id": "20251120_092015",
+      "summary_path": "QuantResearch/results/20251120_092015/summary.json",
+      "ann_return": 0.14937495848384863,
+      "sharpe": 1.5356324430969315,
+      "max_drawdown": -0.12372322748174866,
+      "trades": 30
+    }
+  },
+  "USDJPY": {
+    "2017_2020": {
+      "window": "2017_2020",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2017_2020/usdjpy/20251120_092051",
+      "backtest_run_id": "20251120_092056",
+      "summary_path": "QuantResearch/results/20251120_092056/summary.json",
+      "ann_return": -0.0009688855576838185,
+      "sharpe": -0.4543199089800056,
+      "max_drawdown": -0.008060575506479168,
+      "trades": 1966
+    },
+    "2018_2021": {
+      "window": "2018_2021",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2018_2021/usdjpy/20251120_092136",
+      "backtest_run_id": "20251120_092148",
+      "summary_path": "QuantResearch/results/20251120_092148/summary.json",
+      "ann_return": -7.501008766297446e-05,
+      "sharpe": -0.035745984193214904,
+      "max_drawdown": -0.010601255354812477,
+      "trades": 1980
+    },
+    "2019_2022": {
+      "window": "2019_2022",
+      "train_model_dir": "QuantResearch/artifacts/stress/sliding_window/2019_2022/usdjpy/20251120_092223",
+      "backtest_run_id": "20251120_092229",
+      "summary_path": "QuantResearch/results/20251120_092229/summary.json",
+      "ann_return": 0.00046305103064292474,
+      "sharpe": 0.2256621369929716,
+      "max_drawdown": -0.007470419545607898,
+      "trades": 2068
+    }
+  },
+  "GBPUSD": {
+    "2017_2020": {
+      "window": "2017_2020",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_083849",
+      "summary_path": "QuantResearch/results/20251120_083849/summary.json",
+      "ann_return": -0.0038571435479001215,
+      "sharpe": -0.12652670567343985,
+      "max_drawdown": -0.09839210279116324,
+      "trades": 778
+    },
+    "2018_2021": {
+      "window": "2018_2021",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_083947",
+      "summary_path": "QuantResearch/results/20251120_083947/summary.json",
+      "ann_return": 0.016070964842455293,
+      "sharpe": 0.5913463985952465,
+      "max_drawdown": -0.10082788763207334,
+      "trades": 622
+    },
+    "2019_2022": {
+      "window": "2019_2022",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_084035",
+      "summary_path": "QuantResearch/results/20251120_084035/summary.json",
+      "ann_return": 0.017951744580346984,
+      "sharpe": 0.6584195961217197,
+      "max_drawdown": -0.10158103658861992,
+      "trades": 344
+    }
+  },
+  "EURUSD": {
+    "2017_2020": {
+      "window": "2017_2020",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_090442",
+      "summary_path": "QuantResearch/results/20251120_090442/summary.json",
+      "ann_return": -0.008363627306780308,
+      "sharpe": -0.4562263065198708,
+      "max_drawdown": -0.10032568414551367,
+      "trades": 568
+    },
+    "2018_2021": {
+      "window": "2018_2021",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_090448",
+      "summary_path": "QuantResearch/results/20251120_090448/summary.json",
+      "ann_return": 0.007918853303761741,
+      "sharpe": 0.3703371719324357,
+      "max_drawdown": -0.10201950912601881,
+      "trades": 740
+    },
+    "2019_2022": {
+      "window": "2019_2022",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_090457",
+      "summary_path": "QuantResearch/results/20251120_090457/summary.json",
+      "ann_return": 0.012803872754595158,
+      "sharpe": 0.5949841875640451,
+      "max_drawdown": -0.039219098458135544,
+      "trades": 650
+    }
+  },
+  "USDCHF": {
+    "2017_2020": {
+      "window": "2017_2020",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_090633",
+      "summary_path": "QuantResearch/results/20251120_090633/summary.json",
+      "ann_return": -0.0009691482008369334,
+      "sharpe": -0.05660290136819134,
+      "max_drawdown": -0.04276042548862536,
+      "trades": 710
+    },
+    "2018_2021": {
+      "window": "2018_2021",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_090644",
+      "summary_path": "QuantResearch/results/20251120_090644/summary.json",
+      "ann_return": 0.002188593814316242,
+      "sharpe": 0.10224043194326184,
+      "max_drawdown": -0.06873455587439145,
+      "trades": 272
+    },
+    "2019_2022": {
+      "window": "2019_2022",
+      "train_model_dir": "",
+      "backtest_run_id": "20251120_090657",
+      "summary_path": "QuantResearch/results/20251120_090657/summary.json",
+      "ann_return": -0.0009372603716431005,
+      "sharpe": -0.06071953577692293,
+      "max_drawdown": -0.06935283451235079,
+      "trades": 166
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "run_id": "20251119_173744",
+  "timestamp": "2025-11-19T17:37:45.179992+00:00",
+  "symbol": "USDCHF",
+  "csv_path": "results/walkforward_fx_top6/walkforward_usdchf_h1_xgb_baseline_20251119_173731/walkforward/window_022_test.csv",
+  "parameters": {
+    "fast_win": 20,
+    "slow_win": 80,
+    "spread_pips": 1.5,
+    "commission_per_million": 0.25,
+    "slippage_pips": 0.2,
+    "stop_loss_pips": 50,
+    "take_profit_pips": null,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14,
+    "rsi_period": 14,
+    "regime_ema_window": 200,
+    "skip_outlier_entries": false,
+    "strategy_mode": "first_hit",
+    "strategy_vote_threshold": 0.0,
+    "stress_cost_spread_mult": 1.0,
+    "stress_cost_comm_mult": 1.0,
+    "stress_slippage_mult": 1.0,
+    "stress_price_vol_mult": 1.0,
+    "stress_skip_trade_pct": 0.0
+  },
+  "metrics": {
+    "fast": 20,
+    "slow": 80,
+    "final_equity": 1004499.9548245763,
+    "ann_return": 0.027609658480436394,
+    "ann_vol": 0.010354339824289767,
+    "sharpe": 2.666481779520909,
+    "max_drawdown": -0.0041936160299346345,
+    "sortino": 0.653491574815865,
+    "calmar": 6.583735440573166,
+    "max_drawdown_duration_bars": 137,
+    "avg_drawdown_duration_bars": 69.0,
+    "current_drawdown_duration_bars": 0,
+    "recovery_time_bars": 137,
+    "trades": 4,
+    "atr_sl": 1.9,
+    "atr_tp": 3.8,
+    "atr_window": 14
+  },
+  "data_report": null,
+  "artifacts": {
+    "equity": "data/outputs/equity/equity_USDCHF_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.csv",
+    "trades": "data/outputs/trades/trades_USDCHF_20251119_173745.csv",
+    "trade_stats": "data/outputs/stats/stats_USDCHF_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json"
+  }
+}

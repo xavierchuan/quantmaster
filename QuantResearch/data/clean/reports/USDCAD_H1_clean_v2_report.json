@@ -1,0 +1,11 @@
+{
+  "symbol": "USDCAD",
+  "total_rows_raw": 31095,
+  "clean_rows": 30930,
+  "removed_weekend": 169,
+  "filled_short_gaps": 4,
+  "segments": 264,
+  "price_outliers": 47,
+  "volume_outliers": 0,
+  "feature_columns": []
+}

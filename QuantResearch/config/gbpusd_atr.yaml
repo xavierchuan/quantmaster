@@ -1,0 +1,26 @@
+# config/baseline.yaml
+symbol: EURUSD
+csv: data/raw/EURUSD_H1.csv
+
+# 资金与下单
+cash: 100000.0
+qty: 10000
+
+# 均线窗口
+fast: 50
+slow: 200
+
+# 交易成本（pips 为点）
+spread: 1.0        # 点差（pips）
+slip: 0.2          # 滑点（pips）
+comm: 2.0          # 佣金，$2 per $1,000,000 notionals
+
+# 风控（使用 ATR 止损；不设固定 TP，靠反向信号或止损离场）
+atr_sl: 1.5        # 止损 = 1.5 × ATR(14)
+atr_tp: null       # 不设 ATR 止盈（可设 2.0/3.0 等）
+atr_window: 14
+
+# 过滤与节流
+long_only_above_slow: true   # 仅在慢均线上方做多
+slope_lookback: 0            # fast SMA 斜率确认（0 关闭）
+cooldown: 12                 # 平仓后冷却 12 根bar

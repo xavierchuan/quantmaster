@@ -1,0 +1,28 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 1138809.083514642,
+  "ann_return": 0.02594490964442886,
+  "ann_vol": 0.01983220561152306,
+  "sharpe": 1.3082210901118405,
+  "max_drawdown": -0.027872271691166576,
+  "sortino": 0.3500694931047755,
+  "calmar": 0.930850198789195,
+  "max_drawdown_duration_bars": 7451,
+  "avg_drawdown_duration_bars": 242.25242718446603,
+  "current_drawdown_duration_bars": 3794,
+  "recovery_time_bars": 7451,
+  "trades": 298,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14,
+  "data_report": "data/outputs/stats/data_reports/data_EURUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json",
+  "data_validation": {
+    "severity": "warn",
+    "messages": [
+      "Non-zero timestamp gaps detected (ratio=0.0085).",
+      "Columns contain nulls (max ratio=0.0026).",
+      "Detected numeric outliers (threshold z>5.0)."
+    ]
+  }
+}

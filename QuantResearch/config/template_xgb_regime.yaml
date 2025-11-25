@@ -1,0 +1,107 @@
+# Template for single-asset XGB + regime strategy
+# Fill in symbol-specific values before use.
+
+symbol: YOUR_SYMBOL           # e.g., EURUSD
+base_ccy: YOUR_BASE_CCY       # e.g., EUR
+quote_ccy: YOUR_QUOTE_CCY     # e.g., USD
+
+# Data
+csv: path/to/clean/H1_with_regime.csv
+
+# Market microstructure
+pip_size: 0.0001              # 0.01 for JPY quotes
+pip_value: 1.0                # account currency per pip per standard lot
+typical_spread: 1.0           # pips
+slippage_pips: 0.2
+comm_per_million: 0.25
+
+# Trading capital and unit size
+cash: 1000000.0
+qty: 1000000                  # notional per trade before risk caps
+account_ccy: USD
+
+# Core technical params (can be tuned per asset)
+fast: 20
+slow: 80
+atr_sl: 1.9
+atr_tp: 3.8
+atr_window: 14
+regime_ema_window: 200
+regime_trend_min_bars: 0
+cooldown: 0
+long_only_above_slow: true
+
+# Risk controls
+risk_per_trade_pct: 0.05
+max_drawdown_pct: 0.10
+max_position_units: 5000000
+allow_short: true
+short_only_below_slow: true
+
+# Session / liquidity filters (customize per asset/timezone)
+session_block_hours:
+  - [0, 6]   # example: block 00:00-06:00 UTC
+
+strategies:
+  - name: xgb_signal
+    weight: 1.0
+    params:
+      latest_ptr: path/to/{symbol}_h1_xgb_latest.json
+      trend_ptr: path/to/{symbol}_trend_regime_latest.json
+      vol_ptr: null  # optional, if xgb_signal uses vol_regime inputs
+      prob_long: 0.60
+      prob_exit: 0.52
+      size_mult: 1.0
+      cooldown_bars: 5
+      regime_filter:
+        trend: ["trend_up", "trend_down"]  # skip chop
+      session_block_hours:
+        - [0, 6]
+      # Low ATR gating (optional)
+      low_atr_pct: 0.08
+      prob_long_low: 0.55
+      cooldown_low: 3
+      # Short side (enable if desired)
+      enable_short_signals: true
+      prob_short: 0.58
+      prob_short_exit: 0.48
+      short_size_mult: 1.0
+      allow_short_regimes: ["trend_down", "vol_high"]
+      short_cooldown_bars: 5
+      # Vol regimes adjustments (optional if vol_regime provided)
+      vol_high_prob_delta: -0.10
+      vol_low_prob_delta: 0.03
+      vol_high_size_mult: 0.70
+      vol_low_size_mult: 1.0
+      vol_high_cooldown: 10
+      vol_low_cooldown: 5
+      vol_high_atr_sl_mult: 0.60
+      vol_high_atr_tp_mult: 0.40
+      vol_low_atr_sl_mult: 1.0
+      vol_low_atr_tp_mult: 1.0
+      # Trend gating adjustments
+      trend_up_prob_delta: -0.02
+      trend_down_prob_delta: 0.03
+      trend_chop_prob_delta: 0.01
+      trend_up_size_mult: 1.1
+      trend_down_size_mult: 0.9
+      trend_chop_size_mult: 0.9
+      trend_up_cooldown: 4
+      trend_down_cooldown: 8
+      trend_chop_cooldown: 7
+      trend_up_short_prob_delta: 0.02
+      trend_down_short_prob_delta: -0.02
+      trend_chop_short_prob_delta: 0.0
+      trend_up_short_size_mult: 0.9
+      trend_down_short_size_mult: 1.1
+      trend_chop_short_size_mult: 0.9
+      trend_up_short_cooldown: 6
+      trend_down_short_cooldown: 6
+      trend_chop_short_cooldown: 7
+      # Trend-aware ATR multipliers (base atr_sl/atr_tp above)
+      trend_up_atr_sl_mult: 1.05
+      trend_up_atr_tp_mult: 1.18
+      trend_down_atr_sl_mult: 0.74
+      trend_down_atr_tp_mult: 0.58
+      trend_chop_atr_sl_mult: 1.0
+      trend_chop_atr_tp_mult: 1.0

@@ -1,0 +1,28 @@
+{
+  "fast": 20,
+  "slow": 80,
+  "final_equity": 913797.9488606718,
+  "ann_return": -0.01696748238359913,
+  "ann_vol": 0.03208012295090553,
+  "sharpe": -0.5289095185066984,
+  "max_drawdown": -0.10056975037383774,
+  "sortino": -0.26968792596358815,
+  "calmar": -0.16871357759691785,
+  "max_drawdown_duration_bars": 27607,
+  "avg_drawdown_duration_bars": 192.875,
+  "current_drawdown_duration_bars": 27607,
+  "recovery_time_bars": 27607,
+  "trades": 1400,
+  "atr_sl": 1.9,
+  "atr_tp": 3.8,
+  "atr_window": 14,
+  "data_report": "data/outputs/stats/data_reports/data_AUDUSD_H1_20x80_ATR1.9x3.8_W14_ABOVE_SHORT_BELOW.json",
+  "data_validation": {
+    "severity": "warn",
+    "messages": [
+      "Non-zero timestamp gaps detected (ratio=0.0085).",
+      "Columns contain nulls (max ratio=0.0026).",
+      "Detected numeric outliers (threshold z>5.0)."
+    ]
+  }
+}
