@@ -1,9 +1,0 @@
-{
-  "path": "QuantResearch/data/clean/GBPUSD_H1_clean_v2_with_regime.csv",
-  "rows": 30930,
-  "severity": "error",
-  "issues": [
-    "gap ratio=0.2938",
-    "nan ratios: {\"vol_regime\": 0.002554154542515357, \"trend_regime\": 0.002554154542515357}"
-  ]
-}
