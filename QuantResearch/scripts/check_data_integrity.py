@@ -59,7 +59,13 @@ def main() -> None:
     baseline_entries = load_baseline_entries(baseline_path)
 
     manifest = load_manifest(manifest_path)
-    manifest_index = {entry["path"]: entry for entry in manifest.get("files", [])}
+    if isinstance(manifest, dict) and "files" in manifest:
+        entries = manifest.get("files", [])
+    elif isinstance(manifest, list):
+        entries = manifest
+    else:
+        raise RuntimeError(f"Unexpected manifest format in {manifest_path}")
+    manifest_index = {entry.get("path"): entry for entry in entries if isinstance(entry, dict) and entry.get("path")}
 
     errors = []
     warnings = []
