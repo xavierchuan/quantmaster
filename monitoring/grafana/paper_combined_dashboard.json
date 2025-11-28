@@ -1,0 +1,158 @@
+{
+  "uid": "paper-combined",
+  "title": "Paper Combined Health",
+  "editable": true,
+  "schemaVersion": 36,
+  "version": 1,
+  "timezone": "browser",
+  "tags": [
+    "fx",
+    "paper",
+    "health"
+  ],
+  "panels": [
+    {
+      "type": "timeseries",
+      "title": "Heartbeat",
+      "id": 1,
+      "datasource": "${DS_PROMETHEUS}",
+      "targets": [
+        {
+          "expr": "max_over_time(fx_heartbeat{job=~\"$job\",symbol=~\"$symbol\"}[5m])",
+          "legendFormat": "{{symbol}}",
+          "refId": "A"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "thresholds" },
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              { "color": "red", "value": null },
+              { "color": "green", "value": 0.5 }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": { "displayMode": "list", "placement": "bottom" },
+        "tooltip": { "mode": "single" }
+      },
+      "gridPos": { "h": 6, "w": 8, "x": 0, "y": 0 }
+    },
+    {
+      "type": "timeseries",
+      "title": "Equity",
+      "id": 2,
+      "datasource": "${DS_PROMETHEUS}",
+      "targets": [
+        {
+          "expr": "fx_equity{job=~\"$job\",symbol=~\"$symbol\"}",
+          "legendFormat": "{{symbol}}",
+          "refId": "A"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "currencyUSD" }, "overrides": [] },
+      "options": {
+        "legend": { "displayMode": "list", "placement": "bottom" },
+        "tooltip": { "mode": "single" }
+      },
+      "gridPos": { "h": 6, "w": 8, "x": 8, "y": 0 }
+    },
+    {
+      "type": "timeseries",
+      "title": "Position Units",
+      "id": 3,
+      "datasource": "${DS_PROMETHEUS}",
+      "targets": [
+        {
+          "expr": "fx_position_units{job=~\"$job\",symbol=~\"$symbol\"}",
+          "legendFormat": "{{symbol}}",
+          "refId": "A"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "none" }, "overrides": [] },
+      "options": {
+        "legend": { "displayMode": "list", "placement": "bottom" },
+        "tooltip": { "mode": "single" }
+      },
+      "gridPos": { "h": 6, "w": 8, "x": 16, "y": 0 }
+    },
+    {
+      "type": "timeseries",
+      "title": "Notional (est.)",
+      "id": 4,
+      "datasource": "${DS_PROMETHEUS}",
+      "targets": [
+        {
+          "expr": "fx_notional_est{job=~\"$job\",symbol=~\"$symbol\"}",
+          "legendFormat": "{{symbol}}",
+          "refId": "A"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "currencyUSD" }, "overrides": [] },
+      "options": {
+        "legend": { "displayMode": "list", "placement": "bottom" },
+        "tooltip": { "mode": "single" }
+      },
+      "gridPos": { "h": 6, "w": 8, "x": 0, "y": 6 }
+    },
+    {
+      "type": "timeseries",
+      "title": "Trades & Bars",
+      "id": 5,
+      "datasource": "${DS_PROMETHEUS}",
+      "targets": [
+        {
+          "expr": "fx_trade_count{job=~\"$job\",symbol=~\"$symbol\"}",
+          "legendFormat": "{{symbol}} trades",
+          "refId": "A"
+        },
+        {
+          "expr": "fx_bars_processed{job=~\"$job\",symbol=~\"$symbol\"}",
+          "legendFormat": "{{symbol}} bars",
+          "refId": "B"
+        }
+      ],
+      "fieldConfig": { "defaults": { "unit": "short" }, "overrides": [] },
+      "options": {
+        "legend": { "displayMode": "list", "placement": "bottom" },
+        "tooltip": { "mode": "multi" }
+      },
+      "gridPos": { "h": 6, "w": 8, "x": 8, "y": 6 }
+    }
+  ],
+  "templating": {
+    "list": [
+      {
+        "type": "datasource",
+        "name": "DS_PROMETHEUS",
+        "query": "prometheus",
+        "refresh": 1
+      },
+      {
+        "type": "query",
+        "name": "job",
+        "label": "job",
+        "datasource": "${DS_PROMETHEUS}",
+        "query": "label_values(fx_heartbeat, job)",
+        "refresh": 2,
+        "current": { "text": "paper_combined", "value": "paper_combined" }
+      },
+      {
+        "type": "query",
+        "name": "symbol",
+        "label": "symbol",
+        "datasource": "${DS_PROMETHEUS}",
+        "query": "label_values(fx_equity{job=~\"$job\"}, symbol)",
+        "refresh": 2,
+        "multi": true,
+        "includeAll": true,
+        "current": { "text": "All", "value": ".*" }
+      }
+    ]
+  },
+  "time": { "from": "now-24h", "to": "now" }
+}

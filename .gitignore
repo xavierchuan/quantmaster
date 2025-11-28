@@ -1,0 +1,37 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Environment / tools
+.venv/
+.env*
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+
+# Outputs / artifacts (research + execution)
+results/
+QuantTrader/results/
+QuantResearch/results/
+QuantResearch/data/outputs/
+metrics/
+monitoring/grafana/plugins/
+monitoring/grafana/*/dist/
+
+# Logs / databases
+*.log
+*.sqlite3
+monitoring/grafana/grafana.db
+
+# Misc backup
+*.swp
+*.swo
+*.bak
+*.tmp

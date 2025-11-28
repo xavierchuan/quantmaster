@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import signal
 import time
+import urllib.request
 from dataclasses import asdict
 from queue import Empty, Queue
 
@@ -14,6 +15,7 @@ import pandas as pd
 from loguru import logger
 import yaml
 import requests
+import urllib.request
 
 import os
 import sys
@@ -242,6 +244,22 @@ def build_engine(cfg: dict, args, execution_handler):
     return engine, symbol, initial_cash
 
 
+def _format_labels(labels: dict) -> str:
+    return ",".join(f'{k}="{v}"' for k, v in labels.items())
+
+
+def push_metrics(push_url: str | None, job: str, metrics: dict, labels: dict) -> None:
+    if not push_url or not metrics:
+        return
+    try:
+        body = "\n".join(f"{k}{{{_format_labels(labels)}}} {v}" for k, v in metrics.items()) + "\n"
+        url = push_url.rstrip("/") + f"/metrics/job/{job}"
+        req = urllib.request.Request(url, data=body.encode("utf-8"), method="PUT")
+        urllib.request.urlopen(req, timeout=2)
+    except Exception as exc:
+        logger.warning("[Metrics] Pushgateway push failed: %s", exc)
+
+
 def main():
     parser = argparse.ArgumentParser(description="OANDA paper trading driver")
     parser.add_argument("--config", required=True, help="策略配置 YAML")
@@ -294,6 +312,10 @@ def main():
         margin_ratio_floor=risk_profile.margin_ratio_floor,
         leverage_ceiling=risk_profile.max_leverage,
     )
+    push_url = os.getenv("PUSHGATEWAY_URL")
+    metrics_job = "paper_trade"
+    heartbeat_interval = 30.0
+    last_heartbeat = time.time()
 
     token = OANDA_TOKEN
     account_id = OANDA_ACCOUNT_ID
@@ -420,6 +442,15 @@ def main():
             try:
                 tick = tick_queue.get(timeout=1.0)
             except Empty:
+                now = time.time()
+                if push_url and heartbeat_interval > 0 and now - last_heartbeat >= heartbeat_interval:
+                    last_heartbeat = now
+                    push_metrics(
+                        push_url,
+                        metrics_job,
+                        {"fx_heartbeat": 1, "fx_heartbeat_ts": now},
+                        {"symbol": symbol, "environment": args.environment},
+                    )
                 continue
             if not isinstance(tick, TickEvent):
                 continue
@@ -441,8 +472,33 @@ def main():
                         reason = kill_switch.should_trigger(snapshot)
                         if reason:
                             kill_switch.log_trigger(reason)
+                            push_metrics(
+                                push_url,
+                                metrics_job,
+                                {"fx_kill_switch_tripped": 1},
+                                {"symbol": symbol, "environment": args.environment, "reason": reason},
+                            )
                             stop_flag = True
                             break
+
+                if push_url and args.metrics_interval and bars_processed % args.metrics_interval == 0:
+                    eq = engine._current_equity(bar["close"], bar["ts"])
+                    pos_units = getattr(engine, "position_units", 0.0)
+                    notional = pos_units * float(bar.get("close", 0.0))
+                    push_metrics(
+                        push_url,
+                        metrics_job,
+                        {
+                            "fx_heartbeat": 1,
+                            "fx_heartbeat_ts": time.time(),
+                            "fx_equity": eq,
+                            "fx_position_units": pos_units,
+                            "fx_notional_est": notional,
+                            "fx_trade_count": engine.trade_count,
+                            "fx_bars_processed": bars_processed,
+                        },
+                        {"symbol": symbol, "environment": args.environment},
+                    )
 
                 if args.max_bars and bars_processed >= args.max_bars:
                     logger.info("[Paper] Reached max bar limit, stopping.")

@@ -1,497 +1,17 @@
 [
   {
-    "path": "QuantResearch/data/clean/AUDJPY_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "e2a411f0e2402b93bd26513b95328e7052071b25d9208873cd7038c8693cc4af",
-    "source": "QuantResearch/data/raw/AUDJPY_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:46.214730+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/AUDJPY_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/AUDJPY_H1_clean_v2.csv",
-    "rows": 30930,
+    "path": "data/raw/USDJPY_H1_5y.csv",
+    "rows": 31095,
     "cols": [
       "time"
     ],
     "start_ts": "2020-11-19T21:00:00+00:00",
     "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "3f3b2b48799925539f890e33bd7fb3747a3c1a4a4bba63e9a7cb3e692370e552",
-    "size_bytes": 2735291
+    "sha256": "bda2a0a1d4676b8a04226bd9dc8a7cc4d02516d50aa6e70d44bb51676fe0344a",
+    "size_bytes": 1944203
   },
   {
-    "path": "QuantResearch/data/clean/AUDJPY_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "569e5ad3007998aef0d95464f6e0f44536d332b16e119c1e9b446afb9aaa1e5c",
-    "size_bytes": 3681138
-  },
-  {
-    "path": "QuantResearch/data/clean/AUDUSD_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "419ec3157eef51a202964770303e52c280fb1737be78f9d9808b4cafc1dfc4f6",
-    "source": "QuantResearch/data/raw/AUDUSD_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:46.736117+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/AUDUSD_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/AUDUSD_H1_clean_v2.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "ec5a5c1da75f37f7d084aac30c9b6a4e5a667c03ea9793aece1c325bf40ccdc3",
-    "size_bytes": 2833979
-  },
-  {
-    "path": "QuantResearch/data/clean/AUDUSD_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "621c538225fd5b9f013523b11954104f1b8005bb2dfa0e3729d89c292a2db15a",
-    "size_bytes": 3788960
-  },
-  {
-    "path": "QuantResearch/data/clean/EURJPY_H1_clean.parquet",
-    "rows": 30919,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "f649b946cba4dbcb3163fde570ea194c4f9695d7577d2f7042c73051c97f9a16",
-    "source": "QuantResearch/data/raw/EURJPY_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:47.414690+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/EURJPY_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/EURJPY_H1_clean_v2.csv",
-    "rows": 30919,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "39531f9615e4f53e6e7e2cf7cf433bbf71a57b95043697082235f5347ee54d58",
-    "size_bytes": 2843164
-  },
-  {
-    "path": "QuantResearch/data/clean/EURJPY_H1_clean_v2_with_regime.csv",
-    "rows": 30919,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "fbd63ac309caabd9b5f412c3d8c968c1efb91211ce2caac8df1b7efb00585cd7",
-    "size_bytes": 3782478
-  },
-  {
-    "path": "QuantResearch/data/clean/EURUSD_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "b4e96f22034df1857e56dcf697e3851c46e3f02c3839adfe407e5373c7fc27f0",
-    "source": "QuantResearch/data/raw/EURUSD_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:47.932904+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/EURUSD_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/EURUSD_H1_clean_v2.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "53ebe76bd4124b9fee24d3f53cc099ab150e132f2be49ec46a2599ddd0f5e71a",
-    "size_bytes": 2843325
-  },
-  {
-    "path": "QuantResearch/data/clean/EURUSD_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "afaf4a22cb4d39394f86247ee9e0c5ea46597294920ace2ad05b337e69bc58db",
-    "size_bytes": 3799830
-  },
-  {
-    "path": "QuantResearch/data/clean/GBPJPY_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "f7c9953cfbf0fb8f3141d5393db6c70b88fc36884493f185f68b2febf04172e4",
-    "source": "QuantResearch/data/raw/GBPJPY_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:48.532342+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/GBPJPY_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/GBPJPY_H1_clean_v2.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "87e3543ee2b029058a8feb751e9c8b640d305034619ccb193a69968b002830c0",
-    "size_bytes": 2851183
-  },
-  {
-    "path": "QuantResearch/data/clean/GBPJPY_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "8a128e3a51290ce5966fa98438099022ac9f9ad7621388ccdd1a989c598b614f",
-    "size_bytes": 3790900
-  },
-  {
-    "path": "QuantResearch/data/clean/GBPUSD_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "ceb1ca884e9eb2914207f10d3e82f9659f0c622ff848e1cc95ab37b2b0c04789",
-    "source": "QuantResearch/data/raw/GBPUSD_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:49.051389+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/GBPUSD_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/GBPUSD_H1_clean_v2.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "2a386a549c864564de2a8afbbf6d8a9987bb00d4e8587e4ba21d7d58bbe389c5",
-    "size_bytes": 2843763
-  },
-  {
-    "path": "QuantResearch/data/clean/GBPUSD_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "e741dd5415cd5f1599a06f9a443473a9a8c76f806bb7272c6cf52cf6bd500b7c",
-    "size_bytes": 3801104
-  },
-  {
-    "path": "QuantResearch/data/clean/USDCAD_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "3964b31025a6632f148e8b6e340a66291b2545b48bc8937f464db0b513a997f7",
-    "source": "QuantResearch/data/raw/USDCAD_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:49.579151+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/USDCAD_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/USDCAD_H1_clean_v2.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "95715f3d9e310d12e0d5eaba95c8933661e594cf69dc046cf533893578e75a13",
-    "size_bytes": 2838736
-  },
-  {
-    "path": "QuantResearch/data/clean/USDCAD_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "3f917d22f3389a596d2e09b096ef836890d6ef78e518b3f433e9e746b6290985",
-    "size_bytes": 3802152
-  },
-  {
-    "path": "QuantResearch/data/clean/USDCHF_H1_clean.parquet",
-    "rows": 30930,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "0a5c173a44e3b8c101e1403bf19c37508913f0bbf71e499d5927dff52d82e402",
-    "source": "QuantResearch/data/raw/USDCHF_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:55:50.118542+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/USDCHF_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/USDCHF_H1_clean_v2.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "aa0d8f6fa2dc977e94b273c8324b5c0b9f9bc615154737d321b8d3aca05140ce",
-    "size_bytes": 2832784
-  },
-  {
-    "path": "QuantResearch/data/clean/USDCHF_H1_clean_v2_with_regime.csv",
-    "rows": 30930,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "db2bf330534e0b4e3f8672e351bb6e8c2feadbc7f32bd1b7a6ddf779d380b2ff",
-    "size_bytes": 3787541
-  },
-  {
-    "path": "QuantResearch/data/clean/USDJPY_H1_clean.parquet",
-    "rows": 30931,
-    "cols": [
-      "time",
-      "open",
-      "high",
-      "low",
-      "close",
-      "volume",
-      "was_filled",
-      "is_price_outlier",
-      "is_volume_outlier",
-      "segment_id",
-      "is_gap_reopen"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "e1595765fef070d7f32c52661a0bc60b311764dfdc98c2dfbd07f4bcb43895dd",
-    "source": "QuantResearch/data/raw/USDJPY_H1_5y.csv",
-    "ingested_at": "2025-11-23T19:50:24.831363+00:00",
-    "ingest_version": "v1",
-    "report": "QuantResearch/data/clean/reports/USDJPY_H1_clean_report.json"
-  },
-  {
-    "path": "QuantResearch/data/clean/USDJPY_H1_clean_v2.csv",
-    "rows": 30931,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "b15bfd1215beb7f4edc87c72493a6d0b51930548d1fbbee7ca7f345f4de78298",
-    "size_bytes": 2849147
-  },
-  {
-    "path": "QuantResearch/data/clean/USDJPY_H1_clean_v2_vol_high.csv",
-    "rows": 9023,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-24T05:00:00+00:00",
-    "end_ts": "2025-11-14T13:00:00+00:00",
-    "sha256": "26b5e70d6d3987f194cf39b1b3f28a3d5c67171306c0932596cb5130a36460ac",
-    "size_bytes": 3156978
-  },
-  {
-    "path": "QuantResearch/data/clean/USDJPY_H1_clean_v2_vol_low.csv",
-    "rows": 9446,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T07:00:00+00:00",
-    "end_ts": "2025-11-13T03:00:00+00:00",
-    "sha256": "5bb30536e220c39155ec5552a82ade0c60c6dd1fa9bc3be1fa38c9681704c7e5",
-    "size_bytes": 3318414
-  },
-  {
-    "path": "QuantResearch/data/clean/USDJPY_H1_clean_v2_with_regime.csv",
-    "rows": 30931,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "cf87f4f773e3e366eb5ebe2e13f299a49687d8a8e30474c997b1f41651915fda",
-    "size_bytes": 3785427
-  },
-  {
-    "path": "QuantResearch/data/clean/USDJPY_H1_with_features.csv",
-    "rows": 30931,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "c049fd5c0a9419481dfdb422118c04729c2b16c6a1781e71735371f63e26e8f7",
-    "size_bytes": 8860490
-  },
-  {
-    "path": "QuantResearch/data/derived/EURUSD_H1_with_indicators.csv",
-    "rows": 6216,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2024-11-05T11:00:00+00:00",
-    "end_ts": "2025-11-05T10:00:00+00:00",
-    "sha256": "d6a77949297d58bfb731d761236e4914015a6377d85c5b91c03c832d5f6bdf01",
-    "size_bytes": 1296918
-  },
-  {
-    "path": "QuantResearch/data/raw/AUDJPY_H1_5y.csv",
-    "rows": 31105,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "ef4f73be7c571276059dbd05dd4cdecb258479a85a68e8a35414c6b81a8d68e0",
-    "size_bytes": 1830489
-  },
-  {
-    "path": "QuantResearch/data/raw/AUDUSD_H1_5y.csv",
-    "rows": 31089,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "45527d7fe018385c31ee73171d2d33d30648120ce89db1c30c198ab414900eb6",
-    "size_bytes": 1928589
-  },
-  {
-    "path": "QuantResearch/data/raw/EURJPY_H1_5y.csv",
-    "rows": 31085,
-    "cols": [
-      "time"
-    ],
-    "start_ts": "2020-11-19T21:00:00+00:00",
-    "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "77d0921fbbd2bc5bdd617b29d6b725018fe9c9c0d26e91eb3b4c3c768da774bf",
-    "size_bytes": 1938678
-  },
-  {
-    "path": "QuantResearch/data/raw/EURUSD_H1_5y.csv",
+    "path": "data/raw/EURUSD_H1.csv",
     "rows": 31094,
     "cols": [
       "time"
@@ -502,18 +22,62 @@
     "size_bytes": 1938477
   },
   {
-    "path": "QuantResearch/data/raw/GBPJPY_H1_5y.csv",
+    "path": "data/raw/AUDUSD_H1_5y.csv",
+    "rows": 31089,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "45527d7fe018385c31ee73171d2d33d30648120ce89db1c30c198ab414900eb6",
+    "size_bytes": 1928589
+  },
+  {
+    "path": "data/raw/AUDJPY_H1_5y.csv",
+    "rows": 31105,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "ef4f73be7c571276059dbd05dd4cdecb258479a85a68e8a35414c6b81a8d68e0",
+    "size_bytes": 1830489
+  },
+  {
+    "path": "data/raw/EURJPY_H1_5y.csv",
+    "rows": 31085,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "77d0921fbbd2bc5bdd617b29d6b725018fe9c9c0d26e91eb3b4c3c768da774bf",
+    "size_bytes": 1938678
+  },
+  {
+    "path": "data/raw/USDJPY_H1.csv",
     "rows": 31095,
     "cols": [
       "time"
     ],
     "start_ts": "2020-11-19T21:00:00+00:00",
     "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "bc730a71c207aae7814fe7e451b5dfadd438f000cc9ccbf46a6c33158a8a828d",
-    "size_bytes": 1946398
+    "sha256": "bda2a0a1d4676b8a04226bd9dc8a7cc4d02516d50aa6e70d44bb51676fe0344a",
+    "size_bytes": 1944203
   },
   {
-    "path": "QuantResearch/data/raw/GBPUSD_H1_5y.csv",
+    "path": "data/raw/EURUSD_H1_5y.csv",
+    "rows": 31094,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "f249f39604d2016d93203c0d6ebcd72dd26f19652243a450037aac61d7013af9",
+    "size_bytes": 1938477
+  },
+  {
+    "path": "data/raw/GBPUSD_H1_5y.csv",
     "rows": 31093,
     "cols": [
       "time"
@@ -524,18 +88,18 @@
     "size_bytes": 1938877
   },
   {
-    "path": "QuantResearch/data/raw/USDCAD_H1_5y.csv",
+    "path": "data/raw/GBPJPY_H1_5y.csv",
     "rows": 31095,
     "cols": [
       "time"
     ],
     "start_ts": "2020-11-19T21:00:00+00:00",
     "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "7a6dc7ffe66cdd046b63a90d9e1211a17170c142dd15c26782e43944a9e97dca",
-    "size_bytes": 1933869
+    "sha256": "bc730a71c207aae7814fe7e451b5dfadd438f000cc9ccbf46a6c33158a8a828d",
+    "size_bytes": 1946398
   },
   {
-    "path": "QuantResearch/data/raw/USDCHF_H1_5y.csv",
+    "path": "data/raw/USDCHF_H1_5y.csv",
     "rows": 31090,
     "cols": [
       "time"
@@ -546,14 +110,256 @@
     "size_bytes": 1927399
   },
   {
-    "path": "QuantResearch/data/raw/USDJPY_H1_5y.csv",
+    "path": "data/raw/USDCAD_H1_5y.csv",
     "rows": 31095,
     "cols": [
       "time"
     ],
     "start_ts": "2020-11-19T21:00:00+00:00",
     "end_ts": "2025-11-18T20:00:00+00:00",
-    "sha256": "bda2a0a1d4676b8a04226bd9dc8a7cc4d02516d50aa6e70d44bb51676fe0344a",
-    "size_bytes": 1944203
+    "sha256": "7a6dc7ffe66cdd046b63a90d9e1211a17170c142dd15c26782e43944a9e97dca",
+    "size_bytes": 1933869
+  },
+  {
+    "path": "data/clean/AUDJPY_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "3f3b2b48799925539f890e33bd7fb3747a3c1a4a4bba63e9a7cb3e692370e552",
+    "size_bytes": 2735291
+  },
+  {
+    "path": "data/clean/AUDUSD_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "621c538225fd5b9f013523b11954104f1b8005bb2dfa0e3729d89c292a2db15a",
+    "size_bytes": 3788960
+  },
+  {
+    "path": "data/clean/EURUSD_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "afaf4a22cb4d39394f86247ee9e0c5ea46597294920ace2ad05b337e69bc58db",
+    "size_bytes": 3799830
+  },
+  {
+    "path": "data/clean/USDJPY_H1_clean_v2.csv",
+    "rows": 30931,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "b15bfd1215beb7f4edc87c72493a6d0b51930548d1fbbee7ca7f345f4de78298",
+    "size_bytes": 2849147
+  },
+  {
+    "path": "data/clean/GBPUSD_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "2a386a549c864564de2a8afbbf6d8a9987bb00d4e8587e4ba21d7d58bbe389c5",
+    "size_bytes": 2843763
+  },
+  {
+    "path": "data/clean/USDJPY_H1_clean_v2_vol_low.csv",
+    "rows": 9446,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T07:00:00+00:00",
+    "end_ts": "2025-11-13T03:00:00+00:00",
+    "sha256": "5bb30536e220c39155ec5552a82ade0c60c6dd1fa9bc3be1fa38c9681704c7e5",
+    "size_bytes": 3318414
+  },
+  {
+    "path": "data/clean/GBPJPY_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "8a128e3a51290ce5966fa98438099022ac9f9ad7621388ccdd1a989c598b614f",
+    "size_bytes": 3790900
+  },
+  {
+    "path": "data/clean/EURUSD_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "53ebe76bd4124b9fee24d3f53cc099ab150e132f2be49ec46a2599ddd0f5e71a",
+    "size_bytes": 2843325
+  },
+  {
+    "path": "data/clean/USDCHF_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "db2bf330534e0b4e3f8672e351bb6e8c2feadbc7f32bd1b7a6ddf779d380b2ff",
+    "size_bytes": 3787541
+  },
+  {
+    "path": "data/clean/USDJPY_H1_with_features.csv",
+    "rows": 30931,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "c049fd5c0a9419481dfdb422118c04729c2b16c6a1781e71735371f63e26e8f7",
+    "size_bytes": 8860490
+  },
+  {
+    "path": "data/clean/USDJPY_H1_clean_v2_vol_high.csv",
+    "rows": 9023,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-24T05:00:00+00:00",
+    "end_ts": "2025-11-14T13:00:00+00:00",
+    "sha256": "26b5e70d6d3987f194cf39b1b3f28a3d5c67171306c0932596cb5130a36460ac",
+    "size_bytes": 3156978
+  },
+  {
+    "path": "data/clean/GBPUSD_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "e741dd5415cd5f1599a06f9a443473a9a8c76f806bb7272c6cf52cf6bd500b7c",
+    "size_bytes": 3801104
+  },
+  {
+    "path": "data/clean/USDCAD_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "95715f3d9e310d12e0d5eaba95c8933661e594cf69dc046cf533893578e75a13",
+    "size_bytes": 2838736
+  },
+  {
+    "path": "data/clean/EURJPY_H1_clean_v2.csv",
+    "rows": 30919,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "39531f9615e4f53e6e7e2cf7cf433bbf71a57b95043697082235f5347ee54d58",
+    "size_bytes": 2843164
+  },
+  {
+    "path": "data/clean/USDCAD_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "3f917d22f3389a596d2e09b096ef836890d6ef78e518b3f433e9e746b6290985",
+    "size_bytes": 3802152
+  },
+  {
+    "path": "data/clean/EURJPY_H1_clean_v2_with_regime.csv",
+    "rows": 30919,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "fbd63ac309caabd9b5f412c3d8c968c1efb91211ce2caac8df1b7efb00585cd7",
+    "size_bytes": 3782478
+  },
+  {
+    "path": "data/clean/AUDJPY_H1_clean_v2_with_regime.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "569e5ad3007998aef0d95464f6e0f44536d332b16e119c1e9b446afb9aaa1e5c",
+    "size_bytes": 3681138
+  },
+  {
+    "path": "data/clean/USDJPY_H1_clean_v2_with_regime.csv",
+    "rows": 30931,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "cf87f4f773e3e366eb5ebe2e13f299a49687d8a8e30474c997b1f41651915fda",
+    "size_bytes": 3785427
+  },
+  {
+    "path": "data/clean/AUDUSD_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "ec5a5c1da75f37f7d084aac30c9b6a4e5a667c03ea9793aece1c325bf40ccdc3",
+    "size_bytes": 2833979
+  },
+  {
+    "path": "data/clean/USDCHF_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "aa0d8f6fa2dc977e94b273c8324b5c0b9f9bc615154737d321b8d3aca05140ce",
+    "size_bytes": 2832784
+  },
+  {
+    "path": "data/clean/GBPJPY_H1_clean_v2.csv",
+    "rows": 30930,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2020-11-19T21:00:00+00:00",
+    "end_ts": "2025-11-18T20:00:00+00:00",
+    "sha256": "87e3543ee2b029058a8feb751e9c8b640d305034619ccb193a69968b002830c0",
+    "size_bytes": 2851183
+  },
+  {
+    "path": "data/derived/EURUSD_H1_with_indicators.csv",
+    "rows": 6216,
+    "cols": [
+      "time"
+    ],
+    "start_ts": "2024-11-05T11:00:00+00:00",
+    "end_ts": "2025-11-05T10:00:00+00:00",
+    "sha256": "d6a77949297d58bfb731d761236e4914015a6377d85c5b91c03c832d5f6bdf01",
+    "size_bytes": 1296918
   }
 ]

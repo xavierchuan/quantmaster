@@ -65,22 +65,22 @@ jobs:
           RUN_ID: ${{ steps.latest-run.outputs.run_id }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_NUMBER: ${{ github.event.pull_request.number || 0 }}
         run: |
           set -euo pipefail
           python - <<'PY' > comment.json
-import json, os
-run_id = os.environ["RUN_ID"]
-repo = os.environ["GITHUB_REPOSITORY"]
-run_url = f"https://github.com/{repo}/actions/runs/{os.environ['GITHUB_RUN_ID']}"
-body = (
-    f"⚠️ Risk simulation failed for run `{run_id}`.\n"
-    f"- Artifacts & logs: {run_url}\n"
-    f"- Diagnostics dashboard: http://localhost:8501/diagnostics?run={run_id}\n"
-    "Please investigate risk limits or data issues before merging."
-)
-print(json.dumps({"body": body}))
-PY
+            import json, os
+            run_id = os.environ["RUN_ID"]
+            repo = os.environ["GITHUB_REPOSITORY"]
+            run_url = f"https://github.com/{repo}/actions/runs/{os.environ['GITHUB_RUN_ID']}"
+            body = (
+                f"⚠️ Risk simulation failed for run `{run_id}`.\n"
+                f"- Artifacts & logs: {run_url}\n"
+                f"- Diagnostics dashboard: http://localhost:8501/diagnostics?run={run_id}\n"
+                "Please investigate risk limits or data issues before merging."
+            )
+            print(json.dumps({"body": body}))
+          PY
           curl -sS -H "Authorization: token $GH_TOKEN" \
                -H "Content-Type: application/json" \
                -X POST \

@@ -23,7 +23,11 @@ python scripts/ingest_oanda.py --schedule config/ingest_schedule.yaml >> "$LOG_D
 EXIT_CODE=$?
 TS_END=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 if [ $EXIT_CODE -eq 0 ]; then
-  echo "[$TS_END] Ingest completed successfully." | tee -a "$LOG_DIR/ingest_cron.log"
+  echo "[$TS_END] Ingest completed successfully. Building manifest..." | tee -a "$LOG_DIR/ingest_cron.log"
+  python scripts/build_dataset_manifest.py --dirs data/raw data/clean data/derived --output data/_manifest.json >> "$LOG_DIR/ingest_cron.log" 2>&1
+  echo "[$TS_END] Manifest updated at data/_manifest.json. Aggregating DQ summary..." | tee -a "$LOG_DIR/ingest_cron.log"
+  python scripts/aggregate_data_quality.py --print >> "$LOG_DIR/ingest_cron.log" 2>&1 || true
+  echo "[$TS_END] Ingest + manifest pipeline finished." | tee -a "$LOG_DIR/ingest_cron.log"
 else
   echo "[$TS_END] Ingest failed with code $EXIT_CODE" | tee -a "$LOG_DIR/ingest_cron.log"
 fi

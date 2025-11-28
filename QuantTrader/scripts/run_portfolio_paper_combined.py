@@ -6,6 +6,8 @@ from __future__ import annotations
 import argparse
 import json
 import signal
+import time
+import urllib.request
 from dataclasses import dataclass, field
 from pathlib import Path
 from queue import Empty, Queue
@@ -78,6 +80,26 @@ def compute_qty(cfg: Dict, weight: float, total_cash: float, max_qty_mult: float
     return qty
 
 
+def _format_labels(labels: Dict[str, str]) -> str:
+    return ",".join(f'{k}="{v}"' for k, v in labels.items())
+
+
+def push_metrics(push_url: Optional[str], job: str, metrics: Dict[str, float], labels: Dict[str, str]) -> None:
+    if not push_url:
+        return
+    if not metrics:
+        return
+    try:
+        label_str = _format_labels(labels)
+        lines = [f"{name}{{{label_str}}} {value}" for name, value in metrics.items()]
+        body = "\n".join(lines) + "\n"
+        url = push_url.rstrip("/") + f"/metrics/job/{job}"
+        req = urllib.request.Request(url, data=body.encode("utf-8"), method="PUT")
+        urllib.request.urlopen(req, timeout=2)
+    except Exception as exc:
+        logger.warning("[Metrics] Pushgateway push failed: %s", exc)
+
+
 @dataclass
 class SleeveContext:
     name: str
@@ -118,7 +140,7 @@ class SleeveContext:
         if self.initial_cash:
             ret_pct = (final_equity / self.initial_cash - 1.0) * 100.0
         logger.info(
-            "[Paper][%s] Bars processed=%d, Trades=%d, Final equity=%.2f (%.2f%%)",
+            "[Paper][{}] Bars processed={} Trades={} Final equity={:.2f} ({:.2f}%)",
             self.symbol,
             self.engine.bar_count,
             self.engine.trade_count,
@@ -213,6 +235,28 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Optional per-symbol ledger mapping (SYMBOL=path).",
     )
+    ap.add_argument(
+        "--pushgateway",
+        default=os.environ.get("PUSHGATEWAY_URL"),
+        help="Pushgateway base URL for metrics (optional).",
+    )
+    ap.add_argument(
+        "--metrics-job",
+        default="paper_combined",
+        help="Prometheus job name when pushing metrics.",
+    )
+    ap.add_argument(
+        "--metrics-interval",
+        type=int,
+        default=10,
+        help="Push metrics every N aggregated bars (per sleeve).",
+    )
+    ap.add_argument(
+        "--heartbeat-interval",
+        type=float,
+        default=30.0,
+        help="Push heartbeat every N seconds even without new bars.",
+    )
     return ap.parse_args()
 
 
@@ -235,33 +279,34 @@ def warmup_engine(cfg: Dict, args: argparse.Namespace, context: SleeveContext) -
         return
     try:
         warm_df = pd.read_csv(warmup_csv)
-        if "time" in warm_df and {"open", "high", "low", "close"}.issubset(warm_df.columns):
-            warm_df["ts"] = pd.to_datetime(warm_df["time"], utc=True)
-            tail = warm_df.tail(args.warmup_bars)
-            for _, row in tail.iterrows():
-                bar_ev = {
-                    "type": "bar",
-                    "symbol": context.symbol,
-                    "ts": row["ts"],
-                    "open": float(row["open"]),
-                    "high": float(row["high"]),
-                    "low": float(row["low"]),
-                    "close": float(row["close"]),
-                    "volume": float(row["volume"]) if "volume" in row else 0.0,
-                }
-                context.engine.handle_bar(bar_ev)
-            logger.info(
-                "[Warmup][%s] Loaded %d bars from %s",
-                context.symbol,
-                len(tail),
-                warmup_csv,
-            )
-        else:
+        has_cols = "time" in warm_df and {"open", "high", "low", "close"}.issubset(warm_df.columns)
+        if not has_cols:
             logger.warning(
                 "[Warmup][%s] CSV %s missing columns time/open/high/low/close; skipping",
                 context.symbol,
                 warmup_csv,
             )
+            return
+        warm_df["ts"] = pd.to_datetime(warm_df["time"], utc=True)
+        tail = warm_df.tail(args.warmup_bars)
+        for _, row in tail.iterrows():
+            bar_ev = {
+                "type": "bar",
+                "symbol": context.symbol,
+                "ts": row["ts"],
+                "open": float(row["open"]),
+                "high": float(row["high"]),
+                "low": float(row["low"]),
+                "close": float(row["close"]),
+                "volume": float(row["volume"]) if "volume" in row else 0.0,
+            }
+            context.engine.handle_bar(bar_ev)
+        logger.info(
+            "[Warmup][{}] Loaded {} bars from {}",
+            context.symbol,
+            len(tail),
+            warmup_csv,
+        )
     except Exception as exc:
         logger.warning(
             "[Warmup][%s] Failed to warmup from %s: %s",
@@ -364,7 +409,7 @@ def main() -> None:
         symbol = cfg.get("symbol", "EURUSD").upper().replace("/", "").replace("_", "")
         if risk_profile.risk_scale != 1.0:
             logger.info(
-                "[RISK][%s] risk_scale=%.3f applied (base %.0f -> scaled %.0f)",
+                "[RISK][{}] risk_scale={:.3f} applied (base {:.0f} -> scaled {:.0f})",
                 symbol,
                 risk_profile.risk_scale,
                 base_qty,
@@ -405,7 +450,7 @@ def main() -> None:
         sleeves.append(ctx)
         symbols.append(resolved_symbol)
         logger.info(
-            "[PLAN] %s weight=%.4f qty=%.0f symbol=%s",
+            "[PLAN] {} weight={:.4f} qty={:.0f} symbol={}",
             cfg_name,
             weight,
             scaled_qty,
@@ -442,12 +487,26 @@ def main() -> None:
 
     total_bars = 0
     bars_since_kill = 0
+    last_heartbeat = time.time()
 
     try:
         while not stop_flag:
             try:
                 tick = tick_queue.get(timeout=1.0)
             except Empty:
+                # Heartbeat even without ticks
+                now = time.time()
+                if args.pushgateway and args.heartbeat_interval > 0 and now - last_heartbeat >= args.heartbeat_interval:
+                    last_heartbeat = now
+                    push_metrics(
+                        args.pushgateway,
+                        args.metrics_job,
+                        {
+                            "fx_heartbeat": 1,
+                            "fx_heartbeat_ts": now,
+                        },
+                        {"symbol": "ALL", "environment": args.environment},
+                    )
                 continue
             if not isinstance(tick, TickEvent):
                 continue
@@ -460,6 +519,31 @@ def main() -> None:
                 ctx.handle_bar(bar)
                 total_bars += 1
                 bars_since_kill += 1
+                if args.metrics_interval and args.pushgateway and ctx.bars_processed % args.metrics_interval == 0:
+                    try:
+                        equity = ctx.engine._current_equity(bar["close"], bar["ts"])
+                    except Exception:
+                        equity = ctx.engine.cash
+                    position_units = getattr(ctx.engine, "position_units", 0.0)
+                    notional = 0.0
+                    try:
+                        notional = float(position_units) * float(bar.get("close", 0.0))
+                    except Exception:
+                        notional = 0.0
+                    metrics_payload = {
+                        "fx_heartbeat": 1,
+                        "fx_heartbeat_ts": time.time(),
+                        "fx_equity": equity,
+                        "fx_position_units": position_units,
+                        "fx_notional_est": notional,
+                        "fx_trade_count": ctx.engine.trade_count,
+                        "fx_bars_processed": ctx.bars_processed,
+                    }
+                    labels = {
+                        "symbol": ctx.symbol,
+                        "environment": args.environment,
+                    }
+                    push_metrics(args.pushgateway, args.metrics_job, metrics_payload, labels)
                 if args.max_bars and ctx.bars_processed >= args.max_bars:
                     logger.info(
                         "[Paper][%s] Reached max bars %d; stopping.",
@@ -478,6 +562,12 @@ def main() -> None:
                         reason = kill_switch.should_trigger(snapshot)
                         if reason:
                             kill_switch.log_trigger(reason)
+                            push_metrics(
+                                args.pushgateway,
+                                args.metrics_job,
+                                {"fx_kill_switch_tripped": 1},
+                                {"symbol": ctx.symbol, "environment": args.environment, "reason": reason},
+                            )
                             stop_flag = True
                             break
     finally:
