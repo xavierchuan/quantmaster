@@ -172,4 +172,4 @@ Quant_Master/
 
 ## Contact
 
-Built by Xiaochuan Li — [GitHub](https://github.com/xavierchuan) | [LinkedIn](https://linkedin.com/in/xiaochuan-li)
+Built by Xiaochuan Li — [GitHub](https://github.com/xavierchuan) | [LinkedIn](https://www.linkedin.com/in/xiaochuan-li-finance/)
